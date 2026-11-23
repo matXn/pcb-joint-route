@@ -1,0 +1,38 @@
+{
+  "repository": "Jana-Marie/anotter-sensor-hub",
+  "revision": "37d2efe854fc6ef036985b8bb3c4b2ab064ad6c1",
+  "family": "jana-marie",
+  "source_url": "https://github.com/Jana-Marie/anotter-sensor-hub/blob/37d2efe854fc6ef036985b8bb3c4b2ab064ad6c1/anotter-sensor-hub.kicad_pcb",
+  "source_location": "https://github.com/Jana-Marie/anotter-sensor-hub/tree/37d2efe854fc6ef036985b8bb3c4b2ab064ad6c1",
+  "license": "CERN-OHL-S-2.0",
+  "license_url": "https://github.com/Jana-Marie/anotter-sensor-hub/blob/37d2efe854fc6ef036985b8bb3c4b2ab064ad6c1/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/Jana-Marie__anotter-sensor-hub__anotter-sensor-hub/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "16b4e77abb73ff34c268a42d5fa7c4b1a9bfa4141062ed35b66c87ea1ba772f4",
+      "git_blob": "f41a935581f2b7b50663682d6d50591a0b412847",
+      "bytes": 708171,
+      "source_url": "https://github.com/Jana-Marie/anotter-sensor-hub/blob/37d2efe854fc6ef036985b8bb3c4b2ab064ad6c1/anotter-sensor-hub.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "35b210d003e2687830720fa533f2e174448adc573a4adba1cceae3f8816b5012",
+      "git_blob": "364c873d7fa0b5ee7dbd7922a3b130d710669650",
+      "bytes": 13420,
+      "source_url": "https://github.com/Jana-Marie/anotter-sensor-hub/blob/37d2efe854fc6ef036985b8bb3c4b2ab064ad6c1/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "1a4f43924bfc8afe797507a1d6c9de306f505486ab1457647856f1ae22c89157",
+      "git_blob": "59532d08c4695ab1f117400ec88457d38e291567",
+      "bytes": 9371,
+      "source_url": "https://github.com/Jana-Marie/anotter-sensor-hub/blob/37d2efe854fc6ef036985b8bb3c4b2ab064ad6c1/anotter-sensor-hub.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "18352fe90df4c27b782950456f15ba46136c0cd5bbc6734da321106aab7ed29d",
+      "git_blob": "96207d1091137dd9f9f309cf90468baf51e7e5d7",
+      "bytes": 1132,
+      "source_url": "https://github.com/Jana-Marie/anotter-sensor-hub/blob/37d2efe854fc6ef036985b8bb3c4b2ab064ad6c1/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

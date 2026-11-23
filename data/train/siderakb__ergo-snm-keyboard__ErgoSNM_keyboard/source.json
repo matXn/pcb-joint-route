@@ -1,0 +1,44 @@
+{
+  "repository": "siderakb/ergo-snm-keyboard",
+  "revision": "20e9e51e9f52749140369968b2bf5e741bf063b0",
+  "family": "siderakb",
+  "source_url": "https://github.com/siderakb/ergo-snm-keyboard/blob/20e9e51e9f52749140369968b2bf5e741bf063b0/ErgoSNM_Keyboard/rev1/ErgoSNM_keyboard.kicad_pcb",
+  "source_location": "https://github.com/siderakb/ergo-snm-keyboard/tree/20e9e51e9f52749140369968b2bf5e741bf063b0",
+  "license": "CERN-OHL-P-2.0",
+  "license_url": "https://github.com/siderakb/ergo-snm-keyboard/blob/20e9e51e9f52749140369968b2bf5e741bf063b0/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/siderakb__ergo-snm-keyboard__ErgoSNM_keyboard/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "83c99160c5005b425481f0ef8fab3345cc8b250a57d46d2b6e9d2adc575185a8",
+      "git_blob": "14f19fe9709fcbe2b15e331da30f47f316aeb2cf",
+      "bytes": 4450780,
+      "source_url": "https://github.com/siderakb/ergo-snm-keyboard/blob/20e9e51e9f52749140369968b2bf5e741bf063b0/ErgoSNM_Keyboard/rev1/ErgoSNM_keyboard.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "6e471d647db50527d0c75ee5f1a55a74012ab177c73282bef0bdc7f6562b7ded",
+      "git_blob": "4fe041e077a8179e50d8d068fb5803cf1f80abba",
+      "bytes": 8852,
+      "source_url": "https://github.com/siderakb/ergo-snm-keyboard/blob/20e9e51e9f52749140369968b2bf5e741bf063b0/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "618ad45b2236eb96fa45d3e7fd4a9bc6df4cb734077bbdbab2891cd6b091c485",
+      "git_blob": "6924febeb38792c8a606266e1d3295ccbd95f30b",
+      "bytes": 10291,
+      "source_url": "https://github.com/siderakb/ergo-snm-keyboard/blob/20e9e51e9f52749140369968b2bf5e741bf063b0/ErgoSNM_Keyboard/rev1/ErgoSNM_keyboard.kicad_pro"
+    },
+    "upstream/board.kicad_dru": {
+      "sha256": "cd13cd43ca8d7728f75566b240a6dec1afc0311eda49c45324859b35651a6967",
+      "git_blob": "000f654a17da97423636d11d3970f2bdfff5432f",
+      "bytes": 2404,
+      "source_url": "https://github.com/siderakb/ergo-snm-keyboard/blob/20e9e51e9f52749140369968b2bf5e741bf063b0/ErgoSNM_Keyboard/rev1/ErgoSNM_keyboard.kicad_dru"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "1287133d327ea72be12a383dfdcbc723db39e0567e81cb8f787006e485547ac0",
+      "git_blob": "01dd93f52475cf93d9286e9820d4ced796d39de5",
+      "bytes": 2683,
+      "source_url": "https://github.com/siderakb/ergo-snm-keyboard/blob/20e9e51e9f52749140369968b2bf5e741bf063b0/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

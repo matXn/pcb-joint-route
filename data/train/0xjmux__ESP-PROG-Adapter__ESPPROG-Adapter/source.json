@@ -1,0 +1,38 @@
+{
+  "repository": "0xjmux/ESP-PROG-Adapter",
+  "revision": "4a74ef898489da83ddcd2ad42852188cf0471b6c",
+  "family": "0xjmux/esp-prog-adapter",
+  "source_url": "https://github.com/0xjmux/ESP-PROG-Adapter/blob/4a74ef898489da83ddcd2ad42852188cf0471b6c/PCB/ESPPROG-Adapter.kicad_pcb",
+  "source_location": "https://github.com/0xjmux/ESP-PROG-Adapter/tree/4a74ef898489da83ddcd2ad42852188cf0471b6c",
+  "license": "CERN-OHL-P-2.0",
+  "license_url": "https://github.com/0xjmux/ESP-PROG-Adapter/blob/4a74ef898489da83ddcd2ad42852188cf0471b6c/LICENSE.md",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/0xjmux__ESP-PROG-Adapter__ESPPROG-Adapter/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "ae642bcd06219a6e14f81daf045ca7a7292661b8573317a0289c62c9eae33fea",
+      "git_blob": "6c5ced568fdc8d9432860ef634bb966460716281",
+      "bytes": 439127,
+      "source_url": "https://github.com/0xjmux/ESP-PROG-Adapter/blob/4a74ef898489da83ddcd2ad42852188cf0471b6c/PCB/ESPPROG-Adapter.kicad_pcb"
+    },
+    "upstream/LICENSE.md": {
+      "sha256": "6e471d647db50527d0c75ee5f1a55a74012ab177c73282bef0bdc7f6562b7ded",
+      "git_blob": "4fe041e077a8179e50d8d068fb5803cf1f80abba",
+      "bytes": 8852,
+      "source_url": "https://github.com/0xjmux/ESP-PROG-Adapter/blob/4a74ef898489da83ddcd2ad42852188cf0471b6c/LICENSE.md"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "8f6255accbb2f5bbf53e1aa151bb544ee107ec48eb3760250a6c7d22d483d82e",
+      "git_blob": "d95bdc279d20b1d8aed8332b1249c57279ee9cee",
+      "bytes": 14666,
+      "source_url": "https://github.com/0xjmux/ESP-PROG-Adapter/blob/4a74ef898489da83ddcd2ad42852188cf0471b6c/PCB/ESPPROG-Adapter.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "353ec34cf0829f295763733163849236348fa7a859c58b1cf1d98807a1cb7cd6",
+      "git_blob": "d640dfdd39688e92fd537e47129f7f519772300e",
+      "bytes": 12145,
+      "source_url": "https://github.com/0xjmux/ESP-PROG-Adapter/blob/4a74ef898489da83ddcd2ad42852188cf0471b6c/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

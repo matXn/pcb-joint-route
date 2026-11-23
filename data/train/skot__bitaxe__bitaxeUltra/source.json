@@ -1,0 +1,38 @@
+{
+  "repository": "skot/bitaxe",
+  "revision": "942bbd97aab09b12d826c6e82c64f3fb91246c4c",
+  "family": "skot/bitaxe",
+  "source_url": "https://github.com/skot/bitaxe/blob/942bbd97aab09b12d826c6e82c64f3fb91246c4c/bitaxeUltra.kicad_pcb",
+  "source_location": "https://github.com/skot/bitaxe/tree/942bbd97aab09b12d826c6e82c64f3fb91246c4c",
+  "license": "CERN-OHL-S-2.0",
+  "license_url": "https://github.com/skot/bitaxe/blob/942bbd97aab09b12d826c6e82c64f3fb91246c4c/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/skot__bitaxe__bitaxeUltra/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "267a1aa4475efa098e13af90b2f5280f69b5e9ed2fc7f71da87dccb56a8adec9",
+      "git_blob": "b2ad0fa4d55f04237b680595c5b4f5c35ec7d69e",
+      "bytes": 1247002,
+      "source_url": "https://github.com/skot/bitaxe/blob/942bbd97aab09b12d826c6e82c64f3fb91246c4c/bitaxeUltra.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "253ad3f89603e728abfa60c36fbcaf8225cf55c1eab12725f19fb3d74d647f3a",
+      "git_blob": "0f1092207caa645ff426e0cc40b7eaad69caecb1",
+      "bytes": 13419,
+      "source_url": "https://github.com/skot/bitaxe/blob/942bbd97aab09b12d826c6e82c64f3fb91246c4c/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "e61abbae8855e833fdb8a0016d85da30efe7058d81522790d41f3eaddfbe0013",
+      "git_blob": "8bf52b70c4bac56fcccb6d1b0677cb36f879b3e6",
+      "bytes": 13536,
+      "source_url": "https://github.com/skot/bitaxe/blob/942bbd97aab09b12d826c6e82c64f3fb91246c4c/bitaxeUltra.kicad_pro"
+    },
+    "upstream/notices/readme.md": {
+      "sha256": "6f7c2df3fef16192882fb3ca5d82abb738e5a77884e352388b8bd968369a48cf",
+      "git_blob": "eb97f2f8b486232e8ae62724c828dcaaa26e9b47",
+      "bytes": 5083,
+      "source_url": "https://github.com/skot/bitaxe/blob/942bbd97aab09b12d826c6e82c64f3fb91246c4c/readme.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

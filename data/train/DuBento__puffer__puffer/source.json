@@ -1,0 +1,38 @@
+{
+  "repository": "DuBento/puffer",
+  "revision": "e288155c1c43fd52f8dade53253e152bc546906e",
+  "family": "dubento/puffer",
+  "source_url": "https://github.com/DuBento/puffer/blob/e288155c1c43fd52f8dade53253e152bc546906e/pcb/puffer.kicad_pcb",
+  "source_location": "https://github.com/DuBento/puffer/tree/e288155c1c43fd52f8dade53253e152bc546906e",
+  "license": "CERN-OHL-P-2.0",
+  "license_url": "https://github.com/DuBento/puffer/blob/e288155c1c43fd52f8dade53253e152bc546906e/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/DuBento__puffer__puffer/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "5c0180efaca9537bc3df3e7d13ad44bb3183cc04f9617285da366a4cfeffd053",
+      "git_blob": "ea8caa285b75f60b33c3b66252eb973edb08d6e3",
+      "bytes": 1894006,
+      "source_url": "https://github.com/DuBento/puffer/blob/e288155c1c43fd52f8dade53253e152bc546906e/pcb/puffer.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "6e471d647db50527d0c75ee5f1a55a74012ab177c73282bef0bdc7f6562b7ded",
+      "git_blob": "4fe041e077a8179e50d8d068fb5803cf1f80abba",
+      "bytes": 8852,
+      "source_url": "https://github.com/DuBento/puffer/blob/e288155c1c43fd52f8dade53253e152bc546906e/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "d60230f15372e4d2c4254698bfe03ae2c818b4b0a6c8f56fd13f9648520f32fd",
+      "git_blob": "1dd887f35ca03a492c83e48d79892e1b8e68fb87",
+      "bytes": 14805,
+      "source_url": "https://github.com/DuBento/puffer/blob/e288155c1c43fd52f8dade53253e152bc546906e/pcb/puffer.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "e26ab9fb100e12ca160bcf1e39d04299da03194e66513b9ac98043419bc36411",
+      "git_blob": "c382b43d43124d3f2886efd73bbde713a4d0ee06",
+      "bytes": 1018,
+      "source_url": "https://github.com/DuBento/puffer/blob/e288155c1c43fd52f8dade53253e152bc546906e/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

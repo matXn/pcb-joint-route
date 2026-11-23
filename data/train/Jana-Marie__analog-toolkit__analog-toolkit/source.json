@@ -1,0 +1,38 @@
+{
+  "repository": "Jana-Marie/analog-toolkit",
+  "revision": "c97bcc3512fb96a0b8f981e363db583b22aa6423",
+  "family": "jana-marie",
+  "source_url": "https://github.com/Jana-Marie/analog-toolkit/blob/c97bcc3512fb96a0b8f981e363db583b22aa6423/analog-toolkit.kicad_pcb",
+  "source_location": "https://github.com/Jana-Marie/analog-toolkit/tree/c97bcc3512fb96a0b8f981e363db583b22aa6423",
+  "license": "CERN-OHL-S-2.0",
+  "license_url": "https://github.com/Jana-Marie/analog-toolkit/blob/c97bcc3512fb96a0b8f981e363db583b22aa6423/LICENSE.md",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/Jana-Marie__analog-toolkit__analog-toolkit/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "457cf57615788b4026e789b24eb4b532c2a6576df9c172fb9ad038a0754aa8fd",
+      "git_blob": "1d59bf6370536cbc044246aa69083f8b8716db77",
+      "bytes": 2648420,
+      "source_url": "https://github.com/Jana-Marie/analog-toolkit/blob/c97bcc3512fb96a0b8f981e363db583b22aa6423/analog-toolkit.kicad_pcb"
+    },
+    "upstream/LICENSE.md": {
+      "sha256": "253ad3f89603e728abfa60c36fbcaf8225cf55c1eab12725f19fb3d74d647f3a",
+      "git_blob": "0f1092207caa645ff426e0cc40b7eaad69caecb1",
+      "bytes": 13419,
+      "source_url": "https://github.com/Jana-Marie/analog-toolkit/blob/c97bcc3512fb96a0b8f981e363db583b22aa6423/LICENSE.md"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "650485d25c594859ea9db08cfc1335023b7337e449438e275416a7154084954c",
+      "git_blob": "5147812b5499a9f82cf13169e2313664412c3d7b",
+      "bytes": 17756,
+      "source_url": "https://github.com/Jana-Marie/analog-toolkit/blob/c97bcc3512fb96a0b8f981e363db583b22aa6423/analog-toolkit.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "3d9663264905b3b43848b5cddfb204d66101e84126ed9be472e5042ebbe86ec8",
+      "git_blob": "48c6869837165c8409ffc36723967012610b7e3a",
+      "bytes": 2921,
+      "source_url": "https://github.com/Jana-Marie/analog-toolkit/blob/c97bcc3512fb96a0b8f981e363db583b22aa6423/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

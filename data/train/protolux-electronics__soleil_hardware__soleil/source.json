@@ -1,0 +1,44 @@
+{
+  "repository": "protolux-electronics/soleil_hardware",
+  "revision": "8c7c922c1e5248b8808cf1ac2964644eca952a06",
+  "family": "protolux-electronics",
+  "source_url": "https://github.com/protolux-electronics/soleil_hardware/blob/8c7c922c1e5248b8808cf1ac2964644eca952a06/soleil.kicad_pcb",
+  "source_location": "https://github.com/protolux-electronics/soleil_hardware/tree/8c7c922c1e5248b8808cf1ac2964644eca952a06",
+  "license": "CERN-OHL-P-2.0",
+  "license_url": "https://github.com/protolux-electronics/soleil_hardware/blob/8c7c922c1e5248b8808cf1ac2964644eca952a06/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/protolux-electronics__soleil_hardware__soleil/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "db34b1893a12a9d5ee59f5cc58a4aea197a4ab1d6bd7d2b59cc186c7ceb4d55e",
+      "git_blob": "85c0b12f3b1fee425e9bb991935e11cb9b68be71",
+      "bytes": 2143207,
+      "source_url": "https://github.com/protolux-electronics/soleil_hardware/blob/8c7c922c1e5248b8808cf1ac2964644eca952a06/soleil.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "6e471d647db50527d0c75ee5f1a55a74012ab177c73282bef0bdc7f6562b7ded",
+      "git_blob": "4fe041e077a8179e50d8d068fb5803cf1f80abba",
+      "bytes": 8852,
+      "source_url": "https://github.com/protolux-electronics/soleil_hardware/blob/8c7c922c1e5248b8808cf1ac2964644eca952a06/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "84e888f77e9c3cd2d0f4932966d5723f5c8c29c7fe0ea57b5c1c3c1bb35686d3",
+      "git_blob": "cb88378daad8ae3b2ab436b24e1290f0bf294851",
+      "bytes": 18723,
+      "source_url": "https://github.com/protolux-electronics/soleil_hardware/blob/8c7c922c1e5248b8808cf1ac2964644eca952a06/soleil.kicad_pro"
+    },
+    "upstream/board.kicad_dru": {
+      "sha256": "9aa4ea7865ccd1d4d1925f518fdb214238d52a26170563ad369d25ae5bd7521e",
+      "git_blob": "7f124dce0cbb9ed9a55ba32561dc165e28856b19",
+      "bytes": 1442,
+      "source_url": "https://github.com/protolux-electronics/soleil_hardware/blob/8c7c922c1e5248b8808cf1ac2964644eca952a06/soleil.kicad_dru"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "a0b858ba81fb418df1d3ee3be5921f598a4e63c10d515eac305d786fb828c328",
+      "git_blob": "6340264b7d03fff505fc0220b50e5bc5f81440aa",
+      "bytes": 2923,
+      "source_url": "https://github.com/protolux-electronics/soleil_hardware/blob/8c7c922c1e5248b8808cf1ac2964644eca952a06/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

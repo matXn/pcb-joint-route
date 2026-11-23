@@ -1,0 +1,1003 @@
+{
+  "board": "ESP32-S3-MINI-1",
+  "revision": "V1.1",
+  "split": "test",
+  "board_size_mm": [
+    15.4,
+    20.5
+  ],
+  "source_archive_sha256": "bdbe1f4863b0955866e98677a760fcbbc305267e26301a3e628976bd12bab28b",
+  "source_url": "https://github.com/espressif/esp-hardware-design-guidelines/blob/master/docs/_static/esp32s3/esp32-s3-mini-1_reference_design.zip",
+  "source_copper_layers": [
+    "F.Cu",
+    "In1.Cu",
+    "In2.Cu",
+    "B.Cu"
+  ],
+  "target_layers": [
+    "F.Cu",
+    "B.Cu"
+  ],
+  "targets": [
+    "GPIO0",
+    "GPIO1",
+    "GPIO2",
+    "GPIO3",
+    "GPIO4",
+    "GPIO5",
+    "GPIO6",
+    "GPIO7",
+    "GPIO8",
+    "GPIO9",
+    "GPIO10",
+    "GPIO11",
+    "GPIO12",
+    "GPIO13",
+    "GPIO14",
+    "GPIO15",
+    "GPIO16",
+    "GPIO17",
+    "GPIO18",
+    "GPIO19",
+    "GPIO20",
+    "GPIO21",
+    "GPIO26",
+    "GPIO33",
+    "GPIO34",
+    "GPIO35",
+    "GPIO36",
+    "GPIO37",
+    "GPIO38",
+    "GPIO39",
+    "GPIO40",
+    "GPIO41",
+    "GPIO42",
+    "GPIO45",
+    "GPIO46",
+    "GPIO47",
+    "GPIO48"
+  ],
+  "trace_directions_deg": [
+    0,
+    45,
+    90,
+    135,
+    180,
+    225,
+    270,
+    315
+  ],
+  "rules_mm": {
+    "width": 0.127,
+    "clearance": 0.127,
+    "via": 0.40005,
+    "edge": 0.254,
+    "drill": 0.249936,
+    "track_gap": 0.127,
+    "track_edge": 0.254,
+    "hole_clearance": 0.127
+  },
+  "through_vias_only": true,
+  "via_in_pad": false,
+  "antenna_guard_y_max_mm": 5.24749,
+  "origin_mm": [
+    0.0,
+    2.7
+  ],
+  "step_mm": 0.05,
+  "shape_yx": [
+    357,
+    309
+  ],
+  "terminals": [
+    {
+      "net_index": 0,
+      "net": "GPIO0",
+      "ref": "U1",
+      "pad": "5",
+      "x_mm": 5.671332,
+      "y_mm": 11.106904,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 0
+    },
+    {
+      "net_index": 0,
+      "net": "GPIO0",
+      "ref": "U2",
+      "pad": "4",
+      "x_mm": 0.7,
+      "y_mm": 9.4,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 1
+    },
+    {
+      "net_index": 1,
+      "net": "GPIO1",
+      "ref": "U1",
+      "pad": "6",
+      "x_mm": 5.388489,
+      "y_mm": 11.389747,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 2
+    },
+    {
+      "net_index": 1,
+      "net": "GPIO1",
+      "ref": "U2",
+      "pad": "5",
+      "x_mm": 0.7,
+      "y_mm": 10.25,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 3
+    },
+    {
+      "net_index": 2,
+      "net": "GPIO2",
+      "ref": "U1",
+      "pad": "7",
+      "x_mm": 5.105647,
+      "y_mm": 11.67259,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 4
+    },
+    {
+      "net_index": 2,
+      "net": "GPIO2",
+      "ref": "U2",
+      "pad": "6",
+      "x_mm": 0.7,
+      "y_mm": 11.1,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 5
+    },
+    {
+      "net_index": 3,
+      "net": "GPIO3",
+      "ref": "U1",
+      "pad": "8",
+      "x_mm": 4.822804,
+      "y_mm": 11.955433,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 6
+    },
+    {
+      "net_index": 3,
+      "net": "GPIO3",
+      "ref": "U2",
+      "pad": "7",
+      "x_mm": 0.7,
+      "y_mm": 11.95,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 7
+    },
+    {
+      "net_index": 4,
+      "net": "GPIO4",
+      "ref": "U1",
+      "pad": "9",
+      "x_mm": 4.539961,
+      "y_mm": 12.238275,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 8
+    },
+    {
+      "net_index": 4,
+      "net": "GPIO4",
+      "ref": "U2",
+      "pad": "8",
+      "x_mm": 0.7,
+      "y_mm": 12.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 9
+    },
+    {
+      "net_index": 5,
+      "net": "GPIO5",
+      "ref": "U1",
+      "pad": "10",
+      "x_mm": 4.257118,
+      "y_mm": 12.521118,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 10
+    },
+    {
+      "net_index": 5,
+      "net": "GPIO5",
+      "ref": "U2",
+      "pad": "9",
+      "x_mm": 0.7,
+      "y_mm": 13.65,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 11
+    },
+    {
+      "net_index": 6,
+      "net": "GPIO6",
+      "ref": "U1",
+      "pad": "11",
+      "x_mm": 3.974276,
+      "y_mm": 12.803961,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 12
+    },
+    {
+      "net_index": 6,
+      "net": "GPIO6",
+      "ref": "U2",
+      "pad": "10",
+      "x_mm": 0.7,
+      "y_mm": 14.5,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 13
+    },
+    {
+      "net_index": 7,
+      "net": "GPIO7",
+      "ref": "U1",
+      "pad": "12",
+      "x_mm": 3.691433,
+      "y_mm": 13.086803,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 14
+    },
+    {
+      "net_index": 7,
+      "net": "GPIO7",
+      "ref": "U2",
+      "pad": "11",
+      "x_mm": 0.7,
+      "y_mm": 15.35,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 15
+    },
+    {
+      "net_index": 8,
+      "net": "GPIO8",
+      "ref": "U1",
+      "pad": "13",
+      "x_mm": 3.40859,
+      "y_mm": 13.369646,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 16
+    },
+    {
+      "net_index": 8,
+      "net": "GPIO8",
+      "ref": "U2",
+      "pad": "12",
+      "x_mm": 0.7,
+      "y_mm": 16.2,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 17
+    },
+    {
+      "net_index": 9,
+      "net": "GPIO9",
+      "ref": "U1",
+      "pad": "14",
+      "x_mm": 3.125748,
+      "y_mm": 13.652489,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 18
+    },
+    {
+      "net_index": 9,
+      "net": "GPIO9",
+      "ref": "U2",
+      "pad": "13",
+      "x_mm": 0.7,
+      "y_mm": 17.05,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 19
+    },
+    {
+      "net_index": 10,
+      "net": "GPIO10",
+      "ref": "U1",
+      "pad": "15",
+      "x_mm": 3.125748,
+      "y_mm": 14.819215,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 20
+    },
+    {
+      "net_index": 10,
+      "net": "GPIO10",
+      "ref": "U2",
+      "pad": "14",
+      "x_mm": 0.7,
+      "y_mm": 17.9,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 21
+    },
+    {
+      "net_index": 11,
+      "net": "GPIO11",
+      "ref": "U1",
+      "pad": "16",
+      "x_mm": 3.40859,
+      "y_mm": 15.102058,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 22
+    },
+    {
+      "net_index": 11,
+      "net": "GPIO11",
+      "ref": "U2",
+      "pad": "15",
+      "x_mm": 0.7,
+      "y_mm": 18.75,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 23
+    },
+    {
+      "net_index": 12,
+      "net": "GPIO12",
+      "ref": "U1",
+      "pad": "17",
+      "x_mm": 3.691433,
+      "y_mm": 15.384901,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 24
+    },
+    {
+      "net_index": 12,
+      "net": "GPIO12",
+      "ref": "U2",
+      "pad": "16",
+      "x_mm": 1.75,
+      "y_mm": 19.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 25
+    },
+    {
+      "net_index": 13,
+      "net": "GPIO13",
+      "ref": "U1",
+      "pad": "18",
+      "x_mm": 3.974276,
+      "y_mm": 15.667743,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 26
+    },
+    {
+      "net_index": 13,
+      "net": "GPIO13",
+      "ref": "U2",
+      "pad": "17",
+      "x_mm": 2.6,
+      "y_mm": 19.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 27
+    },
+    {
+      "net_index": 14,
+      "net": "GPIO14",
+      "ref": "U1",
+      "pad": "19",
+      "x_mm": 4.257118,
+      "y_mm": 15.950586,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 28
+    },
+    {
+      "net_index": 14,
+      "net": "GPIO14",
+      "ref": "U2",
+      "pad": "18",
+      "x_mm": 3.45,
+      "y_mm": 19.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 29
+    },
+    {
+      "net_index": 15,
+      "net": "GPIO15",
+      "ref": "U1",
+      "pad": "21",
+      "x_mm": 4.822804,
+      "y_mm": 16.516271,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 30
+    },
+    {
+      "net_index": 15,
+      "net": "GPIO15",
+      "ref": "U2",
+      "pad": "19",
+      "x_mm": 4.3,
+      "y_mm": 19.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 31
+    },
+    {
+      "net_index": 16,
+      "net": "GPIO16",
+      "ref": "U1",
+      "pad": "22",
+      "x_mm": 5.105647,
+      "y_mm": 16.799114,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 32
+    },
+    {
+      "net_index": 16,
+      "net": "GPIO16",
+      "ref": "U2",
+      "pad": "20",
+      "x_mm": 5.15,
+      "y_mm": 19.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 33
+    },
+    {
+      "net_index": 17,
+      "net": "GPIO17",
+      "ref": "U1",
+      "pad": "23",
+      "x_mm": 5.388489,
+      "y_mm": 17.081957,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 34
+    },
+    {
+      "net_index": 17,
+      "net": "GPIO17",
+      "ref": "U2",
+      "pad": "21",
+      "x_mm": 6.0,
+      "y_mm": 19.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 35
+    },
+    {
+      "net_index": 18,
+      "net": "GPIO18",
+      "ref": "U1",
+      "pad": "24",
+      "x_mm": 5.671332,
+      "y_mm": 17.3648,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 36
+    },
+    {
+      "net_index": 18,
+      "net": "GPIO18",
+      "ref": "U2",
+      "pad": "22",
+      "x_mm": 6.85,
+      "y_mm": 19.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 37
+    },
+    {
+      "net_index": 19,
+      "net": "GPIO19",
+      "ref": "U1",
+      "pad": "25",
+      "x_mm": 5.954175,
+      "y_mm": 17.647642,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 38
+    },
+    {
+      "net_index": 19,
+      "net": "GPIO19",
+      "ref": "U2",
+      "pad": "23",
+      "x_mm": 7.7,
+      "y_mm": 19.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 39
+    },
+    {
+      "net_index": 20,
+      "net": "GPIO20",
+      "ref": "U1",
+      "pad": "26",
+      "x_mm": 6.237017,
+      "y_mm": 17.930485,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 40
+    },
+    {
+      "net_index": 20,
+      "net": "GPIO20",
+      "ref": "U2",
+      "pad": "24",
+      "x_mm": 8.55,
+      "y_mm": 19.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 41
+    },
+    {
+      "net_index": 21,
+      "net": "GPIO21",
+      "ref": "U1",
+      "pad": "27",
+      "x_mm": 6.51986,
+      "y_mm": 18.213328,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 42
+    },
+    {
+      "net_index": 21,
+      "net": "GPIO21",
+      "ref": "U2",
+      "pad": "25",
+      "x_mm": 9.4,
+      "y_mm": 19.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 43
+    },
+    {
+      "net_index": 22,
+      "net": "GPIO26",
+      "ref": "U1",
+      "pad": "28",
+      "x_mm": 6.802703,
+      "y_mm": 18.49617,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 44
+    },
+    {
+      "net_index": 22,
+      "net": "GPIO26",
+      "ref": "U2",
+      "pad": "26",
+      "x_mm": 10.25,
+      "y_mm": 19.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 45
+    },
+    {
+      "net_index": 23,
+      "net": "GPIO33",
+      "ref": "U1",
+      "pad": "38",
+      "x_mm": 10.515014,
+      "y_mm": 15.950586,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 46
+    },
+    {
+      "net_index": 23,
+      "net": "GPIO33",
+      "ref": "U2",
+      "pad": "28",
+      "x_mm": 11.95,
+      "y_mm": 19.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 47
+    },
+    {
+      "net_index": 24,
+      "net": "GPIO34",
+      "ref": "U1",
+      "pad": "39",
+      "x_mm": 10.797856,
+      "y_mm": 15.667743,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 48
+    },
+    {
+      "net_index": 24,
+      "net": "GPIO34",
+      "ref": "U2",
+      "pad": "29",
+      "x_mm": 12.8,
+      "y_mm": 19.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 49
+    },
+    {
+      "net_index": 25,
+      "net": "GPIO35",
+      "ref": "U1",
+      "pad": "40",
+      "x_mm": 11.080699,
+      "y_mm": 15.384901,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 50
+    },
+    {
+      "net_index": 25,
+      "net": "GPIO35",
+      "ref": "U2",
+      "pad": "31",
+      "x_mm": 14.7,
+      "y_mm": 18.75,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 51
+    },
+    {
+      "net_index": 26,
+      "net": "GPIO36",
+      "ref": "U1",
+      "pad": "41",
+      "x_mm": 11.363542,
+      "y_mm": 15.102058,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 52
+    },
+    {
+      "net_index": 26,
+      "net": "GPIO36",
+      "ref": "U2",
+      "pad": "32",
+      "x_mm": 14.7,
+      "y_mm": 17.9,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 53
+    },
+    {
+      "net_index": 27,
+      "net": "GPIO37",
+      "ref": "U1",
+      "pad": "42",
+      "x_mm": 11.646384,
+      "y_mm": 14.819215,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 54
+    },
+    {
+      "net_index": 27,
+      "net": "GPIO37",
+      "ref": "U2",
+      "pad": "33",
+      "x_mm": 14.7,
+      "y_mm": 17.05,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 55
+    },
+    {
+      "net_index": 28,
+      "net": "GPIO38",
+      "ref": "U1",
+      "pad": "43",
+      "x_mm": 11.646384,
+      "y_mm": 13.652489,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 56
+    },
+    {
+      "net_index": 28,
+      "net": "GPIO38",
+      "ref": "U2",
+      "pad": "34",
+      "x_mm": 14.7,
+      "y_mm": 16.2,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 57
+    },
+    {
+      "net_index": 29,
+      "net": "GPIO39",
+      "ref": "U1",
+      "pad": "44",
+      "x_mm": 11.363542,
+      "y_mm": 13.369646,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 58
+    },
+    {
+      "net_index": 29,
+      "net": "GPIO39",
+      "ref": "U2",
+      "pad": "35",
+      "x_mm": 14.7,
+      "y_mm": 15.35,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 59
+    },
+    {
+      "net_index": 30,
+      "net": "GPIO40",
+      "ref": "U1",
+      "pad": "45",
+      "x_mm": 11.080699,
+      "y_mm": 13.086803,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 60
+    },
+    {
+      "net_index": 30,
+      "net": "GPIO40",
+      "ref": "U2",
+      "pad": "36",
+      "x_mm": 14.7,
+      "y_mm": 14.5,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 61
+    },
+    {
+      "net_index": 31,
+      "net": "GPIO41",
+      "ref": "U1",
+      "pad": "47",
+      "x_mm": 10.515014,
+      "y_mm": 12.521118,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 62
+    },
+    {
+      "net_index": 31,
+      "net": "GPIO41",
+      "ref": "U2",
+      "pad": "37",
+      "x_mm": 14.7,
+      "y_mm": 13.65,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 63
+    },
+    {
+      "net_index": 32,
+      "net": "GPIO42",
+      "ref": "U1",
+      "pad": "48",
+      "x_mm": 10.232171,
+      "y_mm": 12.238275,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 64
+    },
+    {
+      "net_index": 32,
+      "net": "GPIO42",
+      "ref": "U2",
+      "pad": "38",
+      "x_mm": 14.7,
+      "y_mm": 12.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 65
+    },
+    {
+      "net_index": 33,
+      "net": "GPIO45",
+      "ref": "R1",
+      "pad": "2",
+      "x_mm": 13.330936,
+      "y_mm": 13.9976,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 66
+    },
+    {
+      "net_index": 33,
+      "net": "GPIO45",
+      "ref": "U1",
+      "pad": "51",
+      "x_mm": 9.383643,
+      "y_mm": 11.389747,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 67
+    },
+    {
+      "net_index": 33,
+      "net": "GPIO45",
+      "ref": "U2",
+      "pad": "41",
+      "x_mm": 14.7,
+      "y_mm": 10.25,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 68
+    },
+    {
+      "net_index": 34,
+      "net": "GPIO46",
+      "ref": "U1",
+      "pad": "52",
+      "x_mm": 9.1008,
+      "y_mm": 11.106904,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 69
+    },
+    {
+      "net_index": 34,
+      "net": "GPIO46",
+      "ref": "U2",
+      "pad": "44",
+      "x_mm": 14.7,
+      "y_mm": 7.7,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 70
+    },
+    {
+      "net_index": 35,
+      "net": "GPIO47",
+      "ref": "U1",
+      "pad": "37",
+      "x_mm": 10.232171,
+      "y_mm": 16.233429,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 71
+    },
+    {
+      "net_index": 35,
+      "net": "GPIO47",
+      "ref": "U2",
+      "pad": "27",
+      "x_mm": 11.1,
+      "y_mm": 19.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 72
+    },
+    {
+      "net_index": 36,
+      "net": "GPIO48",
+      "ref": "U1",
+      "pad": "36",
+      "x_mm": 9.949328,
+      "y_mm": 16.516271,
+      "layers": [
+        "F.Cu"
+      ],
+      "contact_index": 73
+    },
+    {
+      "net_index": 36,
+      "net": "GPIO48",
+      "ref": "U2",
+      "pad": "30",
+      "x_mm": 13.65,
+      "y_mm": 19.8,
+      "layers": [
+        "B.Cu"
+      ],
+      "contact_index": 74
+    }
+  ],
+  "grid_sha256": "1f8ac9cc466fa0a207f23471a3b758cbe4e066cb4e74e670dc34476a6fbf1171",
+  "test_input": "Target segments, arcs, vias and zone copper absent before computing masks.",
+  "normalization": "Grid millimetres are relative to the upper-left edge of the board, y increases down.",
+  "split_check": {
+    "training_board_count": 30,
+    "duplicate_family": 0,
+    "original_corpus_board_signatures_checked": 43,
+    "matched_layer_agnostic_signatures": 0
+  }
+}

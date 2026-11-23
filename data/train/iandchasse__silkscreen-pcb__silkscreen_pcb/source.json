@@ -1,0 +1,44 @@
+{
+  "repository": "iandchasse/silkscreen-pcb",
+  "revision": "b448b3988f0ef222cb5296c1e17d8c121f7934df",
+  "family": "iandchasse/silkscreen-pcb",
+  "source_url": "https://github.com/iandchasse/silkscreen-pcb/blob/b448b3988f0ef222cb5296c1e17d8c121f7934df/silkscreen_pcb.kicad_pcb",
+  "source_location": "https://github.com/iandchasse/silkscreen-pcb/tree/b448b3988f0ef222cb5296c1e17d8c121f7934df",
+  "license": "CERN-OHL-S-2.0",
+  "license_url": "https://github.com/iandchasse/silkscreen-pcb/blob/b448b3988f0ef222cb5296c1e17d8c121f7934df/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/iandchasse__silkscreen-pcb__silkscreen_pcb/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "95876e1cc7a0569194cd710e9191105e8199e79c6d6a282a06dd30cb0b0900d3",
+      "git_blob": "976575787167bcb5ce4d6be71dd70f41708579fc",
+      "bytes": 5130495,
+      "source_url": "https://github.com/iandchasse/silkscreen-pcb/blob/b448b3988f0ef222cb5296c1e17d8c121f7934df/silkscreen_pcb.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "d6475a84171f0cf7ff52667dea714df268fc65cea42f0bf328b0b70d4cd0ebab",
+      "git_blob": "114486fd9446c39da1b69101597e25e33877fca6",
+      "bytes": 13419,
+      "source_url": "https://github.com/iandchasse/silkscreen-pcb/blob/b448b3988f0ef222cb5296c1e17d8c121f7934df/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "246c2649293baa4795e0ce632c2b796624ab6a7f899669990fd91d3f8982d3ec",
+      "git_blob": "12b3c2ad31acf907dd0d85315061f622c0d87123",
+      "bytes": 30419,
+      "source_url": "https://github.com/iandchasse/silkscreen-pcb/blob/b448b3988f0ef222cb5296c1e17d8c121f7934df/silkscreen_pcb.kicad_pro"
+    },
+    "upstream/notices/NOTICE": {
+      "sha256": "4ee5965f00bd6012c836191b8c948420b85595b474e86e38c7bf1e1804e65a1b",
+      "git_blob": "70e39582557e88f977927b4a11e6cbec6b410406",
+      "bytes": 1482,
+      "source_url": "https://github.com/iandchasse/silkscreen-pcb/blob/b448b3988f0ef222cb5296c1e17d8c121f7934df/NOTICE"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "f2b60b8dc5903f3eaa8262578824cb7cfd67b58175b03248e65bd653afc05230",
+      "git_blob": "dc528ec7aac4278ec2f3b8e6f997cd02896feaf2",
+      "bytes": 40166,
+      "source_url": "https://github.com/iandchasse/silkscreen-pcb/blob/b448b3988f0ef222cb5296c1e17d8c121f7934df/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

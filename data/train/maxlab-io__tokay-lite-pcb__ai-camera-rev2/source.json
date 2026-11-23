@@ -1,0 +1,38 @@
+{
+  "repository": "maxlab-io/tokay-lite-pcb",
+  "revision": "fd04d94a332d745ad4c09e4e2da0fbb61fde3218",
+  "family": "maxlab-io/tokay-lite-pcb",
+  "source_url": "https://github.com/maxlab-io/tokay-lite-pcb/blob/fd04d94a332d745ad4c09e4e2da0fbb61fde3218/ai-camera-rev2/ai-camera-rev2.kicad_pcb",
+  "source_location": "https://github.com/maxlab-io/tokay-lite-pcb/tree/fd04d94a332d745ad4c09e4e2da0fbb61fde3218",
+  "license": "CERN-OHL-P-2.0",
+  "license_url": "https://github.com/maxlab-io/tokay-lite-pcb/blob/fd04d94a332d745ad4c09e4e2da0fbb61fde3218/LICENSE.txt",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/maxlab-io__tokay-lite-pcb__ai-camera-rev2/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "6172038b0af1010e524d9f3807576c02fa573e52ad8f24e1d3f08791a454dc01",
+      "git_blob": "cd4f06d9ad31940aae8a5e55bb4d65338a44fa29",
+      "bytes": 2193699,
+      "source_url": "https://github.com/maxlab-io/tokay-lite-pcb/blob/fd04d94a332d745ad4c09e4e2da0fbb61fde3218/ai-camera-rev2/ai-camera-rev2.kicad_pcb"
+    },
+    "upstream/LICENSE.txt": {
+      "sha256": "6e471d647db50527d0c75ee5f1a55a74012ab177c73282bef0bdc7f6562b7ded",
+      "git_blob": "4fe041e077a8179e50d8d068fb5803cf1f80abba",
+      "bytes": 8852,
+      "source_url": "https://github.com/maxlab-io/tokay-lite-pcb/blob/fd04d94a332d745ad4c09e4e2da0fbb61fde3218/LICENSE.txt"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "8bf4182a5471be8bfa30c5422b1e8973557a3aac78ad5a34ac2d5267c947939c",
+      "git_blob": "6e87fd9c627fef429a301fd437686128a93ea0c8",
+      "bytes": 14019,
+      "source_url": "https://github.com/maxlab-io/tokay-lite-pcb/blob/fd04d94a332d745ad4c09e4e2da0fbb61fde3218/ai-camera-rev2/ai-camera-rev2.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "ccc650f3a21407cecc2682f5aa7e763469434b243c10dacf564b2148f0e04213",
+      "git_blob": "15f3b0b1505836d5c70fd4942ea1286aa32889f5",
+      "bytes": 2676,
+      "source_url": "https://github.com/maxlab-io/tokay-lite-pcb/blob/fd04d94a332d745ad4c09e4e2da0fbb61fde3218/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

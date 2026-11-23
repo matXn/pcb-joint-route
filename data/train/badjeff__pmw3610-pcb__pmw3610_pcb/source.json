@@ -1,0 +1,38 @@
+{
+  "repository": "badjeff/pmw3610-pcb",
+  "revision": "b6f9f8fc26e2dd74b436263ade3f558f8940fec9",
+  "family": "pointing-sensor-breakouts",
+  "source_url": "https://github.com/badjeff/pmw3610-pcb/blob/b6f9f8fc26e2dd74b436263ade3f558f8940fec9/pmw3610_pcb.kicad_pcb",
+  "source_location": "https://github.com/badjeff/pmw3610-pcb/tree/b6f9f8fc26e2dd74b436263ade3f558f8940fec9",
+  "license": "CERN-OHL-P-2.0",
+  "license_url": "https://github.com/badjeff/pmw3610-pcb/blob/b6f9f8fc26e2dd74b436263ade3f558f8940fec9/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/badjeff__pmw3610-pcb__pmw3610_pcb/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "28082c95e6fad8bffe00132a43e17b739a0ff3c40acb8c1e882eb84e1c038ded",
+      "git_blob": "ed3762cee2e724f2a37fe674303bfeb903a98635",
+      "bytes": 101906,
+      "source_url": "https://github.com/badjeff/pmw3610-pcb/blob/b6f9f8fc26e2dd74b436263ade3f558f8940fec9/pmw3610_pcb.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "6e471d647db50527d0c75ee5f1a55a74012ab177c73282bef0bdc7f6562b7ded",
+      "git_blob": "4fe041e077a8179e50d8d068fb5803cf1f80abba",
+      "bytes": 8852,
+      "source_url": "https://github.com/badjeff/pmw3610-pcb/blob/b6f9f8fc26e2dd74b436263ade3f558f8940fec9/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "3ccc38546058c5253f0914be65ecb040d1e2c5781365ce641091ba92a9cf767e",
+      "git_blob": "0d490d855a8cacde81a524e9675fec8cb0f683a4",
+      "bytes": 14463,
+      "source_url": "https://github.com/badjeff/pmw3610-pcb/blob/b6f9f8fc26e2dd74b436263ade3f558f8940fec9/pmw3610_pcb.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "369c9cec3d18347ce0c13f57154d6bf48ab6d4336d75247d3acd12a1451bed67",
+      "git_blob": "b2540378309536e1ae7872d22648fc6a51d50e1e",
+      "bytes": 1743,
+      "source_url": "https://github.com/badjeff/pmw3610-pcb/blob/b6f9f8fc26e2dd74b436263ade3f558f8940fec9/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

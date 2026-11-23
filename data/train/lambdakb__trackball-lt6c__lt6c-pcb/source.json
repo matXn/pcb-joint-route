@@ -1,0 +1,44 @@
+{
+  "repository": "lambdakb/trackball-lt6c",
+  "revision": "2328841de21d646e5fa739f153b63118d66e7699",
+  "family": "lambdakb/trackball-lt6c",
+  "source_url": "https://github.com/lambdakb/trackball-lt6c/blob/2328841de21d646e5fa739f153b63118d66e7699/pcb/lt6c-pcb.kicad_pcb",
+  "source_location": "https://github.com/lambdakb/trackball-lt6c/tree/2328841de21d646e5fa739f153b63118d66e7699",
+  "license": "CERN-OHL-S-2.0",
+  "license_url": "https://github.com/lambdakb/trackball-lt6c/blob/2328841de21d646e5fa739f153b63118d66e7699/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/lambdakb__trackball-lt6c__lt6c-pcb/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "68ee4eb1791556db603fcaed9c21943dd53dd596fa3d5864cd4e4413b34152c0",
+      "git_blob": "ae2ffa86a5b2a39e4fe16d57e0db0607619e8752",
+      "bytes": 865991,
+      "source_url": "https://github.com/lambdakb/trackball-lt6c/blob/2328841de21d646e5fa739f153b63118d66e7699/pcb/lt6c-pcb.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "253ad3f89603e728abfa60c36fbcaf8225cf55c1eab12725f19fb3d74d647f3a",
+      "git_blob": "0f1092207caa645ff426e0cc40b7eaad69caecb1",
+      "bytes": 13419,
+      "source_url": "https://github.com/lambdakb/trackball-lt6c/blob/2328841de21d646e5fa739f153b63118d66e7699/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "90acda1d6098405b7c1f9ab701f92c5b6fab57bc2678f6afd8f9fe048be18017",
+      "git_blob": "f950abd91f76956f744af148cb07e3f9cdc18b68",
+      "bytes": 15896,
+      "source_url": "https://github.com/lambdakb/trackball-lt6c/blob/2328841de21d646e5fa739f153b63118d66e7699/pcb/lt6c-pcb.kicad_pro"
+    },
+    "upstream/board.kicad_dru": {
+      "sha256": "2aa84d2edef006b7f2136d97932d5a03de46d90b4be1fcc46cea702ad05be814",
+      "git_blob": "ba38bcc00e5509ad75414a4328118268e74a8d6b",
+      "bytes": 3154,
+      "source_url": "https://github.com/lambdakb/trackball-lt6c/blob/2328841de21d646e5fa739f153b63118d66e7699/pcb/lt6c-pcb.kicad_dru"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "ab2b9ba2fc9c048e8c47f8ee1f410c30b2f0978a7830dafc9bdb6337c6076d14",
+      "git_blob": "d5d16d75538e502a75a230625e018cd6b34bd241",
+      "bytes": 11570,
+      "source_url": "https://github.com/lambdakb/trackball-lt6c/blob/2328841de21d646e5fa739f153b63118d66e7699/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

@@ -1,0 +1,44 @@
+{
+  "repository": "siderakb/calcite",
+  "revision": "7f050f32910d2c6fc9c757f1fdb8f7da6e80d6e1",
+  "family": "siderakb",
+  "source_url": "https://github.com/siderakb/calcite/blob/7f050f32910d2c6fc9c757f1fdb8f7da6e80d6e1/Calcite52/pcb/Calcite52.kicad_pcb",
+  "source_location": "https://github.com/siderakb/calcite/tree/7f050f32910d2c6fc9c757f1fdb8f7da6e80d6e1",
+  "license": "CERN-OHL-P-2.0",
+  "license_url": "https://github.com/siderakb/calcite/blob/7f050f32910d2c6fc9c757f1fdb8f7da6e80d6e1/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/siderakb__calcite__Calcite52/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "a19d578037eb5b82c92a5c2f3bed28bb06600e1b4bdf525ce43e69862d21cce1",
+      "git_blob": "428496a4687def0f8bd3121b1285c23c0fa9d5a7",
+      "bytes": 3762794,
+      "source_url": "https://github.com/siderakb/calcite/blob/7f050f32910d2c6fc9c757f1fdb8f7da6e80d6e1/Calcite52/pcb/Calcite52.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "6e471d647db50527d0c75ee5f1a55a74012ab177c73282bef0bdc7f6562b7ded",
+      "git_blob": "4fe041e077a8179e50d8d068fb5803cf1f80abba",
+      "bytes": 8852,
+      "source_url": "https://github.com/siderakb/calcite/blob/7f050f32910d2c6fc9c757f1fdb8f7da6e80d6e1/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "5433bf2cc6ef2f7a4930a8da46a61b37386335e9798c75a949bdd3ab46b05263",
+      "git_blob": "14999078f4bde3e58776d24e527142b42c7831d8",
+      "bytes": 14334,
+      "source_url": "https://github.com/siderakb/calcite/blob/7f050f32910d2c6fc9c757f1fdb8f7da6e80d6e1/Calcite52/pcb/Calcite52.kicad_pro"
+    },
+    "upstream/notices/Calcite52/readme.md": {
+      "sha256": "c2cefc7c93905cbf4e215d2f99232c35bc952080b1dfdb6c8310ede532658982",
+      "git_blob": "161509a9b3606e5a0ec98c38c4daf0d35a632897",
+      "bytes": 1805,
+      "source_url": "https://github.com/siderakb/calcite/blob/7f050f32910d2c6fc9c757f1fdb8f7da6e80d6e1/Calcite52/readme.md"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "0c04e32e4b9c403c0374456254d63bc42441b95073f3f93c308ea2bf14dc615d",
+      "git_blob": "d6e1e973033b27ddf9950f02dbbea66be73e532b",
+      "bytes": 885,
+      "source_url": "https://github.com/siderakb/calcite/blob/7f050f32910d2c6fc9c757f1fdb8f7da6e80d6e1/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

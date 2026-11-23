@@ -1,0 +1,38 @@
+{
+  "repository": "protolux-electronics/trellis_core",
+  "revision": "db4fe71623c14bcea47d7457d0db4c99d3899124",
+  "family": "protolux-electronics",
+  "source_url": "https://github.com/protolux-electronics/trellis_core/blob/db4fe71623c14bcea47d7457d0db4c99d3899124/src/trellis_core.kicad_pcb",
+  "source_location": "https://github.com/protolux-electronics/trellis_core/tree/db4fe71623c14bcea47d7457d0db4c99d3899124",
+  "license": "CERN-OHL-P-2.0",
+  "license_url": "https://github.com/protolux-electronics/trellis_core/blob/db4fe71623c14bcea47d7457d0db4c99d3899124/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/protolux-electronics__trellis_core__trellis_core/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "3c640f77fb7e53b45115bb746899b73bd673e92b3919ef3056e4a0f0ba4f994d",
+      "git_blob": "d63b0c9f78b7cd6eebaddb4488c83136baea8de8",
+      "bytes": 1240950,
+      "source_url": "https://github.com/protolux-electronics/trellis_core/blob/db4fe71623c14bcea47d7457d0db4c99d3899124/src/trellis_core.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "6e471d647db50527d0c75ee5f1a55a74012ab177c73282bef0bdc7f6562b7ded",
+      "git_blob": "4fe041e077a8179e50d8d068fb5803cf1f80abba",
+      "bytes": 8852,
+      "source_url": "https://github.com/protolux-electronics/trellis_core/blob/db4fe71623c14bcea47d7457d0db4c99d3899124/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "5657419e4136e70c0948457186a8d79ed0a79177afbc8920b2cee437f8c4339a",
+      "git_blob": "bdf8ec4052d7d8d9fbff7a835dd5c25701bf1010",
+      "bytes": 17134,
+      "source_url": "https://github.com/protolux-electronics/trellis_core/blob/db4fe71623c14bcea47d7457d0db4c99d3899124/src/trellis_core.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "d2831b774bc1a0162fc67d970122c4b9eca4d3f807b14eb26ee2365b56f4eb15",
+      "git_blob": "846f46b05647f7ca7eff87c3ebbe800417bd531e",
+      "bytes": 8119,
+      "source_url": "https://github.com/protolux-electronics/trellis_core/blob/db4fe71623c14bcea47d7457d0db4c99d3899124/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

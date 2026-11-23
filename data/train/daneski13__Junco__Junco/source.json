@@ -1,0 +1,50 @@
+{
+  "repository": "daneski13/Junco",
+  "revision": "c68394ccee7ded60ace0b9c5d51e27eb902a2379",
+  "family": "daneski13/junco",
+  "source_url": "https://github.com/daneski13/Junco/blob/c68394ccee7ded60ace0b9c5d51e27eb902a2379/PCB/Junco.kicad_pcb",
+  "source_location": "https://github.com/daneski13/Junco/tree/c68394ccee7ded60ace0b9c5d51e27eb902a2379",
+  "license": "CERN-OHL-P-2.0",
+  "license_url": "https://github.com/daneski13/Junco/blob/c68394ccee7ded60ace0b9c5d51e27eb902a2379/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/daneski13__Junco__Junco/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "150da960c9c3266d54dbd26590124d862feef65ac2e69ff570d050a04b3be0ba",
+      "git_blob": "9e2d7542be09b575a9f8df2074ab8519e65df148",
+      "bytes": 6827260,
+      "source_url": "https://github.com/daneski13/Junco/blob/c68394ccee7ded60ace0b9c5d51e27eb902a2379/PCB/Junco.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "5c82236273f7fa5d569c152951904c711f549cb786e829bc489486c41838255f",
+      "git_blob": "2eb39e803bc26dd5aca7adb1a471b48602f834e4",
+      "bytes": 8851,
+      "source_url": "https://github.com/daneski13/Junco/blob/c68394ccee7ded60ace0b9c5d51e27eb902a2379/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "5f0afa4b85c8b4ed1a727b1ce6d7f1629a4f1efebe6635c1f3f624102ff9c7ee",
+      "git_blob": "bb11296d9c36abb41d61f4e139f505627f4ec675",
+      "bytes": 12669,
+      "source_url": "https://github.com/daneski13/Junco/blob/c68394ccee7ded60ace0b9c5d51e27eb902a2379/PCB/Junco.kicad_pro"
+    },
+    "upstream/board.kicad_dru": {
+      "sha256": "c2e3075522d1ffa648d61d236da0909a247c14dd79063e9acc9b26f8ed50a273",
+      "git_blob": "4f4d8d33742484ee0221c5164f18222f855d0913",
+      "bytes": 173,
+      "source_url": "https://github.com/daneski13/Junco/blob/c68394ccee7ded60ace0b9c5d51e27eb902a2379/PCB/Junco.kicad_dru"
+    },
+    "upstream/notices/NOTICE.md": {
+      "sha256": "07e49dc5bf1da4ecb846030bd101dc2b60ef748e086808ed6a31315dc332a1ad",
+      "git_blob": "18892cb2156170589328d6a48e630c8f42c907e6",
+      "bytes": 12717,
+      "source_url": "https://github.com/daneski13/Junco/blob/c68394ccee7ded60ace0b9c5d51e27eb902a2379/NOTICE.md"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "8a4c9b0df5cc28038b197f665e696532ef5e1510157410b471f73156bfc2a290",
+      "git_blob": "5d3910cc32346e2f4267cb922ba6d1feba721252",
+      "bytes": 35999,
+      "source_url": "https://github.com/daneski13/Junco/blob/c68394ccee7ded60ace0b9c5d51e27eb902a2379/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

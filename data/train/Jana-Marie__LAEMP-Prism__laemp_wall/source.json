@@ -1,0 +1,38 @@
+{
+  "repository": "Jana-Marie/LAEMP-Prism",
+  "revision": "783e40adbe1b97a7b2482d0d3aacb02353aec361",
+  "family": "jana-marie",
+  "source_url": "https://github.com/Jana-Marie/LAEMP-Prism/blob/783e40adbe1b97a7b2482d0d3aacb02353aec361/laemp_wall/laemp_wall.kicad_pcb",
+  "source_location": "https://github.com/Jana-Marie/LAEMP-Prism/tree/783e40adbe1b97a7b2482d0d3aacb02353aec361",
+  "license": "CERN-OHL-S-2.0",
+  "license_url": "https://github.com/Jana-Marie/LAEMP-Prism/blob/783e40adbe1b97a7b2482d0d3aacb02353aec361/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/Jana-Marie__LAEMP-Prism__laemp_wall/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "6c18034346af83bfde1371764edb6ff861022e7c58a1c090a02ae90c7c6ee948",
+      "git_blob": "6600b2584ca2c75a0c8f1ba9b7dafdc89a430dce",
+      "bytes": 1150949,
+      "source_url": "https://github.com/Jana-Marie/LAEMP-Prism/blob/783e40adbe1b97a7b2482d0d3aacb02353aec361/laemp_wall/laemp_wall.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "35b210d003e2687830720fa533f2e174448adc573a4adba1cceae3f8816b5012",
+      "git_blob": "364c873d7fa0b5ee7dbd7922a3b130d710669650",
+      "bytes": 13420,
+      "source_url": "https://github.com/Jana-Marie/LAEMP-Prism/blob/783e40adbe1b97a7b2482d0d3aacb02353aec361/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "77ad4cc83c556e52c1efb761e72c61fd6009da05600ed4bd8d8ff6185b587bf3",
+      "git_blob": "cdbb491b67e280a0bbb5f13057c36418ee6fcf2b",
+      "bytes": 9455,
+      "source_url": "https://github.com/Jana-Marie/LAEMP-Prism/blob/783e40adbe1b97a7b2482d0d3aacb02353aec361/laemp_wall/laemp_wall.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "39b37a4a5d32b54a0db52a557618f523421f1f8f668e71755513cef3ef4f0b40",
+      "git_blob": "057f3f231455459624ecbe568b0d2cdd4a458aff",
+      "bytes": 5407,
+      "source_url": "https://github.com/Jana-Marie/LAEMP-Prism/blob/783e40adbe1b97a7b2482d0d3aacb02353aec361/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

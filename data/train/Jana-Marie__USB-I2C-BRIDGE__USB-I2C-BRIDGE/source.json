@@ -1,0 +1,38 @@
+{
+  "repository": "Jana-Marie/USB-I2C-BRIDGE",
+  "revision": "a772e442bc656c8fbef76fd51cd5546343f9e1ef",
+  "family": "jana-marie",
+  "source_url": "https://github.com/Jana-Marie/USB-I2C-BRIDGE/blob/a772e442bc656c8fbef76fd51cd5546343f9e1ef/USB-I2C-BRIDGE.kicad_pcb",
+  "source_location": "https://github.com/Jana-Marie/USB-I2C-BRIDGE/tree/a772e442bc656c8fbef76fd51cd5546343f9e1ef",
+  "license": "CERN-OHL-S-2.0",
+  "license_url": "https://github.com/Jana-Marie/USB-I2C-BRIDGE/blob/a772e442bc656c8fbef76fd51cd5546343f9e1ef/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/Jana-Marie__USB-I2C-BRIDGE__USB-I2C-BRIDGE/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "f6afa96c5270856412caef2d7231e99e89447f7dffa381ce63994a15cd7b3ab7",
+      "git_blob": "3db954ad335bf9b0b277ce9bc4aaa431ea6a23df",
+      "bytes": 279776,
+      "source_url": "https://github.com/Jana-Marie/USB-I2C-BRIDGE/blob/a772e442bc656c8fbef76fd51cd5546343f9e1ef/USB-I2C-BRIDGE.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "253ad3f89603e728abfa60c36fbcaf8225cf55c1eab12725f19fb3d74d647f3a",
+      "git_blob": "0f1092207caa645ff426e0cc40b7eaad69caecb1",
+      "bytes": 13419,
+      "source_url": "https://github.com/Jana-Marie/USB-I2C-BRIDGE/blob/a772e442bc656c8fbef76fd51cd5546343f9e1ef/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "d6b20f4c7027bdb9756ca63a31e9fbf0fa84776898b0ab886ef7b44dafd5d6e7",
+      "git_blob": "c852c629776e93f8bd160c3c9980b2ee2ddbf6ba",
+      "bytes": 9614,
+      "source_url": "https://github.com/Jana-Marie/USB-I2C-BRIDGE/blob/a772e442bc656c8fbef76fd51cd5546343f9e1ef/USB-I2C-BRIDGE.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "f5f5909d939331c9214c20b84f261b252237201ab4e544fc3274e9ef0d867534",
+      "git_blob": "5f47cb88ffd0aba525a0f43d59334fa9f2e26e8c",
+      "bytes": 81,
+      "source_url": "https://github.com/Jana-Marie/USB-I2C-BRIDGE/blob/a772e442bc656c8fbef76fd51cd5546343f9e1ef/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

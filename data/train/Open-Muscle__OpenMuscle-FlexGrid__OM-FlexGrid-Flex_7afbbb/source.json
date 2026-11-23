@@ -1,0 +1,50 @@
+{
+  "repository": "Open-Muscle/OpenMuscle-FlexGrid",
+  "revision": "912e6e615c1f123141933a465c620f1a636692f0",
+  "family": "open-muscle/openmuscle-flexgrid",
+  "source_url": "https://github.com/Open-Muscle/OpenMuscle-FlexGrid/blob/912e6e615c1f123141933a465c620f1a636692f0/KiCad/OM-FlexGrid%20V1/OM-FlexGrid-Flex/OM-FlexGrid-Flex.kicad_pcb",
+  "source_location": "https://github.com/Open-Muscle/OpenMuscle-FlexGrid/tree/912e6e615c1f123141933a465c620f1a636692f0",
+  "license": "CERN-OHL-S-2.0",
+  "license_url": "https://github.com/Open-Muscle/OpenMuscle-FlexGrid/blob/912e6e615c1f123141933a465c620f1a636692f0/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/Open-Muscle__OpenMuscle-FlexGrid__OM-FlexGrid-Flex_7afbbb/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "c3f6afb858e7b78ab8745b82fc5f292b0079cde82850b61df4915292f191810b",
+      "git_blob": "7afbbb449695b63d86912856a6093c8819e8993e",
+      "bytes": 3733276,
+      "source_url": "https://github.com/Open-Muscle/OpenMuscle-FlexGrid/blob/912e6e615c1f123141933a465c620f1a636692f0/KiCad/OM-FlexGrid%20V1/OM-FlexGrid-Flex/OM-FlexGrid-Flex.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "74b9eb311539e8cacf59f31401a47fb653d544a1594103b823888d3b57a3b9eb",
+      "git_blob": "f1edf3d6f68e3de2b1ff7cce5793a24ec391e530",
+      "bytes": 13554,
+      "source_url": "https://github.com/Open-Muscle/OpenMuscle-FlexGrid/blob/912e6e615c1f123141933a465c620f1a636692f0/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "10eafd243d1867790feba58612f8d46081daaa55650f0764724fda3bd949e72f",
+      "git_blob": "3982d1418cfad0320f871b21372e6dc7a2d64755",
+      "bytes": 15214,
+      "source_url": "https://github.com/Open-Muscle/OpenMuscle-FlexGrid/blob/912e6e615c1f123141933a465c620f1a636692f0/KiCad/OM-FlexGrid%20V1/OM-FlexGrid-Flex/OM-FlexGrid-Flex.kicad_pro"
+    },
+    "upstream/notices/KiCad/OM-FlexGrid V1/README.md": {
+      "sha256": "0efba2746c627d934b5a796ca2d11ea5a58e20b32d1802965675d30615971803",
+      "git_blob": "ca041e726dc2cda4636c49486b5bbfce488a0e16",
+      "bytes": 3436,
+      "source_url": "https://github.com/Open-Muscle/OpenMuscle-FlexGrid/blob/912e6e615c1f123141933a465c620f1a636692f0/KiCad/OM-FlexGrid%20V1/README.md"
+    },
+    "upstream/notices/KiCad/README.md": {
+      "sha256": "1f667900593abff77788540b6126cbb081ff41e5a9e6ef5eb266c94f3c49b58a",
+      "git_blob": "51101e4c3eaf80a3cef4ffe070d899614e3431a0",
+      "bytes": 2433,
+      "source_url": "https://github.com/Open-Muscle/OpenMuscle-FlexGrid/blob/912e6e615c1f123141933a465c620f1a636692f0/KiCad/README.md"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "acdc58d6454a7d7ba5dbcf4400febf34bc5e8f4575a9163df5519a5374e7f94c",
+      "git_blob": "69ccc5a2add591b0e91939c0efab1f50a8f06ab6",
+      "bytes": 6519,
+      "source_url": "https://github.com/Open-Muscle/OpenMuscle-FlexGrid/blob/912e6e615c1f123141933a465c620f1a636692f0/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

@@ -1,0 +1,38 @@
+{
+  "repository": "mprosk/mtg_life_counter",
+  "revision": "cacf154bdebce5b228b69c656290dcfb7af31fa9",
+  "family": "mprosk/mtg_life_counter",
+  "source_url": "https://github.com/mprosk/mtg_life_counter/blob/cacf154bdebce5b228b69c656290dcfb7af31fa9/pcb/mtg_life_counter.kicad_pcb",
+  "source_location": "https://github.com/mprosk/mtg_life_counter/tree/cacf154bdebce5b228b69c656290dcfb7af31fa9",
+  "license": "CERN-OHL-S-2.0",
+  "license_url": "https://github.com/mprosk/mtg_life_counter/blob/cacf154bdebce5b228b69c656290dcfb7af31fa9/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/mprosk__mtg_life_counter__mtg_life_counter/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "2a15ebdbcbb34b694a0f4248362827ee81ab369142a75f8c970d691dffa15939",
+      "git_blob": "d0236dfcd3649c6c80deadd1be9458261625a07e",
+      "bytes": 1328433,
+      "source_url": "https://github.com/mprosk/mtg_life_counter/blob/cacf154bdebce5b228b69c656290dcfb7af31fa9/pcb/mtg_life_counter.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "7f5f157ad0ef933d9fb61ef69aba5a13f9e65d6d3519da10f9e2e5ff0e01d7e1",
+      "git_blob": "ddc48237fdfd9c5deed5678e0a30967990254e7d",
+      "bytes": 13276,
+      "source_url": "https://github.com/mprosk/mtg_life_counter/blob/cacf154bdebce5b228b69c656290dcfb7af31fa9/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "3c386a8ba5682163545e521e8dfb740615d5e20f0bd035e777026aa7667c206d",
+      "git_blob": "aceb6c130226a3d9f3e22cc69799c844d504d4f2",
+      "bytes": 25812,
+      "source_url": "https://github.com/mprosk/mtg_life_counter/blob/cacf154bdebce5b228b69c656290dcfb7af31fa9/pcb/mtg_life_counter.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "69d11b71bf5370bbe2dfb83cef130d908fe28caf3e808bbe260e31575e654b52",
+      "git_blob": "bf7585201ab4ae7eeeabdceed1e9ccca2ba1ae33",
+      "bytes": 4048,
+      "source_url": "https://github.com/mprosk/mtg_life_counter/blob/cacf154bdebce5b228b69c656290dcfb7af31fa9/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

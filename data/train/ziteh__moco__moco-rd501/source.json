@@ -1,0 +1,44 @@
+{
+  "repository": "ziteh/moco",
+  "revision": "e0caae5762ac5f7731c79ccb5e8fe11ee3f4468e",
+  "family": "ziteh/moco",
+  "source_url": "https://github.com/ziteh/moco/blob/e0caae5762ac5f7731c79ccb5e8fe11ee3f4468e/hardware/moco-rd501/moco-rd501.kicad_pcb",
+  "source_location": "https://github.com/ziteh/moco/tree/e0caae5762ac5f7731c79ccb5e8fe11ee3f4468e",
+  "license": "CERN-OHL-P-2.0",
+  "license_url": "https://github.com/ziteh/moco/blob/e0caae5762ac5f7731c79ccb5e8fe11ee3f4468e/LICENSE-CERN-OHL-P",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/ziteh__moco__moco-rd501/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "b34b23c25ce93d0e7cbc375baaf2692137cfcf94905181f8896a0641d57f17be",
+      "git_blob": "60f33c6a61a53a3ee9788716699a820926e19d78",
+      "bytes": 2133117,
+      "source_url": "https://github.com/ziteh/moco/blob/e0caae5762ac5f7731c79ccb5e8fe11ee3f4468e/hardware/moco-rd501/moco-rd501.kicad_pcb"
+    },
+    "upstream/LICENSE-CERN-OHL-P": {
+      "sha256": "6e471d647db50527d0c75ee5f1a55a74012ab177c73282bef0bdc7f6562b7ded",
+      "git_blob": "4fe041e077a8179e50d8d068fb5803cf1f80abba",
+      "bytes": 8852,
+      "source_url": "https://github.com/ziteh/moco/blob/e0caae5762ac5f7731c79ccb5e8fe11ee3f4468e/LICENSE-CERN-OHL-P"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "9ea0c4adbe8be729db9cfa0ff93ea6807e56b20fcc62775c05fcf2dc14b67884",
+      "git_blob": "19adbd9be765bca3b153a21aacd1b4e915dc3609",
+      "bytes": 20760,
+      "source_url": "https://github.com/ziteh/moco/blob/e0caae5762ac5f7731c79ccb5e8fe11ee3f4468e/hardware/moco-rd501/moco-rd501.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "b88e6f9fb5fff360a679e26be7250b7bab178c2da583abd44b48b65b5a62c076",
+      "git_blob": "2d4cdb02a2b711da6a2c4a22b5932fb2dfc118a1",
+      "bytes": 1307,
+      "source_url": "https://github.com/ziteh/moco/blob/e0caae5762ac5f7731c79ccb5e8fe11ee3f4468e/README.md"
+    },
+    "upstream/notices/hardware/moco-rd501/readme.md": {
+      "sha256": "88e0a0a19a0b8e83056aecc7d4038991d44288ec469b9cf78a0c24ca23e5cc9b",
+      "git_blob": "4b757ec1c1b2087cbdfd2e5852f2d73e23ef91dc",
+      "bytes": 2181,
+      "source_url": "https://github.com/ziteh/moco/blob/e0caae5762ac5f7731c79ccb5e8fe11ee3f4468e/hardware/moco-rd501/readme.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

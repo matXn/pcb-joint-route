@@ -1,0 +1,38 @@
+{
+  "repository": "LibreSolar/uext-esp32-c3",
+  "revision": "01b37743432ae1081ba7d384ddbcb626b637ea74",
+  "family": "libresolar/uext-esp32-c3",
+  "source_url": "https://github.com/LibreSolar/uext-esp32-c3/blob/01b37743432ae1081ba7d384ddbcb626b637ea74/kicad/uext-esp32-c3.kicad_pcb",
+  "source_location": "https://github.com/LibreSolar/uext-esp32-c3/tree/01b37743432ae1081ba7d384ddbcb626b637ea74",
+  "license": "CERN-OHL-W-2.0",
+  "license_url": "https://github.com/LibreSolar/uext-esp32-c3/blob/01b37743432ae1081ba7d384ddbcb626b637ea74/LICENCE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/LibreSolar__uext-esp32-c3__uext-esp32-c3/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "3630bdd91bc9795135f0a2c98cf07a9f9b129c86af902c992848094e1f8ab52c",
+      "git_blob": "8c085c56817be2f56227c83809814034ea50327e",
+      "bytes": 435707,
+      "source_url": "https://github.com/LibreSolar/uext-esp32-c3/blob/01b37743432ae1081ba7d384ddbcb626b637ea74/kicad/uext-esp32-c3.kicad_pcb"
+    },
+    "upstream/LICENCE": {
+      "sha256": "9682f98d4fe43f33e618a14da9b324f7b4c170fdc811ea261041898e4e0744ce",
+      "git_blob": "7c981754e29e51563b50b0553bb819415aa2c2c8",
+      "bytes": 14540,
+      "source_url": "https://github.com/LibreSolar/uext-esp32-c3/blob/01b37743432ae1081ba7d384ddbcb626b637ea74/LICENCE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "1d5b7a73b8a10005030024d506dff4a3ca3ec29ac73837a7ac90587142bde909",
+      "git_blob": "0240f717c82ddc95140fa545ac1706770feec673",
+      "bytes": 9226,
+      "source_url": "https://github.com/LibreSolar/uext-esp32-c3/blob/01b37743432ae1081ba7d384ddbcb626b637ea74/kicad/uext-esp32-c3.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "6e48964428225e7be8fb7984346c981963da7e2630f4c0ab7831ff365e87de95",
+      "git_blob": "7e3fcb577a51616bd7e121ab52ccc249b142223a",
+      "bytes": 1099,
+      "source_url": "https://github.com/LibreSolar/uext-esp32-c3/blob/01b37743432ae1081ba7d384ddbcb626b637ea74/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}

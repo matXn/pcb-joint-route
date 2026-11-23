@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.npz binary
+data/train/**/upstream/** -text -eol
+data/train/**/geometry.json -text -eol

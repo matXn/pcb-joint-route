@@ -1,0 +1,935 @@
+{
+  "split": "train",
+  "board_count": 30,
+  "boards": [
+    {
+      "board_id": "0xjmux__ESP-PROG-Adapter__ESPPROG-Adapter",
+      "family": "0xjmux/esp-prog-adapter",
+      "license": "CERN-OHL-P-2.0",
+      "board": "0xjmux__ESP-PROG-Adapter__ESPPROG-Adapter/upstream/board.kicad_pcb",
+      "geometry": "0xjmux__ESP-PROG-Adapter__ESPPROG-Adapter/geometry.json",
+      "geometry_sha256": "31aededb7b792fa00acc03faed07ae11eaa78c2964df422a9eaf77091ace3b74",
+      "board_sha256": "ae642bcd06219a6e14f81daf045ca7a7292661b8573317a0289c62c9eae33fea",
+      "source": "0xjmux__ESP-PROG-Adapter__ESPPROG-Adapter/source.json",
+      "candidates": [
+        {
+          "file": "0xjmux__ESP-PROG-Adapter__ESPPROG-Adapter/candidates/00.npz",
+          "sha256": "7fa728ee624dc149fd5b697c7f981673bc9ab05ed27ef0377402322a5e0e18e5"
+        },
+        {
+          "file": "0xjmux__ESP-PROG-Adapter__ESPPROG-Adapter/candidates/01.npz",
+          "sha256": "2fc70be72d4d45540669b9ebcf064f2dabd5a8b9d31d4c6234fe771b07e34fb5"
+        },
+        {
+          "file": "0xjmux__ESP-PROG-Adapter__ESPPROG-Adapter/candidates/02.npz",
+          "sha256": "725cfb578fef2a69918bed32a4f43cda7eca311f1db4580ed9281a50092c6d9a"
+        },
+        {
+          "file": "0xjmux__ESP-PROG-Adapter__ESPPROG-Adapter/candidates/03.npz",
+          "sha256": "48decfe5bf66d9b0421b87413e78e9a01ff9d4f5d69eb0e34a7dc226d594a2fb"
+        },
+        {
+          "file": "0xjmux__ESP-PROG-Adapter__ESPPROG-Adapter/candidates/04.npz",
+          "sha256": "69bb2922119274fe24fce2209e6f8508b50d352cb89573bb56e31938cfd994db"
+        },
+        {
+          "file": "0xjmux__ESP-PROG-Adapter__ESPPROG-Adapter/candidates/05.npz",
+          "sha256": "16f425e12fb7218150938eea66e9476a1314dece40e1e451dd9a61ab74b79ded"
+        }
+      ],
+      "condition_sha256": "0dab8005a76f27c012a7cb966235fe04c752358550cab2f86d152143921316f2",
+      "copper_layers": 2,
+      "segments": 121,
+      "arcs": 0,
+      "vias": 16
+    },
+    {
+      "board_id": "DuBento__puffer__puffer",
+      "family": "dubento/puffer",
+      "license": "CERN-OHL-P-2.0",
+      "board": "DuBento__puffer__puffer/upstream/board.kicad_pcb",
+      "geometry": "DuBento__puffer__puffer/geometry.json",
+      "geometry_sha256": "c040fc65c0d95df7ecb7c6511395667b6bc0a95087f23c1bada6541e3480df9b",
+      "board_sha256": "5c0180efaca9537bc3df3e7d13ad44bb3183cc04f9617285da366a4cfeffd053",
+      "source": "DuBento__puffer__puffer/source.json",
+      "candidates": [
+        {
+          "file": "DuBento__puffer__puffer/candidates/00.npz",
+          "sha256": "dfd3682a035866dfd87a47dd5932a42e3c60308e5e1111f03c4f59272478b3e8"
+        }
+      ],
+      "condition_sha256": "1edd8b0763cbc808c72f12d8795d1b5e38e148c4b7d522613fd4481a6d5c38be",
+      "copper_layers": 2,
+      "segments": 886,
+      "arcs": 0,
+      "vias": 135
+    },
+    {
+      "board_id": "Jana-Marie__LAEMP-Prism__laemp_wall",
+      "family": "jana-marie",
+      "license": "CERN-OHL-S-2.0",
+      "board": "Jana-Marie__LAEMP-Prism__laemp_wall/upstream/board.kicad_pcb",
+      "geometry": "Jana-Marie__LAEMP-Prism__laemp_wall/geometry.json",
+      "geometry_sha256": "d00300fcfcadd82c1a88f8588e66be900717ad8006be3737376db9eab77d2848",
+      "board_sha256": "6c18034346af83bfde1371764edb6ff861022e7c58a1c090a02ae90c7c6ee948",
+      "source": "Jana-Marie__LAEMP-Prism__laemp_wall/source.json",
+      "candidates": [
+        {
+          "file": "Jana-Marie__LAEMP-Prism__laemp_wall/candidates/00.npz",
+          "sha256": "4bea50f62351a97d7dd02667af6e0b7ff864ce69f192b30139ce7e446c39dc67"
+        },
+        {
+          "file": "Jana-Marie__LAEMP-Prism__laemp_wall/candidates/01.npz",
+          "sha256": "12d5d96027464fb0102c3e78f5e06fcb482ecba3ff870c33592652f9d2eb9dda"
+        },
+        {
+          "file": "Jana-Marie__LAEMP-Prism__laemp_wall/candidates/02.npz",
+          "sha256": "6c96ec3551d68ebdf4b25e14a14b5f46708826dac47e901bd7526b59f6b42701"
+        },
+        {
+          "file": "Jana-Marie__LAEMP-Prism__laemp_wall/candidates/03.npz",
+          "sha256": "0bb43767584376a861358fb0c8f0dcbb144edd4ddc96a729b75b5e98471022e2"
+        },
+        {
+          "file": "Jana-Marie__LAEMP-Prism__laemp_wall/candidates/04.npz",
+          "sha256": "cd289b60e7a2fe581b3c136eecb73ded1d60a78f0e859ca7d1be4db8564de881"
+        },
+        {
+          "file": "Jana-Marie__LAEMP-Prism__laemp_wall/candidates/05.npz",
+          "sha256": "19d4282549412b070cdd95fc4b287ca559906e68a91cded10660653fda1ae26e"
+        }
+      ],
+      "condition_sha256": "4412dfeb10d30fc696a449e71bd5c6056f0e2aadc57505233e400d0907a92a32",
+      "copper_layers": 2,
+      "segments": 601,
+      "arcs": 0,
+      "vias": 47
+    },
+    {
+      "board_id": "Jana-Marie__USB-I2C-BRIDGE__USB-I2C-BRIDGE",
+      "family": "jana-marie",
+      "license": "CERN-OHL-S-2.0",
+      "board": "Jana-Marie__USB-I2C-BRIDGE__USB-I2C-BRIDGE/upstream/board.kicad_pcb",
+      "geometry": "Jana-Marie__USB-I2C-BRIDGE__USB-I2C-BRIDGE/geometry.json",
+      "geometry_sha256": "33ec33f0bc4f8edc4586b36f6e66070322029d1949137731a76f1e668a9170c2",
+      "board_sha256": "f6afa96c5270856412caef2d7231e99e89447f7dffa381ce63994a15cd7b3ab7",
+      "source": "Jana-Marie__USB-I2C-BRIDGE__USB-I2C-BRIDGE/source.json",
+      "candidates": [
+        {
+          "file": "Jana-Marie__USB-I2C-BRIDGE__USB-I2C-BRIDGE/candidates/00.npz",
+          "sha256": "a4c03fc9c581ca8240d15ad734b44c9469cd21095c0f39f16ead3b4288f3715a"
+        },
+        {
+          "file": "Jana-Marie__USB-I2C-BRIDGE__USB-I2C-BRIDGE/candidates/01.npz",
+          "sha256": "652da6a07d73a513ce5a1d6372ad8638123f37a346af7a8fbb2294c6a54d1c3c"
+        },
+        {
+          "file": "Jana-Marie__USB-I2C-BRIDGE__USB-I2C-BRIDGE/candidates/02.npz",
+          "sha256": "882db3fde0a09c2b0c04a53d761a29b03c892c413cbeb55b2bb5166d99aaa700"
+        },
+        {
+          "file": "Jana-Marie__USB-I2C-BRIDGE__USB-I2C-BRIDGE/candidates/03.npz",
+          "sha256": "b85fae5f917fe8c7bcbe838241a924ceafc37416550467709136126ba79c3e6d"
+        },
+        {
+          "file": "Jana-Marie__USB-I2C-BRIDGE__USB-I2C-BRIDGE/candidates/04.npz",
+          "sha256": "df84830d77e4ec0261833884acab4069bf311d53980f81120498026c9832ba41"
+        },
+        {
+          "file": "Jana-Marie__USB-I2C-BRIDGE__USB-I2C-BRIDGE/candidates/05.npz",
+          "sha256": "77e68cefb04f7881a1378104ff35117bbf8eebb56359f805cf5ec26ee78ac302"
+        }
+      ],
+      "condition_sha256": "143bd1a3e6607f67e98019117a670e373293e631fa4ec3c860c2ee7c9a70bb96",
+      "copper_layers": 2,
+      "segments": 151,
+      "arcs": 0,
+      "vias": 41
+    },
+    {
+      "board_id": "Jana-Marie__analog-toolkit__analog-toolkit",
+      "family": "jana-marie",
+      "license": "CERN-OHL-S-2.0",
+      "board": "Jana-Marie__analog-toolkit__analog-toolkit/upstream/board.kicad_pcb",
+      "geometry": "Jana-Marie__analog-toolkit__analog-toolkit/geometry.json",
+      "geometry_sha256": "2219be027c27d9c4bbbb4a0164478532c13ade1df7fe3388c5ddeb4f1876795f",
+      "board_sha256": "457cf57615788b4026e789b24eb4b532c2a6576df9c172fb9ad038a0754aa8fd",
+      "source": "Jana-Marie__analog-toolkit__analog-toolkit/source.json",
+      "candidates": [],
+      "condition_sha256": "01cd2c7c4201be896f7d641fa549e613f2a98a14f80b5b0b2984a10e84eea96a",
+      "copper_layers": 4,
+      "segments": 577,
+      "arcs": 4,
+      "vias": 285
+    },
+    {
+      "board_id": "Jana-Marie__anotter-sensor-hub__anotter-sensor-hub",
+      "family": "jana-marie",
+      "license": "CERN-OHL-S-2.0",
+      "board": "Jana-Marie__anotter-sensor-hub__anotter-sensor-hub/upstream/board.kicad_pcb",
+      "geometry": "Jana-Marie__anotter-sensor-hub__anotter-sensor-hub/geometry.json",
+      "geometry_sha256": "ac16928e4838462c67da507431ab803c4d7daa137a46b3e2acc53f6e0757b719",
+      "board_sha256": "16b4e77abb73ff34c268a42d5fa7c4b1a9bfa4141062ed35b66c87ea1ba772f4",
+      "source": "Jana-Marie__anotter-sensor-hub__anotter-sensor-hub/source.json",
+      "candidates": [
+        {
+          "file": "Jana-Marie__anotter-sensor-hub__anotter-sensor-hub/candidates/00.npz",
+          "sha256": "3151e3e495f5f68d97ef682ae92356307a7feed68f7c37fa03b990bc2329a7c5"
+        },
+        {
+          "file": "Jana-Marie__anotter-sensor-hub__anotter-sensor-hub/candidates/01.npz",
+          "sha256": "dcf3aaa8a0717482750242778511b15938abd829699f9855f7f85abef6647e55"
+        },
+        {
+          "file": "Jana-Marie__anotter-sensor-hub__anotter-sensor-hub/candidates/02.npz",
+          "sha256": "a8ab1bf6e768bed1733208a1802775a0f57b44bf4f386a7e6e39a98acd6e62d3"
+        },
+        {
+          "file": "Jana-Marie__anotter-sensor-hub__anotter-sensor-hub/candidates/03.npz",
+          "sha256": "4b82e7bdd7ffca19d16c356bea625566d774ba1338d152d64a85ee3026b4dca9"
+        },
+        {
+          "file": "Jana-Marie__anotter-sensor-hub__anotter-sensor-hub/candidates/04.npz",
+          "sha256": "212f977a9662c08157fcb1464900d2c3823ff460d0905fe74f870390628fbe4c"
+        },
+        {
+          "file": "Jana-Marie__anotter-sensor-hub__anotter-sensor-hub/candidates/05.npz",
+          "sha256": "1d0d623b5148a51b79b7bfd93c47ab3e4cc5844fe77f28b362ad716f0717ff0a"
+        }
+      ],
+      "condition_sha256": "0ed16084e2251cb53441fd8236bebb821b3f5e3f716450c794b60ee81cc4b277",
+      "copper_layers": 2,
+      "segments": 307,
+      "arcs": 0,
+      "vias": 143
+    },
+    {
+      "board_id": "Jana-Marie__ligra__ligra_back",
+      "family": "jana-marie",
+      "license": "CERN-OHL-S-2.0",
+      "board": "Jana-Marie__ligra__ligra_back/upstream/board.kicad_pcb",
+      "geometry": "Jana-Marie__ligra__ligra_back/geometry.json",
+      "geometry_sha256": "ed314637278a9624c2f595fec948f1112755314e57b7795ff836d58c7014eaf4",
+      "board_sha256": "26f94d86b6757d6cbffad5aaf17b925707362d7c86321d92e360975f73b430b2",
+      "source": "Jana-Marie__ligra__ligra_back/source.json",
+      "candidates": [
+        {
+          "file": "Jana-Marie__ligra__ligra_back/candidates/00.npz",
+          "sha256": "e03f9f13c967d98f14b8ea7d3be0067f8b869fe64a19ca3c205597a9f6391f32"
+        },
+        {
+          "file": "Jana-Marie__ligra__ligra_back/candidates/01.npz",
+          "sha256": "911110e6e12dc6eca73b9824c438e9009c1fee098dba5e7c43e6660ad5d684fa"
+        },
+        {
+          "file": "Jana-Marie__ligra__ligra_back/candidates/02.npz",
+          "sha256": "6aea9e45d09c4a442d722f2a1027805151a1f51c044626f9a31abbec7c53818b"
+        },
+        {
+          "file": "Jana-Marie__ligra__ligra_back/candidates/03.npz",
+          "sha256": "af476347b215178190f17f26793276760b4c4b7a61ceb0f39385e34b390122fa"
+        },
+        {
+          "file": "Jana-Marie__ligra__ligra_back/candidates/04.npz",
+          "sha256": "bdf7fcdfe0f8112bd85a48799469d40cb3a003aa0ab726becc3e373ce4c1e3a2"
+        },
+        {
+          "file": "Jana-Marie__ligra__ligra_back/candidates/05.npz",
+          "sha256": "c42c408c1a59e2dd3e648790c1e162e428c089e97cb43e4103b3aa05ac951e23"
+        }
+      ],
+      "condition_sha256": "0b0be517c04ad1e6a7d5507158840d1537e80d5ab7adb868932a704cac9a50f9",
+      "copper_layers": 2,
+      "segments": 380,
+      "arcs": 0,
+      "vias": 251
+    },
+    {
+      "board_id": "Jana-Marie__mini-motor-controller__mini-motor-controller",
+      "family": "jana-marie",
+      "license": "CERN-OHL-S-2.0",
+      "board": "Jana-Marie__mini-motor-controller__mini-motor-controller/upstream/board.kicad_pcb",
+      "geometry": "Jana-Marie__mini-motor-controller__mini-motor-controller/geometry.json",
+      "geometry_sha256": "c7e7eea51379af22c8a9abaa0cd79d4550ec4fbb161ec236af62b821416e62e1",
+      "board_sha256": "cffa6f777985f30c69f0cdaee22fc9c0a44c65b16bd55663d3be460c10173604",
+      "source": "Jana-Marie__mini-motor-controller__mini-motor-controller/source.json",
+      "candidates": [
+        {
+          "file": "Jana-Marie__mini-motor-controller__mini-motor-controller/candidates/00.npz",
+          "sha256": "684253e6f3205bce4c0788059af4a3f845cbb01b47b23de813d4131ada20c999"
+        },
+        {
+          "file": "Jana-Marie__mini-motor-controller__mini-motor-controller/candidates/01.npz",
+          "sha256": "dde22363419b22f831b0073b2274b1a7eb03e8d276f68894e66d9d3c1b3bc0a9"
+        },
+        {
+          "file": "Jana-Marie__mini-motor-controller__mini-motor-controller/candidates/02.npz",
+          "sha256": "72d7ae5d80e6064e534e83f6409c6565780cf521bac055eb8e7f81e55542fd5b"
+        },
+        {
+          "file": "Jana-Marie__mini-motor-controller__mini-motor-controller/candidates/03.npz",
+          "sha256": "1a2d67a30c4eee196f1712151e2c2f4df61d776bdb02f9b3fa74ca1575996220"
+        },
+        {
+          "file": "Jana-Marie__mini-motor-controller__mini-motor-controller/candidates/04.npz",
+          "sha256": "7f609851c6e2a0577d91c636017160fd81842d0a7e872b2c781e66e1a4dab6a8"
+        },
+        {
+          "file": "Jana-Marie__mini-motor-controller__mini-motor-controller/candidates/05.npz",
+          "sha256": "dc40dcc713dbf227cf46974e5aa51f7076310d3a8528188b8cd5847a1c9ddf65"
+        }
+      ],
+      "condition_sha256": "10a3734eac3c4f4ac7312d5e508ef146fd89b6bef319d083d1b5ee992984e412",
+      "copper_layers": 2,
+      "segments": 275,
+      "arcs": 0,
+      "vias": 140
+    },
+    {
+      "board_id": "Ladniy__TK44__TK44",
+      "family": "ladniy/tk44",
+      "license": "CERN-OHL-P-2.0",
+      "board": "Ladniy__TK44__TK44/upstream/board.kicad_pcb",
+      "geometry": "Ladniy__TK44__TK44/geometry.json",
+      "geometry_sha256": "e37501250bbc13a72a914a44a08b51b99ac60f9a0452e2af00018c725a323311",
+      "board_sha256": "e63e78593f290eab40b8ab7a9ac00bfbb46b530b93b5ff233ed705a8fc970b3c",
+      "source": "Ladniy__TK44__TK44/source.json",
+      "candidates": [
+        {
+          "file": "Ladniy__TK44__TK44/candidates/00.npz",
+          "sha256": "96c8480bd5ae33c1e269abadff7abcde74e364a3102b282bf65bb6542578dff7"
+        },
+        {
+          "file": "Ladniy__TK44__TK44/candidates/01.npz",
+          "sha256": "bed0132b65b0573995113f1903557cb63a11bea86a24160b64e866dadea57c86"
+        },
+        {
+          "file": "Ladniy__TK44__TK44/candidates/02.npz",
+          "sha256": "1c3aac94e8d514f986478492eab7a489e15dae27eb12b7ebfb9d941c4d80e8dc"
+        },
+        {
+          "file": "Ladniy__TK44__TK44/candidates/03.npz",
+          "sha256": "4ba67ddd4cb321b8a9e6ccbc2c8a41fb8bbcffea61d8b4f7b53196cd23e9b969"
+        },
+        {
+          "file": "Ladniy__TK44__TK44/candidates/04.npz",
+          "sha256": "9f35f4034e2c64df31b0e9a3457ef16fc81daa9f5273d569c507c122569179ed"
+        },
+        {
+          "file": "Ladniy__TK44__TK44/candidates/05.npz",
+          "sha256": "26118cd14e1f07db8f9e5bacd2139fee723bacd223a4170dfb5a7cc5f4fddcae"
+        }
+      ],
+      "condition_sha256": "1a9542595a24c0b57ab2b47e2683009ba236a79da1a829ae564e103893078709",
+      "copper_layers": 2,
+      "segments": 638,
+      "arcs": 0,
+      "vias": 44
+    },
+    {
+      "board_id": "LibreSolar__uext-esp32-c3__uext-esp32-c3",
+      "family": "libresolar/uext-esp32-c3",
+      "license": "CERN-OHL-W-2.0",
+      "board": "LibreSolar__uext-esp32-c3__uext-esp32-c3/upstream/board.kicad_pcb",
+      "geometry": "LibreSolar__uext-esp32-c3__uext-esp32-c3/geometry.json",
+      "geometry_sha256": "f980a83d641c1f17dc3cf711bee52fd61f82bf6bbd384c49a647e3efcc78f9da",
+      "board_sha256": "3630bdd91bc9795135f0a2c98cf07a9f9b129c86af902c992848094e1f8ab52c",
+      "source": "LibreSolar__uext-esp32-c3__uext-esp32-c3/source.json",
+      "candidates": [
+        {
+          "file": "LibreSolar__uext-esp32-c3__uext-esp32-c3/candidates/00.npz",
+          "sha256": "7001a7fe018fc042a57dc654919e30fcc9238eaeef6eb72514e164658f0de336"
+        },
+        {
+          "file": "LibreSolar__uext-esp32-c3__uext-esp32-c3/candidates/01.npz",
+          "sha256": "6023d7ed397970626af505a3494e94cff1550824a3ab774863517fcfb49082e6"
+        },
+        {
+          "file": "LibreSolar__uext-esp32-c3__uext-esp32-c3/candidates/02.npz",
+          "sha256": "973b675026735aa9b7daa4e94bfabd3e9e01c724db8d67c7cc87963b0bd6ab5c"
+        },
+        {
+          "file": "LibreSolar__uext-esp32-c3__uext-esp32-c3/candidates/03.npz",
+          "sha256": "eb94ecb2d8bb7defc92b696eb4b758bfd073a57af1a2271471bfae877d48b09b"
+        }
+      ],
+      "condition_sha256": "0c9a24b7543c43674ec9ead56a3d2ecdc1c6c61e2be062a496404bd895642c39",
+      "copper_layers": 2,
+      "segments": 106,
+      "arcs": 0,
+      "vias": 17
+    },
+    {
+      "board_id": "Open-Muscle__OpenMuscle-FlexGrid__OM-FlexGrid-Flex_7afbbb",
+      "family": "open-muscle/openmuscle-flexgrid",
+      "license": "CERN-OHL-S-2.0",
+      "board": "Open-Muscle__OpenMuscle-FlexGrid__OM-FlexGrid-Flex_7afbbb/upstream/board.kicad_pcb",
+      "geometry": "Open-Muscle__OpenMuscle-FlexGrid__OM-FlexGrid-Flex_7afbbb/geometry.json",
+      "geometry_sha256": "75f95685b42438cd9bb698984dc34d8a9df4241ea6f5f7ac966cb3610c23abd3",
+      "board_sha256": "c3f6afb858e7b78ab8745b82fc5f292b0079cde82850b61df4915292f191810b",
+      "source": "Open-Muscle__OpenMuscle-FlexGrid__OM-FlexGrid-Flex_7afbbb/source.json",
+      "candidates": [],
+      "condition_sha256": "11f54c5e5c85e3d2e34293f0ef1cb372f90dc458bcc5d302a1f5a1f77ebfd510",
+      "copper_layers": 2,
+      "segments": 284,
+      "arcs": 0,
+      "vias": 120
+    },
+    {
+      "board_id": "badjeff__paw3222-pcb__PAW3222",
+      "family": "pointing-sensor-breakouts",
+      "license": "CERN-OHL-P-2.0",
+      "board": "badjeff__paw3222-pcb__PAW3222/upstream/board.kicad_pcb",
+      "geometry": "badjeff__paw3222-pcb__PAW3222/geometry.json",
+      "geometry_sha256": "094e977bec0e1604dd4d7190e619ad2681b6c8322ceed69f970e1c9b3303a0a9",
+      "board_sha256": "211da17f0cff3fe6fee08adcaa424b62c394681972de991a16474e36bb7dae92",
+      "source": "badjeff__paw3222-pcb__PAW3222/source.json",
+      "candidates": [
+        {
+          "file": "badjeff__paw3222-pcb__PAW3222/candidates/00.npz",
+          "sha256": "74bf375fd36525d50d4ab987883a83668edacbe131b3081e74bb5a098fef7fa6"
+        },
+        {
+          "file": "badjeff__paw3222-pcb__PAW3222/candidates/01.npz",
+          "sha256": "375eb08e3cb5fd2ee0e9a218694bd1f5c70c7c4bded07edbdad5a86edbe73660"
+        },
+        {
+          "file": "badjeff__paw3222-pcb__PAW3222/candidates/02.npz",
+          "sha256": "dab3950776baf038569313a2998cd9fb38f9264280372fc92d10b4616a901f73"
+        }
+      ],
+      "condition_sha256": "12866dac3a53735f22e81c4363621864b7d728c697fafd0228343c744af5bf01",
+      "copper_layers": 2,
+      "segments": 67,
+      "arcs": 0,
+      "vias": 8
+    },
+    {
+      "board_id": "badjeff__paw3395-pcb__paw3395",
+      "family": "pointing-sensor-breakouts",
+      "license": "CERN-OHL-P-2.0",
+      "board": "badjeff__paw3395-pcb__paw3395/upstream/board.kicad_pcb",
+      "geometry": "badjeff__paw3395-pcb__paw3395/geometry.json",
+      "geometry_sha256": "34f934c1dc36f88135abee0dc1b05ba04bb7ebff97cb6ddfc66062ef93fe09d3",
+      "board_sha256": "c2e8cebd0da804eb3912c6559ad6b3e725c1b29f744d616e1ebb22f1229f7740",
+      "source": "badjeff__paw3395-pcb__paw3395/source.json",
+      "candidates": [
+        {
+          "file": "badjeff__paw3395-pcb__paw3395/candidates/00.npz",
+          "sha256": "ea77baac4c06635dd80b0bc8bf9f39035cee4dc232c0fd88c14c037aab55c2da"
+        },
+        {
+          "file": "badjeff__paw3395-pcb__paw3395/candidates/01.npz",
+          "sha256": "4867ab2a73153b089755a93b2ae75dd90ed9157098b98563b9569bca41abdb92"
+        },
+        {
+          "file": "badjeff__paw3395-pcb__paw3395/candidates/02.npz",
+          "sha256": "b79ebe4043d3869ad07af990ca9e1eaeb10beeb0e90217ea98fe0a6009e01984"
+        },
+        {
+          "file": "badjeff__paw3395-pcb__paw3395/candidates/03.npz",
+          "sha256": "8306720bb00483e862439968fb55426a1a66f680074d3baa39ef1e418c9324f0"
+        },
+        {
+          "file": "badjeff__paw3395-pcb__paw3395/candidates/04.npz",
+          "sha256": "2d7ce97efeafa8b2bc628c7bb2f048a7ca5068f85e7ff6600943faa22d59f950"
+        }
+      ],
+      "condition_sha256": "0a56c5b14ab29da13595c2053712bd4b022a9714311cf84b59293feb17c782c9",
+      "copper_layers": 2,
+      "segments": 201,
+      "arcs": 0,
+      "vias": 19
+    },
+    {
+      "board_id": "badjeff__pmw3610-pcb__pmw3610_pcb",
+      "family": "pointing-sensor-breakouts",
+      "license": "CERN-OHL-P-2.0",
+      "board": "badjeff__pmw3610-pcb__pmw3610_pcb/upstream/board.kicad_pcb",
+      "geometry": "badjeff__pmw3610-pcb__pmw3610_pcb/geometry.json",
+      "geometry_sha256": "d4dbe42aba714333631db3eaea9ec4528f701b378e77f503629cf498940bde1f",
+      "board_sha256": "28082c95e6fad8bffe00132a43e17b739a0ff3c40acb8c1e882eb84e1c038ded",
+      "source": "badjeff__pmw3610-pcb__pmw3610_pcb/source.json",
+      "candidates": [
+        {
+          "file": "badjeff__pmw3610-pcb__pmw3610_pcb/candidates/00.npz",
+          "sha256": "c36fe24743a27c9fded4ae05683158b06a76aabece91f07c09bfacdc83aaf9f8"
+        },
+        {
+          "file": "badjeff__pmw3610-pcb__pmw3610_pcb/candidates/01.npz",
+          "sha256": "1430b6be57f82a41ad9b62580c067498a9e428579b4988515b82bfb8f2da458f"
+        },
+        {
+          "file": "badjeff__pmw3610-pcb__pmw3610_pcb/candidates/02.npz",
+          "sha256": "36b78b591c6c534206b67caba6c8fe7b671472ac0ba6958d4f22766c5fa8c1b3"
+        },
+        {
+          "file": "badjeff__pmw3610-pcb__pmw3610_pcb/candidates/03.npz",
+          "sha256": "041ad67dc3ca570138cf4ee3233c13313a76ee81bb4316c7b5a03a14dc69bd1f"
+        },
+        {
+          "file": "badjeff__pmw3610-pcb__pmw3610_pcb/candidates/04.npz",
+          "sha256": "5ad8bc43113b823aaec6b3a7435f9af7d2bc5d87b70ec650a89f249690768f36"
+        }
+      ],
+      "condition_sha256": "232962fc27d152276156b37fcdec87aa42d8890efcb9fddee477a341e76cc110",
+      "copper_layers": 2,
+      "segments": 167,
+      "arcs": 0,
+      "vias": 10
+    },
+    {
+      "board_id": "daneski13__Junco__Junco",
+      "family": "daneski13/junco",
+      "license": "CERN-OHL-P-2.0",
+      "board": "daneski13__Junco__Junco/upstream/board.kicad_pcb",
+      "geometry": "daneski13__Junco__Junco/geometry.json",
+      "geometry_sha256": "25269cbe5e6ede40b6c123ccbe6e59ee905e26d1f8636dd6d047af8b18bf825a",
+      "board_sha256": "150da960c9c3266d54dbd26590124d862feef65ac2e69ff570d050a04b3be0ba",
+      "source": "daneski13__Junco__Junco/source.json",
+      "candidates": [
+        {
+          "file": "daneski13__Junco__Junco/candidates/00.npz",
+          "sha256": "7033568f433c3b548a801ccdf91b25178a53062378fc852da1e173f3c0e8c6b0"
+        },
+        {
+          "file": "daneski13__Junco__Junco/candidates/01.npz",
+          "sha256": "138edb96ebbc98796065fb1ad0b509d546689483806b08cdc82c3e2867d0a8df"
+        },
+        {
+          "file": "daneski13__Junco__Junco/candidates/02.npz",
+          "sha256": "12e4dc163b6d5fe51eef647d9fd3017aa952d627487195e4c09404176764cb77"
+        },
+        {
+          "file": "daneski13__Junco__Junco/candidates/03.npz",
+          "sha256": "aeee4f03c7c4db07a8aa6735df67a1d848dba9f4d8333d7d47d75c7c3ba0ea03"
+        },
+        {
+          "file": "daneski13__Junco__Junco/candidates/04.npz",
+          "sha256": "1a8ebdac081dd8d796e30f4506a434bdb39d99c8251b3b33dba805a1eb67b77d"
+        },
+        {
+          "file": "daneski13__Junco__Junco/candidates/05.npz",
+          "sha256": "e9dfb7c45ce40ab7c35f9320b8b26ba13bf2a07fd9b027464c82015e6df305f6"
+        }
+      ],
+      "condition_sha256": "3a6ea77a67310ab813a5a7fb3a0a4849560a2c243f9d1f40898d5a15cbddaeca",
+      "copper_layers": 2,
+      "segments": 1550,
+      "arcs": 0,
+      "vias": 280
+    },
+    {
+      "board_id": "iandchasse__silkscreen-pcb__silkscreen_pcb",
+      "family": "iandchasse/silkscreen-pcb",
+      "license": "CERN-OHL-S-2.0",
+      "board": "iandchasse__silkscreen-pcb__silkscreen_pcb/upstream/board.kicad_pcb",
+      "geometry": "iandchasse__silkscreen-pcb__silkscreen_pcb/geometry.json",
+      "geometry_sha256": "7413fa319b05dea79a2ecf98c1c8de82914d9db4449597a57dd34ca125f7493c",
+      "board_sha256": "95876e1cc7a0569194cd710e9191105e8199e79c6d6a282a06dd30cb0b0900d3",
+      "source": "iandchasse__silkscreen-pcb__silkscreen_pcb/source.json",
+      "candidates": [
+        {
+          "file": "iandchasse__silkscreen-pcb__silkscreen_pcb/candidates/00.npz",
+          "sha256": "12af4ee93764fb30c11b40274995967ba9f2d79e9b41a456770de76f0bc27f0e"
+        },
+        {
+          "file": "iandchasse__silkscreen-pcb__silkscreen_pcb/candidates/01.npz",
+          "sha256": "d4db10172a191d1996f92df68f555a87cd5b5a5045c32ff8b09863e4efa20e21"
+        },
+        {
+          "file": "iandchasse__silkscreen-pcb__silkscreen_pcb/candidates/02.npz",
+          "sha256": "dff2ea74598eb0cd790029b3971877b997dafc6fb45bc16a6e68d805b81912f3"
+        },
+        {
+          "file": "iandchasse__silkscreen-pcb__silkscreen_pcb/candidates/03.npz",
+          "sha256": "26bf2166978bf546fdc82de8165c669b474428fe847c9d0a85cb7aa0796f5d9f"
+        },
+        {
+          "file": "iandchasse__silkscreen-pcb__silkscreen_pcb/candidates/04.npz",
+          "sha256": "ef43c0d8ebd8800ce4663bddca65c2fac7da54b26c7bbbae1aa2f87b4722c2f6"
+        },
+        {
+          "file": "iandchasse__silkscreen-pcb__silkscreen_pcb/candidates/05.npz",
+          "sha256": "cd0a4733cd66db7c7df30bd5a81bc6630437eb566f1e8ad4bbcf338e512cc0e0"
+        }
+      ],
+      "condition_sha256": "0b6e6dd4b13ee430f9ac11eaf1c14e174773f842ecc713ca141aedcc24e9f1cc",
+      "copper_layers": 2,
+      "segments": 1735,
+      "arcs": 0,
+      "vias": 197
+    },
+    {
+      "board_id": "lambdakb__trackball-lt6c__lt6c-pcb",
+      "family": "lambdakb/trackball-lt6c",
+      "license": "CERN-OHL-S-2.0",
+      "board": "lambdakb__trackball-lt6c__lt6c-pcb/upstream/board.kicad_pcb",
+      "geometry": "lambdakb__trackball-lt6c__lt6c-pcb/geometry.json",
+      "geometry_sha256": "41e71fc41223838cffcd81b467974fc1eb00bbe9784c3c5e10f15339683c87a8",
+      "board_sha256": "68ee4eb1791556db603fcaed9c21943dd53dd596fa3d5864cd4e4413b34152c0",
+      "source": "lambdakb__trackball-lt6c__lt6c-pcb/source.json",
+      "candidates": [
+        {
+          "file": "lambdakb__trackball-lt6c__lt6c-pcb/candidates/00.npz",
+          "sha256": "3e8ab3b431b77e95f551c158eb7eb94076a892cf3f038bb76663d15623a7693f"
+        },
+        {
+          "file": "lambdakb__trackball-lt6c__lt6c-pcb/candidates/01.npz",
+          "sha256": "3258e1c9a0a0a8b2cec15797492a076347ddef9361b2286eaabfeb9633cc3fef"
+        },
+        {
+          "file": "lambdakb__trackball-lt6c__lt6c-pcb/candidates/02.npz",
+          "sha256": "8016c251234e6ac004795879c5ae5a8a9d622d9e280f0581b53aab55bebf9f70"
+        },
+        {
+          "file": "lambdakb__trackball-lt6c__lt6c-pcb/candidates/03.npz",
+          "sha256": "3d2c084afbd71ba12853e969e0b42b1abb29a87e94440b2d293be708cdf47a44"
+        },
+        {
+          "file": "lambdakb__trackball-lt6c__lt6c-pcb/candidates/04.npz",
+          "sha256": "ff69b73cb6a476f720e49b57b90741012b57dc7459edc54d1522a47f42de45a9"
+        }
+      ],
+      "condition_sha256": "04a244d3372f6b9e6eeca2213162742e30ee7eb7bfc9d49ff639aa785efaf9bb",
+      "copper_layers": 2,
+      "segments": 102,
+      "arcs": 0,
+      "vias": 14
+    },
+    {
+      "board_id": "leomanangka__esp32-4-channel-relays__esp32-4-channel-relays",
+      "family": "leomanangka/esp32-4-channel-relays",
+      "license": "CERN-OHL-P-2.0",
+      "board": "leomanangka__esp32-4-channel-relays__esp32-4-channel-relays/upstream/board.kicad_pcb",
+      "geometry": "leomanangka__esp32-4-channel-relays__esp32-4-channel-relays/geometry.json",
+      "geometry_sha256": "50a46b3e77752cbca673833d27b76165816e1383ef3d1ad253922b386c89ee06",
+      "board_sha256": "f9bff73a66f641d3a1884e6b65150cff39677bf2084e5f0e6be78ad2c28e122a",
+      "source": "leomanangka__esp32-4-channel-relays__esp32-4-channel-relays/source.json",
+      "candidates": [
+        {
+          "file": "leomanangka__esp32-4-channel-relays__esp32-4-channel-relays/candidates/00.npz",
+          "sha256": "75b9017172773c9512bf07dbb2b444ec8ee3a131a1cb347f8c72ed729391a070"
+        },
+        {
+          "file": "leomanangka__esp32-4-channel-relays__esp32-4-channel-relays/candidates/01.npz",
+          "sha256": "042c18683c3690076c9be0ee18c05204afd216234a3f73b0c0ff0904bf871940"
+        },
+        {
+          "file": "leomanangka__esp32-4-channel-relays__esp32-4-channel-relays/candidates/02.npz",
+          "sha256": "cfd89267ce226b88bb3b2fd0d7320a464dd3e2aea21e2f6c1e200e458ea47b3d"
+        },
+        {
+          "file": "leomanangka__esp32-4-channel-relays__esp32-4-channel-relays/candidates/03.npz",
+          "sha256": "1fee6fa9aa96d5e368be49b028f4aa25d236ef0d97e03d990ce5cfb4a84edfd8"
+        },
+        {
+          "file": "leomanangka__esp32-4-channel-relays__esp32-4-channel-relays/candidates/04.npz",
+          "sha256": "176e31345b9ab772eae2e633dcaa04da4587534f9f6022effcd8635b0b3e20a3"
+        },
+        {
+          "file": "leomanangka__esp32-4-channel-relays__esp32-4-channel-relays/candidates/05.npz",
+          "sha256": "8e990619c204db86511bace69f53a417b74432b084e13aadb69bebd4d8750bb1"
+        }
+      ],
+      "condition_sha256": "065df939cda8fbf64f4f43d1b0b5179b65ec39bedf319ad91adb95acd186393c",
+      "copper_layers": 2,
+      "segments": 280,
+      "arcs": 0,
+      "vias": 34
+    },
+    {
+      "board_id": "maxlab-io__tokay-lite-pcb__ai-camera-rev2",
+      "family": "maxlab-io/tokay-lite-pcb",
+      "license": "CERN-OHL-P-2.0",
+      "board": "maxlab-io__tokay-lite-pcb__ai-camera-rev2/upstream/board.kicad_pcb",
+      "geometry": "maxlab-io__tokay-lite-pcb__ai-camera-rev2/geometry.json",
+      "geometry_sha256": "df0f39d1ebe7459213fb63645bbdb7191398681d09d4b7d82e9734ba686b241a",
+      "board_sha256": "6172038b0af1010e524d9f3807576c02fa573e52ad8f24e1d3f08791a454dc01",
+      "source": "maxlab-io__tokay-lite-pcb__ai-camera-rev2/source.json",
+      "candidates": [],
+      "condition_sha256": "08a74f8baabedf994818964ceb315ca6040eb03f9aca4e89ffabbbae95938be1",
+      "copper_layers": 4,
+      "segments": 1208,
+      "arcs": 0,
+      "vias": 330
+    },
+    {
+      "board_id": "mprosk__mtg_life_counter__mtg_life_counter",
+      "family": "mprosk/mtg_life_counter",
+      "license": "CERN-OHL-S-2.0",
+      "board": "mprosk__mtg_life_counter__mtg_life_counter/upstream/board.kicad_pcb",
+      "geometry": "mprosk__mtg_life_counter__mtg_life_counter/geometry.json",
+      "geometry_sha256": "87d269e026e070169e6d8864be3f60f93810884fcccfab87fdd3f6be45b44dc2",
+      "board_sha256": "2a15ebdbcbb34b694a0f4248362827ee81ab369142a75f8c970d691dffa15939",
+      "source": "mprosk__mtg_life_counter__mtg_life_counter/source.json",
+      "candidates": [
+        {
+          "file": "mprosk__mtg_life_counter__mtg_life_counter/candidates/00.npz",
+          "sha256": "9c2f9d8b27912d5d209ef2cf00b54b49ec26ebcea3f4e9d75048efb30fbf0d73"
+        },
+        {
+          "file": "mprosk__mtg_life_counter__mtg_life_counter/candidates/01.npz",
+          "sha256": "95b6cdb497bfc165f750f51c6a9d0a65329670c7bffaaad99da7cdc459606a1d"
+        },
+        {
+          "file": "mprosk__mtg_life_counter__mtg_life_counter/candidates/02.npz",
+          "sha256": "a4297a21a819e7a6edd05488e6b40176f2ab1a8c090d1e680d8b650bdd5d50ce"
+        },
+        {
+          "file": "mprosk__mtg_life_counter__mtg_life_counter/candidates/03.npz",
+          "sha256": "edc7a715d6996418e0b908c0605012c07e148edfbc795c06e286cf419f1857d5"
+        },
+        {
+          "file": "mprosk__mtg_life_counter__mtg_life_counter/candidates/04.npz",
+          "sha256": "4fb0b9d0e2bb74da4acf65a5bb27aa8a130f9f90fc00cccc2f767324f0ea84c7"
+        },
+        {
+          "file": "mprosk__mtg_life_counter__mtg_life_counter/candidates/05.npz",
+          "sha256": "885b48d1156bfdc2c1e3f87f11b2f6e3382fed0c58f7d081b33418de0c9bc311"
+        }
+      ],
+      "condition_sha256": "0584d3a9428af0b773fe021083860a8bcf1e7b7d8d2391285f14ee160819ac3d",
+      "copper_layers": 2,
+      "segments": 713,
+      "arcs": 0,
+      "vias": 682
+    },
+    {
+      "board_id": "protolux-electronics__soleil_hardware__soleil",
+      "family": "protolux-electronics",
+      "license": "CERN-OHL-P-2.0",
+      "board": "protolux-electronics__soleil_hardware__soleil/upstream/board.kicad_pcb",
+      "geometry": "protolux-electronics__soleil_hardware__soleil/geometry.json",
+      "geometry_sha256": "5a933a9e85a80091b552bb8c9820286268e239f1a5f64d53f92b1dee7b434b78",
+      "board_sha256": "db34b1893a12a9d5ee59f5cc58a4aea197a4ab1d6bd7d2b59cc186c7ceb4d55e",
+      "source": "protolux-electronics__soleil_hardware__soleil/source.json",
+      "candidates": [],
+      "condition_sha256": "05cdf9ea604a15c2c0f9b7869e53d4ed7b992d312c6bf95b035cbb2cf9b39770",
+      "copper_layers": 4,
+      "segments": 542,
+      "arcs": 0,
+      "vias": 115
+    },
+    {
+      "board_id": "protolux-electronics__trellis_core__trellis_core",
+      "family": "protolux-electronics",
+      "license": "CERN-OHL-P-2.0",
+      "board": "protolux-electronics__trellis_core__trellis_core/upstream/board.kicad_pcb",
+      "geometry": "protolux-electronics__trellis_core__trellis_core/geometry.json",
+      "geometry_sha256": "e1efdafbb354013bcd56b4942d8747ad2eb704c760eb903aa860f0d5d4d3929f",
+      "board_sha256": "3c640f77fb7e53b45115bb746899b73bd673e92b3919ef3056e4a0f0ba4f994d",
+      "source": "protolux-electronics__trellis_core__trellis_core/source.json",
+      "candidates": [],
+      "condition_sha256": "3361792b1d87e394d7a66a383f7c1f54e1d3fe597f21da37469f3d55251f283d",
+      "copper_layers": 4,
+      "segments": 528,
+      "arcs": 12,
+      "vias": 80
+    },
+    {
+      "board_id": "siderakb__calcite__Calcite52",
+      "family": "siderakb",
+      "license": "CERN-OHL-P-2.0",
+      "board": "siderakb__calcite__Calcite52/upstream/board.kicad_pcb",
+      "geometry": "siderakb__calcite__Calcite52/geometry.json",
+      "geometry_sha256": "0cd85afef23d618363436e170199de1d4bc04b8331113ec9e09c42392ff8d399",
+      "board_sha256": "a19d578037eb5b82c92a5c2f3bed28bb06600e1b4bdf525ce43e69862d21cce1",
+      "source": "siderakb__calcite__Calcite52/source.json",
+      "candidates": [
+        {
+          "file": "siderakb__calcite__Calcite52/candidates/00.npz",
+          "sha256": "a73fb55f3aa95c884a6742ff56c3a097f0e1184febf7fa78becdc40d75365513"
+        },
+        {
+          "file": "siderakb__calcite__Calcite52/candidates/01.npz",
+          "sha256": "ffcef8213d2a762db146c3898cd173960032107441d34387319c835fe2e49ca3"
+        },
+        {
+          "file": "siderakb__calcite__Calcite52/candidates/02.npz",
+          "sha256": "153c4332f9704969d1bbc630c3c99f4440e5eaa951afad100bd13644efe11d68"
+        },
+        {
+          "file": "siderakb__calcite__Calcite52/candidates/03.npz",
+          "sha256": "862b73fee67fe252d4c9ded58e2b38aad34aa2cb06289711453206986a8b6895"
+        },
+        {
+          "file": "siderakb__calcite__Calcite52/candidates/04.npz",
+          "sha256": "6ec370ef88a2210ad9187ff9a0b81db0bb54ed772fde1205e983877c6ccb8c6a"
+        },
+        {
+          "file": "siderakb__calcite__Calcite52/candidates/05.npz",
+          "sha256": "999bf63c77299577fe03c7749791a4e6b7a9dcaf77da83d5c81ba4e082c5266f"
+        }
+      ],
+      "condition_sha256": "11c4a201b042a17988c46d74642c63da455a64a6b45cb34bdf865a8d25082638",
+      "copper_layers": 2,
+      "segments": 716,
+      "arcs": 0,
+      "vias": 72
+    },
+    {
+      "board_id": "siderakb__ergo-snm-keyboard__ErgoSNM_keyboard",
+      "family": "siderakb",
+      "license": "CERN-OHL-P-2.0",
+      "board": "siderakb__ergo-snm-keyboard__ErgoSNM_keyboard/upstream/board.kicad_pcb",
+      "geometry": "siderakb__ergo-snm-keyboard__ErgoSNM_keyboard/geometry.json",
+      "geometry_sha256": "f162df20e10d70b2cf9fcccd5ee92840024d9bf4a5b6d6b8284989abbbb075c1",
+      "board_sha256": "83c99160c5005b425481f0ef8fab3345cc8b250a57d46d2b6e9d2adc575185a8",
+      "source": "siderakb__ergo-snm-keyboard__ErgoSNM_keyboard/source.json",
+      "candidates": [
+        {
+          "file": "siderakb__ergo-snm-keyboard__ErgoSNM_keyboard/candidates/00.npz",
+          "sha256": "6d2761bac20af8e23665a25eecf61f3bfe1d08ac1ce47824da60ba63ff0bd2b9"
+        },
+        {
+          "file": "siderakb__ergo-snm-keyboard__ErgoSNM_keyboard/candidates/01.npz",
+          "sha256": "00925cd02d434abf8a97b890e0901fe053a4c3900b57f312ae589ee6d1d5da05"
+        }
+      ],
+      "condition_sha256": "358b88dff0cebebd1468259284135c37bdb4036ad855f25656c0e77bd4038cbe",
+      "copper_layers": 2,
+      "segments": 1154,
+      "arcs": 0,
+      "vias": 52
+    },
+    {
+      "board_id": "siderakb__pmw3360-pcb__pmw3360_pcb_jst",
+      "family": "pointing-sensor-breakouts",
+      "license": "CERN-OHL-P-2.0",
+      "board": "siderakb__pmw3360-pcb__pmw3360_pcb_jst/upstream/board.kicad_pcb",
+      "geometry": "siderakb__pmw3360-pcb__pmw3360_pcb_jst/geometry.json",
+      "geometry_sha256": "10c49ae6628c1abab37b96ecbeef47fd0c7989ca9afd4e403219252f6577455e",
+      "board_sha256": "249ce029f26e0990648769dcff98c9346e70c1ed52aab190801064dabc4c1c8e",
+      "source": "siderakb__pmw3360-pcb__pmw3360_pcb_jst/source.json",
+      "candidates": [
+        {
+          "file": "siderakb__pmw3360-pcb__pmw3360_pcb_jst/candidates/00.npz",
+          "sha256": "8c1b740176f76161eb46063217c91f342b1477142a81e5087a17417b9865aba5"
+        },
+        {
+          "file": "siderakb__pmw3360-pcb__pmw3360_pcb_jst/candidates/01.npz",
+          "sha256": "3e0aa5aee6b939cd732fb6ee8fec2c0a3ea5f945bfc293c7fc290a876d92ff66"
+        },
+        {
+          "file": "siderakb__pmw3360-pcb__pmw3360_pcb_jst/candidates/02.npz",
+          "sha256": "68e24d7e72902b3546fff75f24b839967809b7c3301250198b172f63fdef12f4"
+        },
+        {
+          "file": "siderakb__pmw3360-pcb__pmw3360_pcb_jst/candidates/03.npz",
+          "sha256": "258c52188bc20ffe9e65c8c406bd9faf28bd98d139912497d2f74ab66027c28f"
+        }
+      ],
+      "condition_sha256": "25b0815a1ae5dae3401910627151a1ef91d43262341f5611c092e061e5df9d32",
+      "copper_layers": 2,
+      "segments": 110,
+      "arcs": 0,
+      "vias": 13
+    },
+    {
+      "board_id": "siderakb__rp-micro__rp-micro",
+      "family": "siderakb",
+      "license": "CERN-OHL-P-2.0",
+      "board": "siderakb__rp-micro__rp-micro/upstream/board.kicad_pcb",
+      "geometry": "siderakb__rp-micro__rp-micro/geometry.json",
+      "geometry_sha256": "9906d37632f8676ec6606333c89a29d4a739483b445c4b3616c352b16231dbbd",
+      "board_sha256": "8918aa3993e680b97a89215b6f28ed06186e323fd25ddf510646063a18f9184d",
+      "source": "siderakb__rp-micro__rp-micro/source.json",
+      "candidates": [
+        {
+          "file": "siderakb__rp-micro__rp-micro/candidates/00.npz",
+          "sha256": "21c16e14cf10de566b1a14c3f2be82c8551b201feac5280fc1ed7a36583ce308"
+        },
+        {
+          "file": "siderakb__rp-micro__rp-micro/candidates/01.npz",
+          "sha256": "3f6708c43b633f416bae1db451e478516595f9d266e1113fbd6c9818eab73616"
+        },
+        {
+          "file": "siderakb__rp-micro__rp-micro/candidates/02.npz",
+          "sha256": "4b70bd97ad22cf3cb56f4e16d32e3cd12654ccd573c489076c600fad81589e14"
+        },
+        {
+          "file": "siderakb__rp-micro__rp-micro/candidates/03.npz",
+          "sha256": "6bf7a51587680eeb966ddf2466280f5589b41c3a50f6c444503e5fc92865b2d9"
+        },
+        {
+          "file": "siderakb__rp-micro__rp-micro/candidates/04.npz",
+          "sha256": "4db0f7278edabfc9edbc6bf5606eb23643427523c69aeeaad48bd7b8e0c30a55"
+        },
+        {
+          "file": "siderakb__rp-micro__rp-micro/candidates/05.npz",
+          "sha256": "203d7dcafa19694f9e6649d56a2b65aaca460ee34a8c57855d2b45c5a38a3d29"
+        }
+      ],
+      "condition_sha256": "0cd721628abade5dbfe39d1c41a1d5944ab980abc40af4c47aa678297679078f",
+      "copper_layers": 2,
+      "segments": 437,
+      "arcs": 0,
+      "vias": 64
+    },
+    {
+      "board_id": "skot__bitaxe__bitaxeUltra",
+      "family": "skot/bitaxe",
+      "license": "CERN-OHL-S-2.0",
+      "board": "skot__bitaxe__bitaxeUltra/upstream/board.kicad_pcb",
+      "geometry": "skot__bitaxe__bitaxeUltra/geometry.json",
+      "geometry_sha256": "655db2542ccb5511b664bc581a49328c9474973bb91135874e225f11bd66fafc",
+      "board_sha256": "267a1aa4475efa098e13af90b2f5280f69b5e9ed2fc7f71da87dccb56a8adec9",
+      "source": "skot__bitaxe__bitaxeUltra/source.json",
+      "candidates": [],
+      "condition_sha256": "22771ac985d36d7fd558ef622a0733dea5a59da2b104e5c379fad4dbd8af0458",
+      "copper_layers": 4,
+      "segments": 933,
+      "arcs": 0,
+      "vias": 201
+    },
+    {
+      "board_id": "techy-robot__Mighty-Micro-Motors__esp32-s3_single_motor_battery_controller",
+      "family": "techy-robot/mighty-micro-motors",
+      "license": "CERN-OHL-S-2.0",
+      "board": "techy-robot__Mighty-Micro-Motors__esp32-s3_single_motor_battery_controller/upstream/board.kicad_pcb",
+      "geometry": "techy-robot__Mighty-Micro-Motors__esp32-s3_single_motor_battery_controller/geometry.json",
+      "geometry_sha256": "4642a6e289f27ddb97bebe9d163379c1738c213ef6f2cbe9952c1ef7c049b0dc",
+      "board_sha256": "68da3729a4f4d0c084fce658fa4da1834426e120dc6dfd99709c03261584cbe8",
+      "source": "techy-robot__Mighty-Micro-Motors__esp32-s3_single_motor_battery_controller/source.json",
+      "candidates": [],
+      "condition_sha256": "0987943e922de030446b5a11c333d494c2f644e3c2fe401fe8a80ee80f1a22e4",
+      "copper_layers": 4,
+      "segments": 872,
+      "arcs": 0,
+      "vias": 139
+    },
+    {
+      "board_id": "tzarc__keyboards__Kobold",
+      "family": "tzarc/keyboards",
+      "license": "CERN-OHL-S-2.0",
+      "board": "tzarc__keyboards__Kobold/upstream/board.kicad_pcb",
+      "geometry": "tzarc__keyboards__Kobold/geometry.json",
+      "geometry_sha256": "733be64562035f00a37caead72ab4ceba34a2412add686d313f42e50d9836553",
+      "board_sha256": "42528cf6a7394aea41f47421c2ff7f55d5986e266470f3592ead5ce211c3881c",
+      "source": "tzarc__keyboards__Kobold/source.json",
+      "candidates": [],
+      "condition_sha256": "137e0107cf8b712b85eedbb31eda45cb916237dfc624b95111574e56ee13d2ca",
+      "copper_layers": 4,
+      "segments": 971,
+      "arcs": 0,
+      "vias": 220
+    },
+    {
+      "board_id": "ziteh__moco__moco-rd501",
+      "family": "ziteh/moco",
+      "license": "CERN-OHL-P-2.0",
+      "board": "ziteh__moco__moco-rd501/upstream/board.kicad_pcb",
+      "geometry": "ziteh__moco__moco-rd501/geometry.json",
+      "geometry_sha256": "ce31e0fa1304b63a09ae7f5a780996b12437bc7e6f25f631d10ff030ddae480a",
+      "board_sha256": "b34b23c25ce93d0e7cbc375baaf2692137cfcf94905181f8896a0641d57f17be",
+      "source": "ziteh__moco__moco-rd501/source.json",
+      "candidates": [],
+      "condition_sha256": "20ba17765aa2534032fcdea69a3902fe82966364f713a0e07d2dcf1e22fca131",
+      "copper_layers": 4,
+      "segments": 1241,
+      "arcs": 0,
+      "vias": 554
+    }
+  ]
+}

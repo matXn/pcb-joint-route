@@ -1,0 +1,38 @@
+{
+  "repository": "Ladniy/TK44",
+  "revision": "b4f470cccce0f2e080851dd49cce4b4010973f2a",
+  "family": "ladniy/tk44",
+  "source_url": "https://github.com/Ladniy/TK44/blob/b4f470cccce0f2e080851dd49cce4b4010973f2a/pcb/TK44/TK44.kicad_pcb",
+  "source_location": "https://github.com/Ladniy/TK44/tree/b4f470cccce0f2e080851dd49cce4b4010973f2a",
+  "license": "CERN-OHL-P-2.0",
+  "license_url": "https://github.com/Ladniy/TK44/blob/b4f470cccce0f2e080851dd49cce4b4010973f2a/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/Ladniy__TK44__TK44/SOURCE.json",
+  "route_provenance": "unknown",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "e63e78593f290eab40b8ab7a9ac00bfbb46b530b93b5ff233ed705a8fc970b3c",
+      "git_blob": "90ca1486831ada3cfbe57d0968324d598ddc2851",
+      "bytes": 4700026,
+      "source_url": "https://github.com/Ladniy/TK44/blob/b4f470cccce0f2e080851dd49cce4b4010973f2a/pcb/TK44/TK44.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "6e471d647db50527d0c75ee5f1a55a74012ab177c73282bef0bdc7f6562b7ded",
+      "git_blob": "4fe041e077a8179e50d8d068fb5803cf1f80abba",
+      "bytes": 8852,
+      "source_url": "https://github.com/Ladniy/TK44/blob/b4f470cccce0f2e080851dd49cce4b4010973f2a/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "06c21b228a25e2842ec6ee595f308bae609187112a88b73338d0590e59a19d70",
+      "git_blob": "cd953a31de4e4f85829928c6bfb5d4cb2dfee623",
+      "bytes": 9314,
+      "source_url": "https://github.com/Ladniy/TK44/blob/b4f470cccce0f2e080851dd49cce4b4010973f2a/pcb/TK44/TK44.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "e06b717432a4e59ec7d5cca51e8cf2930a3bd11155670ab7d45781d933ecb06f",
+      "git_blob": "4d3a6b13f4599b43e990395b226f6477e85d0559",
+      "bytes": 1083,
+      "source_url": "https://github.com/Ladniy/TK44/blob/b4f470cccce0f2e080851dd49cce4b4010973f2a/README.md"
+    }
+  },
+  "geometry_note": "Millimetre geometry and reference copper extracted from upstream/board.kicad_pcb. Candidate banks, where present, are generated alternatives. Original files are byte-for-byte copies."
+}
