@@ -1,0 +1,38 @@
+{
+  "repository": "ikajdan/reflow-hot-plate",
+  "revision": "d010bf531b21eb3f7932e7c0831125a53e426cb1",
+  "source_url": "https://github.com/ikajdan/reflow-hot-plate/blob/d010bf531b21eb3f7932e7c0831125a53e426cb1/hardware/control_board/control_board.kicad_pcb",
+  "source_location": "https://github.com/ikajdan/reflow-hot-plate/tree/d010bf531b21eb3f7932e7c0831125a53e426cb1",
+  "license": "MIT",
+  "license_url": "https://github.com/ikajdan/reflow-hot-plate/blob/d010bf531b21eb3f7932e7c0831125a53e426cb1/LICENSE.md",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/ikajdan__reflow-hot-plate__control_board/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "ikajdan/reflow-hot-plate",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "af5de87c2f5f1bca5f68f3331a4b606938c5423bf6783fcd21ae36a62835833f",
+      "git_blob": "a3d36b559154b380768340fc45ba8e9ceca642de",
+      "bytes": 1886859,
+      "source_url": "https://github.com/ikajdan/reflow-hot-plate/blob/d010bf531b21eb3f7932e7c0831125a53e426cb1/hardware/control_board/control_board.kicad_pcb"
+    },
+    "upstream/LICENSE.md": {
+      "sha256": "bac4ffeb450f86278feb4791f1eb65d899649d3a2818ecb8dd723cb4b307a26e",
+      "git_blob": "667d5c49666f3ae4d63c19ab9d4a349db74ccfc9",
+      "bytes": 1109,
+      "source_url": "https://github.com/ikajdan/reflow-hot-plate/blob/d010bf531b21eb3f7932e7c0831125a53e426cb1/LICENSE.md"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "361800cb3de2d5071cbe63a62c8f0015e3d0ed6500b2a4fbd46c4244f2ebf249",
+      "git_blob": "f86a4ba209502a648da1bdfab92522d8f11ac710",
+      "bytes": 18777,
+      "source_url": "https://github.com/ikajdan/reflow-hot-plate/blob/d010bf531b21eb3f7932e7c0831125a53e426cb1/hardware/control_board/control_board.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "f8a0c93053b14bc7e765c6b82d0eab79c2d1ff5c83fea7919f3a6968ef7d6722",
+      "git_blob": "db63e3ff74600b72ceab8aea08389e7cb6cb898a",
+      "bytes": 7324,
+      "source_url": "https://github.com/ikajdan/reflow-hot-plate/blob/d010bf531b21eb3f7932e7c0831125a53e426cb1/README.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

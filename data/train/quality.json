@@ -1,0 +1,490 @@
+{
+  "kicad": "10.0.6",
+  "split": "train",
+  "board_count": 60,
+  "holdout": "ESP32-S3-MINI-1 V1.1",
+  "matched_test_condition_signatures": 0,
+  "source": "KiCad board DRC with zone refill, using upstream project settings; native conductive connectivity on every named multi-pad net checked independently for expansion rows.",
+  "boards": [
+    {
+      "board_id": "0xjmux__ESP-PROG-Adapter__ESPPROG-Adapter",
+      "cohort": "initial",
+      "drc_errors": 0,
+      "drc_warnings": 8,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "DuBento__puffer__puffer",
+      "cohort": "initial",
+      "drc_errors": 119,
+      "drc_warnings": 294,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "Jana-Marie__LAEMP-Prism__laemp_wall",
+      "cohort": "initial",
+      "drc_errors": 4,
+      "drc_warnings": 92,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "Jana-Marie__USB-I2C-BRIDGE__USB-I2C-BRIDGE",
+      "cohort": "initial",
+      "drc_errors": 3,
+      "drc_warnings": 36,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "Jana-Marie__analog-toolkit__analog-toolkit",
+      "cohort": "initial",
+      "drc_errors": 0,
+      "drc_warnings": 65,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "Jana-Marie__anotter-sensor-hub__anotter-sensor-hub",
+      "cohort": "initial",
+      "drc_errors": 13,
+      "drc_warnings": 71,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "Jana-Marie__ligra__ligra_back",
+      "cohort": "initial",
+      "drc_errors": 7,
+      "drc_warnings": 252,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "Jana-Marie__mini-motor-controller__mini-motor-controller",
+      "cohort": "initial",
+      "drc_errors": 4,
+      "drc_warnings": 81,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "Ladniy__TK44__TK44",
+      "cohort": "initial",
+      "drc_errors": 90,
+      "drc_warnings": 119,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "LibreSolar__uext-esp32-c3__uext-esp32-c3",
+      "cohort": "initial",
+      "drc_errors": 4,
+      "drc_warnings": 18,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "Open-Muscle__OpenMuscle-FlexGrid__OM-FlexGrid-Flex_7afbbb",
+      "cohort": "initial",
+      "drc_errors": 1,
+      "drc_warnings": 121,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "badjeff__paw3222-pcb__PAW3222",
+      "cohort": "initial",
+      "drc_errors": 0,
+      "drc_warnings": 38,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "badjeff__paw3395-pcb__paw3395",
+      "cohort": "initial",
+      "drc_errors": 0,
+      "drc_warnings": 1,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "badjeff__pmw3610-pcb__pmw3610_pcb",
+      "cohort": "initial",
+      "drc_errors": 0,
+      "drc_warnings": 15,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "daneski13__Junco__Junco",
+      "cohort": "initial",
+      "drc_errors": 283,
+      "drc_warnings": 202,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "iandchasse__silkscreen-pcb__silkscreen_pcb",
+      "cohort": "initial",
+      "drc_errors": 21,
+      "drc_warnings": 198,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "lambdakb__trackball-lt6c__lt6c-pcb",
+      "cohort": "initial",
+      "drc_errors": 0,
+      "drc_warnings": 15,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "leomanangka__esp32-4-channel-relays__esp32-4-channel-relays",
+      "cohort": "initial",
+      "drc_errors": 0,
+      "drc_warnings": 25,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "maxlab-io__tokay-lite-pcb__ai-camera-rev2",
+      "cohort": "initial",
+      "drc_errors": 7,
+      "drc_warnings": 158,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "mprosk__mtg_life_counter__mtg_life_counter",
+      "cohort": "initial",
+      "drc_errors": 48,
+      "drc_warnings": 100,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "protolux-electronics__soleil_hardware__soleil",
+      "cohort": "initial",
+      "drc_errors": 14,
+      "drc_warnings": 61,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "protolux-electronics__trellis_core__trellis_core",
+      "cohort": "initial",
+      "drc_errors": 0,
+      "drc_warnings": 159,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "siderakb__calcite__Calcite52",
+      "cohort": "initial",
+      "drc_errors": 5,
+      "drc_warnings": 150,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "siderakb__ergo-snm-keyboard__ErgoSNM_keyboard",
+      "cohort": "initial",
+      "drc_errors": 5,
+      "drc_warnings": 284,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "siderakb__pmw3360-pcb__pmw3360_pcb_jst",
+      "cohort": "initial",
+      "drc_errors": 0,
+      "drc_warnings": 13,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "siderakb__rp-micro__rp-micro",
+      "cohort": "initial",
+      "drc_errors": 13,
+      "drc_warnings": 43,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "skot__bitaxe__bitaxeUltra",
+      "cohort": "initial",
+      "drc_errors": 3,
+      "drc_warnings": 1,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "techy-robot__Mighty-Micro-Motors__esp32-s3_single_motor_battery_controller",
+      "cohort": "initial",
+      "drc_errors": 2,
+      "drc_warnings": 119,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "tzarc__keyboards__Kobold",
+      "cohort": "initial",
+      "drc_errors": 0,
+      "drc_warnings": 92,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "ziteh__moco__moco-rd501",
+      "cohort": "initial",
+      "drc_errors": 24,
+      "drc_warnings": 146,
+      "unconnected_items": 0
+    },
+    {
+      "board_id": "adbj-hw__ESPiezometer__ESPiezometer",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 10,
+      "unconnected_items": 0,
+      "multi_pad_nets": 15,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "angelnu__esphome__siedle-bus",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 30,
+      "unconnected_items": 0,
+      "multi_pad_nets": 22,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "AzonInc__Doorman__doorman",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 5,
+      "unconnected_items": 0,
+      "multi_pad_nets": 34,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "bentwire__USB-C-FUSB302-PI__USB-C-FUSB302-PI",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 67,
+      "unconnected_items": 0,
+      "multi_pad_nets": 58,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "blueOkiris__ch552g-dev-board__ch552g-dev-board",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 15,
+      "unconnected_items": 0,
+      "multi_pad_nets": 16,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "brenocq__bldc-motor__BLDCM-Power",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 79,
+      "unconnected_items": 0,
+      "multi_pad_nets": 43,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "CIRCUITSTATE__Mitayi-Pico-D1__Mitayi-Pico-D1",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 4,
+      "unconnected_items": 0,
+      "multi_pad_nets": 61,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "DIYSynthMNL__Eurorack-Multi-Saturation-Module__Multi_saturation_module",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 98,
+      "unconnected_items": 0,
+      "multi_pad_nets": 68,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "Envious-Data__EnvOpenPico__EnvOpenPico-RP2040",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 85,
+      "unconnected_items": 0,
+      "multi_pad_nets": 64,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "FyraLabs__suzyqboard__suzyqboard",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 7,
+      "unconnected_items": 0,
+      "multi_pad_nets": 8,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "gargsrishtii__TankSync-rx__Project1",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 7,
+      "unconnected_items": 0,
+      "multi_pad_nets": 24,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "Goga64__ULK__ULK_4ead33",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 248,
+      "unconnected_items": 0,
+      "multi_pad_nets": 70,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "ikajdan__reflow-hot-plate__control_board",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 102,
+      "unconnected_items": 0,
+      "multi_pad_nets": 77,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "KabukiFlux__Duplicanator-Scart-Duplicator__scart_duplicator",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 42,
+      "unconnected_items": 0,
+      "multi_pad_nets": 38,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "KabukiFlux__MIDI4MiSTer__MIDI_4_MiSTer",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 25,
+      "unconnected_items": 0,
+      "multi_pad_nets": 24,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "m1geo__Pi5_PCIe__Pi5_PCIe",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 41,
+      "unconnected_items": 0,
+      "multi_pad_nets": 24,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "mecparts__RetroWiFiModem__RetroWiFiModem",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 35,
+      "unconnected_items": 0,
+      "multi_pad_nets": 48,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "michd__esphome-powermon__esphome-powermon",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 22,
+      "unconnected_items": 0,
+      "multi_pad_nets": 43,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "mohamedboubaker__Battery-Powered-STM32-Board-With-USB__ORBIT",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 7,
+      "unconnected_items": 0,
+      "multi_pad_nets": 42,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "ojg__thatmicpre__thatmicpre_v2",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 211,
+      "unconnected_items": 0,
+      "multi_pad_nets": 51,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "rniwase__sdtv2csi__sdtv2csi",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 141,
+      "unconnected_items": 0,
+      "multi_pad_nets": 53,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "rniwase__tsuraraGB__tGB-main",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 0,
+      "unconnected_items": 0,
+      "multi_pad_nets": 94,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "sommerper__framework16-keyboard-v1__framework16v1",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 25,
+      "unconnected_items": 0,
+      "multi_pad_nets": 58,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "stack-chan__stack-chan__m5-pantilt",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 47,
+      "unconnected_items": 0,
+      "multi_pad_nets": 40,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "sufst__pcb__8Ch-Sensor-Hub",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 2,
+      "unconnected_items": 0,
+      "multi_pad_nets": 60,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "tjko__brickpico__brickpico",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 86,
+      "unconnected_items": 0,
+      "multi_pad_nets": 80,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "tjko__fanpico__fanpico_31b08e",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 147,
+      "unconnected_items": 0,
+      "multi_pad_nets": 125,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "tomtor__STM32-RFM95-PCB__AVR-LORA-805",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 31,
+      "unconnected_items": 0,
+      "multi_pad_nets": 33,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "UzixLS__pc-ega-composite-daughterboard__ega-composite-daughterboard",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 50,
+      "unconnected_items": 0,
+      "multi_pad_nets": 43,
+      "split_multi_pad_nets": 0
+    },
+    {
+      "board_id": "zhiayang__mikoto__mikoto-flashbed",
+      "cohort": "expansion",
+      "drc_errors": 0,
+      "drc_warnings": 69,
+      "unconnected_items": 0,
+      "multi_pad_nets": 46,
+      "split_multi_pad_nets": 0
+    }
+  ]
+}

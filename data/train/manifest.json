@@ -1,6 +1,6 @@
 {
   "split": "train",
-  "board_count": 30,
+  "board_count": 60,
   "boards": [
     {
       "board_id": "0xjmux__ESP-PROG-Adapter__ESPPROG-Adapter",
@@ -930,6 +930,778 @@
       "segments": 1241,
       "arcs": 0,
       "vias": 554
+    },
+    {
+      "board_id": "adbj-hw__ESPiezometer__ESPiezometer",
+      "family": "adbj-hw/espiezometer",
+      "license": "CERN-OHL-W-2.0",
+      "board": "adbj-hw__ESPiezometer__ESPiezometer/upstream/board.kicad_pcb",
+      "geometry": "adbj-hw__ESPiezometer__ESPiezometer/geometry.json",
+      "geometry_sha256": "bb5a01d7d651893df3b5656e79b43c07576bddb88d05cbefd2f3f8ea36206cf4",
+      "board_sha256": "44a5876a5abd9023f0decca84ef29208eacb56f1ccb9d9becd6cd78e68ce024b",
+      "source": "adbj-hw__ESPiezometer__ESPiezometer/source.json",
+      "candidates": [
+        {
+          "file": "adbj-hw__ESPiezometer__ESPiezometer/candidates/00.npz",
+          "sha256": "0e02dfb2698c948b56993db49d612c79d53162e785887a44fe8b830953c087b9"
+        },
+        {
+          "file": "adbj-hw__ESPiezometer__ESPiezometer/candidates/01.npz",
+          "sha256": "b4ff8f4eebdb2da142b69322fd46ff7a2ff78a5a1033c1a2f4e184f0808b05ef"
+        },
+        {
+          "file": "adbj-hw__ESPiezometer__ESPiezometer/candidates/02.npz",
+          "sha256": "b54e557c6786a44e0aea2a5ce75b3fcb2654f9357ae8aa0bef000bdc0b5c1b04"
+        }
+      ],
+      "condition_sha256": "72531252950f9ab108934d47ccce0151846911d606425e80f191c701055d1b6e",
+      "copper_layers": 2,
+      "segments": 106,
+      "arcs": 0,
+      "vias": 0
+    },
+    {
+      "board_id": "angelnu__esphome__siedle-bus",
+      "family": "angelnu/esphome",
+      "license": "Apache-2.0",
+      "board": "angelnu__esphome__siedle-bus/upstream/board.kicad_pcb",
+      "geometry": "angelnu__esphome__siedle-bus/geometry.json",
+      "geometry_sha256": "b2d268159af45cddc3d2210f478295a0bb8c7793b573a614abd8530298afc642",
+      "board_sha256": "e92f63df1d0da44fd068e9cfe44c19523f90e407a360c1537fcb4b9794d55d81",
+      "source": "angelnu__esphome__siedle-bus/source.json",
+      "candidates": [
+        {
+          "file": "angelnu__esphome__siedle-bus/candidates/00.npz",
+          "sha256": "97a748d3c73af6a641be8afd2717442c43524db0158423bb0e77f5e5edd80e2f"
+        },
+        {
+          "file": "angelnu__esphome__siedle-bus/candidates/01.npz",
+          "sha256": "2f31dc2dbf1556606012ffe540020c63085b1cbb8d94d89d8250bfb5bd10b2c2"
+        },
+        {
+          "file": "angelnu__esphome__siedle-bus/candidates/02.npz",
+          "sha256": "2c2e5d83a9b2ea7c70e25198a090df48a9d2c75255f272de66f604598ffa159f"
+        }
+      ],
+      "condition_sha256": "10f575af7cc553f46bbaa111b206561c42728dbff1c557cbe21590e9480a2312",
+      "copper_layers": 2,
+      "segments": 251,
+      "arcs": 0,
+      "vias": 32
+    },
+    {
+      "board_id": "AzonInc__Doorman__doorman",
+      "family": "azoninc/doorman",
+      "license": "GPL-3.0",
+      "board": "AzonInc__Doorman__doorman/upstream/board.kicad_pcb",
+      "geometry": "AzonInc__Doorman__doorman/geometry.json",
+      "geometry_sha256": "1854a0c4f72853fcf1552579966ab0c1ea0bb45789989ddaa98e77b5b6750aef",
+      "board_sha256": "01072e98296b3a546db78afcae824e8be1b9a16f1ad0372a57a2ec249346ba80",
+      "source": "AzonInc__Doorman__doorman/source.json",
+      "candidates": [],
+      "condition_sha256": "36cca98bc4bf26dd395a3802de0905f43f9d13aefb7ca8b5f117936c5c91b64c",
+      "copper_layers": 4,
+      "segments": 246,
+      "arcs": 0,
+      "vias": 101
+    },
+    {
+      "board_id": "bentwire__USB-C-FUSB302-PI__USB-C-FUSB302-PI",
+      "family": "bentwire/usb-c-fusb302-pi",
+      "license": "MIT",
+      "board": "bentwire__USB-C-FUSB302-PI__USB-C-FUSB302-PI/upstream/board.kicad_pcb",
+      "geometry": "bentwire__USB-C-FUSB302-PI__USB-C-FUSB302-PI/geometry.json",
+      "geometry_sha256": "fa58cd79dc02cd25f946f73f5fd06e4ca546edc456fd37f36a5b4879a2c7242b",
+      "board_sha256": "2f3b4a62d4034342854fe1ac1c47c62f289756875668acf0320e72ff7868241d",
+      "source": "bentwire__USB-C-FUSB302-PI__USB-C-FUSB302-PI/source.json",
+      "candidates": [],
+      "condition_sha256": "090de28a88896d2ca3480b39199a799b81356e0dc2c71ea9b77b482221ad2b95",
+      "copper_layers": 4,
+      "segments": 457,
+      "arcs": 0,
+      "vias": 107
+    },
+    {
+      "board_id": "blueOkiris__ch552g-dev-board__ch552g-dev-board",
+      "family": "blueokiris/ch552g-dev-board",
+      "license": "GPL-3.0",
+      "board": "blueOkiris__ch552g-dev-board__ch552g-dev-board/upstream/board.kicad_pcb",
+      "geometry": "blueOkiris__ch552g-dev-board__ch552g-dev-board/geometry.json",
+      "geometry_sha256": "f1b32e60fee4db3c1974f6b85a4ebe13ad044f3a39bee1327c9230b870cbf0e2",
+      "board_sha256": "fc292de4ad0917cdf5fac7dfe7990d6483426c89c301652646387f9017fa5fb4",
+      "source": "blueOkiris__ch552g-dev-board__ch552g-dev-board/source.json",
+      "candidates": [
+        {
+          "file": "blueOkiris__ch552g-dev-board__ch552g-dev-board/candidates/00.npz",
+          "sha256": "1b1c5ad461933096e01ffda44e58041ca9b4277d5f6928275afb85be60bd86b1"
+        },
+        {
+          "file": "blueOkiris__ch552g-dev-board__ch552g-dev-board/candidates/01.npz",
+          "sha256": "347e330ba152b13c3630b23204839d8dd8af4dfa188acc7f72faa86c20f9f06d"
+        },
+        {
+          "file": "blueOkiris__ch552g-dev-board__ch552g-dev-board/candidates/02.npz",
+          "sha256": "9a2027b36c4bee5b51be540133e0230bc5fed7c3a2309bfe1ab0d51a614a6d64"
+        }
+      ],
+      "condition_sha256": "155a65b771e75bc813d37a23b7f42c6574adfe25a7dc396e949a33d91351ac28",
+      "copper_layers": 2,
+      "segments": 163,
+      "arcs": 0,
+      "vias": 14
+    },
+    {
+      "board_id": "brenocq__bldc-motor__BLDCM-Power",
+      "family": "brenocq/bldc-motor",
+      "license": "MIT",
+      "board": "brenocq__bldc-motor__BLDCM-Power/upstream/board.kicad_pcb",
+      "geometry": "brenocq__bldc-motor__BLDCM-Power/geometry.json",
+      "geometry_sha256": "f2152136f9398aee8b41f386984dd476374d1baf429bc0bba4eb73ab4daf6686",
+      "board_sha256": "bcef749ece0d50480dc5b6886e94d57faf3111ddc03a760b0ac9fd1837e6cfcb",
+      "source": "brenocq__bldc-motor__BLDCM-Power/source.json",
+      "candidates": [],
+      "condition_sha256": "3aa0bc5135e50aee5661276fe562e573c21e61e00ab98b1f169eb1a7df0b2e57",
+      "copper_layers": 4,
+      "segments": 735,
+      "arcs": 0,
+      "vias": 180
+    },
+    {
+      "board_id": "CIRCUITSTATE__Mitayi-Pico-D1__Mitayi-Pico-D1",
+      "family": "circuitstate/mitayi-pico-d1",
+      "license": "MIT",
+      "board": "CIRCUITSTATE__Mitayi-Pico-D1__Mitayi-Pico-D1/upstream/board.kicad_pcb",
+      "geometry": "CIRCUITSTATE__Mitayi-Pico-D1__Mitayi-Pico-D1/geometry.json",
+      "geometry_sha256": "51f85265cb85acd3a5deb671c898bc9e959085656be4888df63b4647fe461f58",
+      "board_sha256": "52dc529d6caf77d947c25f8b7f68d2c8a43f0ee5f05bff3ceaec1c7d0698aa5c",
+      "source": "CIRCUITSTATE__Mitayi-Pico-D1__Mitayi-Pico-D1/source.json",
+      "candidates": [
+        {
+          "file": "CIRCUITSTATE__Mitayi-Pico-D1__Mitayi-Pico-D1/candidates/00.npz",
+          "sha256": "34fb8d75527f8a647e0df12f03d12ed3307920b35254f0b958907bffc33a832d"
+        },
+        {
+          "file": "CIRCUITSTATE__Mitayi-Pico-D1__Mitayi-Pico-D1/candidates/01.npz",
+          "sha256": "fb9304b3c7b06bf3d09fe3cdfee889d6c243bceb9ecc2297e8974172f1e57a40"
+        },
+        {
+          "file": "CIRCUITSTATE__Mitayi-Pico-D1__Mitayi-Pico-D1/candidates/02.npz",
+          "sha256": "e4797abba029538502b8cebd0be3dbf1b19404ad11fbc1ea399cbc7c28107521"
+        }
+      ],
+      "condition_sha256": "19528e92194afa587475961d06378c32aac173242061a32a5629c3a2dbad639d",
+      "copper_layers": 2,
+      "segments": 583,
+      "arcs": 0,
+      "vias": 111
+    },
+    {
+      "board_id": "DIYSynthMNL__Eurorack-Multi-Saturation-Module__Multi_saturation_module",
+      "family": "diysynthmnl/eurorack-multi-saturation-module",
+      "license": "GPL-3.0",
+      "board": "DIYSynthMNL__Eurorack-Multi-Saturation-Module__Multi_saturation_module/upstream/board.kicad_pcb",
+      "geometry": "DIYSynthMNL__Eurorack-Multi-Saturation-Module__Multi_saturation_module/geometry.json",
+      "geometry_sha256": "1f0e6ba68518207b2b228a2295e8ec2eb47c9bf13fb339eaa6b1d6d0f2cc1e65",
+      "board_sha256": "99751d61f491e04a7b465803a45f3c7294bec244df2c33e75018192424f709b0",
+      "source": "DIYSynthMNL__Eurorack-Multi-Saturation-Module__Multi_saturation_module/source.json",
+      "candidates": [
+        {
+          "file": "DIYSynthMNL__Eurorack-Multi-Saturation-Module__Multi_saturation_module/candidates/00.npz",
+          "sha256": "652329fdb9c356f81f8d250c96c6b9028786bf900c990a359d3a6e8d0457d075"
+        },
+        {
+          "file": "DIYSynthMNL__Eurorack-Multi-Saturation-Module__Multi_saturation_module/candidates/01.npz",
+          "sha256": "adf8d8e6e4ff498b90fe45abb523e979e78582cc3d5b130cce0948b0375637eb"
+        },
+        {
+          "file": "DIYSynthMNL__Eurorack-Multi-Saturation-Module__Multi_saturation_module/candidates/02.npz",
+          "sha256": "4469642b436fca34601e9497ddea1b4efab169785ed3ae4c83b4fc6601b2ef2f"
+        }
+      ],
+      "condition_sha256": "375bec43bc4475d9cb0b6ff3a9acb7ac798531ec0b42b3d2b13b0757b7c5bd2d",
+      "copper_layers": 2,
+      "segments": 511,
+      "arcs": 390,
+      "vias": 416
+    },
+    {
+      "board_id": "Envious-Data__EnvOpenPico__EnvOpenPico-RP2040",
+      "family": "envious-data/envopenpico",
+      "license": "GPL-3.0",
+      "board": "Envious-Data__EnvOpenPico__EnvOpenPico-RP2040/upstream/board.kicad_pcb",
+      "geometry": "Envious-Data__EnvOpenPico__EnvOpenPico-RP2040/geometry.json",
+      "geometry_sha256": "5ee457534360b17e917bc51e7b726a5a028395f6fd20ae90992ad2005fbbedb9",
+      "board_sha256": "bdf6bfbdb3f8b1845500a4a4ca79c0064afa2a483096d3803be88834946eff64",
+      "source": "Envious-Data__EnvOpenPico__EnvOpenPico-RP2040/source.json",
+      "candidates": [
+        {
+          "file": "Envious-Data__EnvOpenPico__EnvOpenPico-RP2040/candidates/01.npz",
+          "sha256": "5d161f5f54b6b6a61ba716b51329589222d4f5e12194a77f387ea0e17eab4400"
+        },
+        {
+          "file": "Envious-Data__EnvOpenPico__EnvOpenPico-RP2040/candidates/02.npz",
+          "sha256": "5212a1dc976d34e5b51048244bade99d04341993482f5863f76882c26a21b202"
+        }
+      ],
+      "condition_sha256": "0682bf046c0e6fedc219731a2f7ab7970c305f7610118f4e45b0c5fd2b04dc3f",
+      "copper_layers": 2,
+      "segments": 551,
+      "arcs": 7,
+      "vias": 59
+    },
+    {
+      "board_id": "FyraLabs__suzyqboard__suzyqboard",
+      "family": "fyralabs/suzyqboard",
+      "license": "GPL-3.0",
+      "board": "FyraLabs__suzyqboard__suzyqboard/upstream/board.kicad_pcb",
+      "geometry": "FyraLabs__suzyqboard__suzyqboard/geometry.json",
+      "geometry_sha256": "4999bcb472623a94d94834303560bbc5042c4a674d74185c8eaf9f0f4992cc47",
+      "board_sha256": "98e7c21ed6622af439236dbf47c4dd265ceb2465a9677f76af686069e4ca77b3",
+      "source": "FyraLabs__suzyqboard__suzyqboard/source.json",
+      "candidates": [
+        {
+          "file": "FyraLabs__suzyqboard__suzyqboard/candidates/00.npz",
+          "sha256": "d34d1d06f0ea19ad47cc4295210ca856a0e737ca4d64021ff1bbce54b698b94a"
+        },
+        {
+          "file": "FyraLabs__suzyqboard__suzyqboard/candidates/01.npz",
+          "sha256": "73bc049a33037182ada5af871bbb4e80ffc48b931e0c960c07b3995194ab9b0e"
+        }
+      ],
+      "condition_sha256": "0640c10160a6a0348b35770e73db8ddc8b04cb4590f4d537d5370cabffb5aa54",
+      "copper_layers": 2,
+      "segments": 94,
+      "arcs": 0,
+      "vias": 7
+    },
+    {
+      "board_id": "gargsrishtii__TankSync-rx__Project1",
+      "family": "gargsrishtii/TankSync-rx",
+      "license": "CERN-OHL-P-2.0",
+      "board": "gargsrishtii__TankSync-rx__Project1/upstream/board.kicad_pcb",
+      "geometry": "gargsrishtii__TankSync-rx__Project1/geometry.json",
+      "geometry_sha256": "1ca40e4b1e56fdea37b007ccbd25642ba19303d10bce88400493fc9a99703f39",
+      "board_sha256": "4976024a126fd29edc19bb0e900c73ed054b17543567fbd7e9dc9efa5217b0c0",
+      "source": "gargsrishtii__TankSync-rx__Project1/source.json",
+      "candidates": [
+        {
+          "file": "gargsrishtii__TankSync-rx__Project1/candidates/00.npz",
+          "sha256": "bc2c7e41da03ff37dc2f7ae1d9e6a0eb053c9d9575c2125d2021822efa7b2b8e"
+        },
+        {
+          "file": "gargsrishtii__TankSync-rx__Project1/candidates/01.npz",
+          "sha256": "f3187a15aaced90a3c336f678d0d7fcabda3a4025ea94cd3660a14ba504c9f14"
+        },
+        {
+          "file": "gargsrishtii__TankSync-rx__Project1/candidates/02.npz",
+          "sha256": "3f1024143d8c407d63f1ada348037e761fef39953e064bdcb0e6fac95e5edd7f"
+        }
+      ],
+      "condition_sha256": "028b30dba1eab32c2c3c8e50403491c555bf26ab50befd4bfc07b35dc20a6cab",
+      "copper_layers": 2,
+      "segments": 377,
+      "arcs": 0,
+      "vias": 60
+    },
+    {
+      "board_id": "Goga64__ULK__ULK_4ead33",
+      "family": "goga64/ulk",
+      "license": "MIT",
+      "board": "Goga64__ULK__ULK_4ead33/upstream/board.kicad_pcb",
+      "geometry": "Goga64__ULK__ULK_4ead33/geometry.json",
+      "geometry_sha256": "cc723927f3a9d10a54d7e3270dc813b54fa8fb81b060913b90d32b61d2a743e1",
+      "board_sha256": "861817932d33911c28b9160aa34ee9ada9730efb329e375d4ae8d96a3552001a",
+      "source": "Goga64__ULK__ULK_4ead33/source.json",
+      "candidates": [
+        {
+          "file": "Goga64__ULK__ULK_4ead33/candidates/00.npz",
+          "sha256": "1fad1e92c1dcb0cd5238bbf981c6a911dca8c2d329cc0867e39ffb98765012e3"
+        },
+        {
+          "file": "Goga64__ULK__ULK_4ead33/candidates/01.npz",
+          "sha256": "a976804af73fdc0ccabe2bdecc96d918d260c61af8152f7c1704e1e63a3d1fdc"
+        },
+        {
+          "file": "Goga64__ULK__ULK_4ead33/candidates/02.npz",
+          "sha256": "74b45a34fee609fcce7b37be84b0f0165918c85e7851d70e26ee4ad8c5c1c95e"
+        }
+      ],
+      "condition_sha256": "0f39716e793aa6f9a2be75c341305903a8b7a4c4563a2f45a9695e0261a294aa",
+      "copper_layers": 2,
+      "segments": 618,
+      "arcs": 0,
+      "vias": 63
+    },
+    {
+      "board_id": "ikajdan__reflow-hot-plate__control_board",
+      "family": "ikajdan/reflow-hot-plate",
+      "license": "MIT",
+      "board": "ikajdan__reflow-hot-plate__control_board/upstream/board.kicad_pcb",
+      "geometry": "ikajdan__reflow-hot-plate__control_board/geometry.json",
+      "geometry_sha256": "0d8ef1278052caba7fa752e4d79e492502413fbd9ac6ff866fad5896699c6385",
+      "board_sha256": "af5de87c2f5f1bca5f68f3331a4b606938c5423bf6783fcd21ae36a62835833f",
+      "source": "ikajdan__reflow-hot-plate__control_board/source.json",
+      "candidates": [
+        {
+          "file": "ikajdan__reflow-hot-plate__control_board/candidates/00.npz",
+          "sha256": "f2bb4576cc2757bd4863b74690fd0b3a297f6b9fe19b890d8dd3ff768695cbdf"
+        },
+        {
+          "file": "ikajdan__reflow-hot-plate__control_board/candidates/01.npz",
+          "sha256": "736540ed5f5a31382ad546b586ae046fb9e44b55d2a84d5998bb8a70031f7cb8"
+        },
+        {
+          "file": "ikajdan__reflow-hot-plate__control_board/candidates/02.npz",
+          "sha256": "b73349e5f3991da5d472f6b96f3adfe98b76218fc14618fd4d3ceafe2da171a8"
+        }
+      ],
+      "condition_sha256": "001b0acf3133710d7b21d4545ac7066836a999390a1764f2ed5ff872061ef6a6",
+      "copper_layers": 2,
+      "segments": 574,
+      "arcs": 0,
+      "vias": 455
+    },
+    {
+      "board_id": "KabukiFlux__Duplicanator-Scart-Duplicator__scart_duplicator",
+      "family": "kabukiflux/duplicanator-scart-duplicator",
+      "license": "MIT",
+      "board": "KabukiFlux__Duplicanator-Scart-Duplicator__scart_duplicator/upstream/board.kicad_pcb",
+      "geometry": "KabukiFlux__Duplicanator-Scart-Duplicator__scart_duplicator/geometry.json",
+      "geometry_sha256": "79c21772ff8406bd7738e6217cdc40515a020843121a4ba78556d4cc6bef3c4a",
+      "board_sha256": "e6f698091001bcee6a989f5734cfc390a5bcd3af3a69b1f0d24e101701071f23",
+      "source": "KabukiFlux__Duplicanator-Scart-Duplicator__scart_duplicator/source.json",
+      "candidates": [
+        {
+          "file": "KabukiFlux__Duplicanator-Scart-Duplicator__scart_duplicator/candidates/00.npz",
+          "sha256": "d6dd44656527467cdc9176f2491820d13aa41d1b29ed143444ed69e6471bdd0c"
+        },
+        {
+          "file": "KabukiFlux__Duplicanator-Scart-Duplicator__scart_duplicator/candidates/01.npz",
+          "sha256": "9c5e5b4ba5451409261971860bd5db5d8f758a89a38f5cd355757c3d1033cd06"
+        },
+        {
+          "file": "KabukiFlux__Duplicanator-Scart-Duplicator__scart_duplicator/candidates/02.npz",
+          "sha256": "10d8d425604b450e526f469818c2b94646ca57b4b6d96198de41912732d9ae72"
+        }
+      ],
+      "condition_sha256": "38483e191ef958666ce58194b0fb48c4b728a53471f05f8c897c37a552b7e789",
+      "copper_layers": 2,
+      "segments": 436,
+      "arcs": 0,
+      "vias": 2
+    },
+    {
+      "board_id": "KabukiFlux__MIDI4MiSTer__MIDI_4_MiSTer",
+      "family": "kabukiflux/midi4mister",
+      "license": "MIT",
+      "board": "KabukiFlux__MIDI4MiSTer__MIDI_4_MiSTer/upstream/board.kicad_pcb",
+      "geometry": "KabukiFlux__MIDI4MiSTer__MIDI_4_MiSTer/geometry.json",
+      "geometry_sha256": "89e791184129a297405b345362c5ca6dec298aeeb76d6ce8226c1b229e43a6a0",
+      "board_sha256": "279a9e437719641dd8e98f224b432d716d9d2ed66ce6165d07f32f2cc34ef07b",
+      "source": "KabukiFlux__MIDI4MiSTer__MIDI_4_MiSTer/source.json",
+      "candidates": [
+        {
+          "file": "KabukiFlux__MIDI4MiSTer__MIDI_4_MiSTer/candidates/00.npz",
+          "sha256": "bb4974b3bc86175e4d3a11dc97f57b016106e0c6d9637cf9edd9332fe8431fea"
+        },
+        {
+          "file": "KabukiFlux__MIDI4MiSTer__MIDI_4_MiSTer/candidates/01.npz",
+          "sha256": "4db9438811678765dc1bb0652c6ff7eab1238a71aef1cd15dfbc419f91752553"
+        },
+        {
+          "file": "KabukiFlux__MIDI4MiSTer__MIDI_4_MiSTer/candidates/02.npz",
+          "sha256": "4fb809936b981dded5293871b36bb8d10140d5f133490c1d5b76ad459e246458"
+        }
+      ],
+      "condition_sha256": "190676f3a3230a226302f27e94c07896febc1acca73670eea4150204be390d9a",
+      "copper_layers": 2,
+      "segments": 227,
+      "arcs": 0,
+      "vias": 9
+    },
+    {
+      "board_id": "m1geo__Pi5_PCIe__Pi5_PCIe",
+      "family": "m1geo/pi5_pcie",
+      "license": "MIT",
+      "board": "m1geo__Pi5_PCIe__Pi5_PCIe/upstream/board.kicad_pcb",
+      "geometry": "m1geo__Pi5_PCIe__Pi5_PCIe/geometry.json",
+      "geometry_sha256": "f6ccdfc497b29777ba73728a519aa4517e46e879d27743bbb49afeb2b3ebf764",
+      "board_sha256": "9636199a33a390a2bde7fea7c2d2744006c285d81fe461f2f17ee9a0b7e7e4d7",
+      "source": "m1geo__Pi5_PCIe__Pi5_PCIe/source.json",
+      "candidates": [],
+      "condition_sha256": "02951c9eb16b52d26e6a3c6f9b237c6e1a7d6910c297828123f5942526602b2e",
+      "copper_layers": 4,
+      "segments": 249,
+      "arcs": 44,
+      "vias": 276
+    },
+    {
+      "board_id": "mecparts__RetroWiFiModem__RetroWiFiModem",
+      "family": "mecparts/retrowifimodem",
+      "license": "GPL-3.0",
+      "board": "mecparts__RetroWiFiModem__RetroWiFiModem/upstream/board.kicad_pcb",
+      "geometry": "mecparts__RetroWiFiModem__RetroWiFiModem/geometry.json",
+      "geometry_sha256": "526c5a19f0562724ba93ce9fa79543ccb2180715f88d2fd7ca4889c68c2f9559",
+      "board_sha256": "0954824f35c81276c1b87f3832fc2c5cd1f9b3b556821c2f19db83b206034e14",
+      "source": "mecparts__RetroWiFiModem__RetroWiFiModem/source.json",
+      "candidates": [
+        {
+          "file": "mecparts__RetroWiFiModem__RetroWiFiModem/candidates/00.npz",
+          "sha256": "983bf760d647ab10014850145690ae8d4fc404d5c38d3e208f72a42f3bb2f5ce"
+        },
+        {
+          "file": "mecparts__RetroWiFiModem__RetroWiFiModem/candidates/01.npz",
+          "sha256": "339eecd4a025dfd992e71dc485837eb1bfcb8376d31d89e3563c05e61897c974"
+        },
+        {
+          "file": "mecparts__RetroWiFiModem__RetroWiFiModem/candidates/02.npz",
+          "sha256": "5a175c4a5ff23e330417231a6fa80995d1fa62af85e2fdc2f688996fdb75e2df"
+        }
+      ],
+      "condition_sha256": "25a74321a77f468730c04c0a000753bc49cf8624ab6ba3a85f945b6b1cfe9aff",
+      "copper_layers": 2,
+      "segments": 318,
+      "arcs": 0,
+      "vias": 63
+    },
+    {
+      "board_id": "michd__esphome-powermon__esphome-powermon",
+      "family": "michd/esphome-powermon",
+      "license": "CERN-OHL-P-2.0",
+      "board": "michd__esphome-powermon__esphome-powermon/upstream/board.kicad_pcb",
+      "geometry": "michd__esphome-powermon__esphome-powermon/geometry.json",
+      "geometry_sha256": "575d099036d78ea797f23eaa45cf4319ed99c8ae618232a09a68b8cdfbaf9e9e",
+      "board_sha256": "b4a0c904d93e74b4a00c13a7170a41b5b21c8f74eca6f7858c350571f48b74ef",
+      "source": "michd__esphome-powermon__esphome-powermon/source.json",
+      "candidates": [
+        {
+          "file": "michd__esphome-powermon__esphome-powermon/candidates/00.npz",
+          "sha256": "20590f26a0ffdd156989fbf28e51905561f2867c52e70c1c07cd62c95e24b343"
+        },
+        {
+          "file": "michd__esphome-powermon__esphome-powermon/candidates/01.npz",
+          "sha256": "9368d6dd53fb9d9961ca0bbce95beb9da2ba8dcd4d2b897becf1153c5e67eb58"
+        },
+        {
+          "file": "michd__esphome-powermon__esphome-powermon/candidates/02.npz",
+          "sha256": "1f63afc4cb6f5e1491b0c75aa20623b54f76e1253452297d0cec0bd9d35158c3"
+        }
+      ],
+      "condition_sha256": "10c8bbbdb5a22e244aed6b73c0df411364aba8290fea9274bb24218a7c8f53f8",
+      "copper_layers": 2,
+      "segments": 225,
+      "arcs": 0,
+      "vias": 15
+    },
+    {
+      "board_id": "mohamedboubaker__Battery-Powered-STM32-Board-With-USB__ORBIT",
+      "family": "mohamedboubaker/battery-powered-stm32-board-with-usb",
+      "license": "MIT",
+      "board": "mohamedboubaker__Battery-Powered-STM32-Board-With-USB__ORBIT/upstream/board.kicad_pcb",
+      "geometry": "mohamedboubaker__Battery-Powered-STM32-Board-With-USB__ORBIT/geometry.json",
+      "geometry_sha256": "2f49659eefb2a5d259424b2755632d728bb43da42d6b6dc36a4d763a7f345ef2",
+      "board_sha256": "964e8adcbc3988f1fcb8c7414a0a1073a978ca6928575f66743efc769057c061",
+      "source": "mohamedboubaker__Battery-Powered-STM32-Board-With-USB__ORBIT/source.json",
+      "candidates": [
+        {
+          "file": "mohamedboubaker__Battery-Powered-STM32-Board-With-USB__ORBIT/candidates/00.npz",
+          "sha256": "d98a51fd91a8f16db3ca19645248164bd6a0f32996bcb04df2cd5cf6b637e3fc"
+        },
+        {
+          "file": "mohamedboubaker__Battery-Powered-STM32-Board-With-USB__ORBIT/candidates/02.npz",
+          "sha256": "ed3f122a25abba2120a1c7d6d09966c33c15e9cd38cde0d58780459e631d6cd1"
+        }
+      ],
+      "condition_sha256": "0b5a953485490dbbc6bb96beb23eef6b41de61f24687b76017ad17a8a85237fa",
+      "copper_layers": 2,
+      "segments": 299,
+      "arcs": 0,
+      "vias": 49
+    },
+    {
+      "board_id": "ojg__thatmicpre__thatmicpre_v2",
+      "family": "ojg/thatmicpre",
+      "license": "CC-BY-SA-4.0",
+      "board": "ojg__thatmicpre__thatmicpre_v2/upstream/board.kicad_pcb",
+      "geometry": "ojg__thatmicpre__thatmicpre_v2/geometry.json",
+      "geometry_sha256": "e20cfafecc5820071aed82f2373cf04612f4c74c1a0dd1b506be5e76bb3fa30a",
+      "board_sha256": "579d3b4f04a72b2987d89053fbd3313523642e25e9a3968639ea7d2fc0a94a7e",
+      "source": "ojg__thatmicpre__thatmicpre_v2/source.json",
+      "candidates": [
+        {
+          "file": "ojg__thatmicpre__thatmicpre_v2/candidates/00.npz",
+          "sha256": "ceccdb537f2350370d14460e58546a8b5d6c18a091450ce8c2c840093ecbac3d"
+        },
+        {
+          "file": "ojg__thatmicpre__thatmicpre_v2/candidates/01.npz",
+          "sha256": "2193ef424b653b3e314a90e61e190913d6ce70bbe5a90f77b8fe2cc0a4e0d2be"
+        },
+        {
+          "file": "ojg__thatmicpre__thatmicpre_v2/candidates/02.npz",
+          "sha256": "1eb9b094b7f24834fc8217693abf319de9f8d669b7c20107a255ac8f3f7a21d5"
+        }
+      ],
+      "condition_sha256": "04c2f5e1852d267b887a32af9cbc7adbd5a471f847bb1ba8ffe48880c4323b6c",
+      "copper_layers": 2,
+      "segments": 378,
+      "arcs": 0,
+      "vias": 21
+    },
+    {
+      "board_id": "rniwase__sdtv2csi__sdtv2csi",
+      "family": "rniwase/sdtv2csi",
+      "license": "CC0-1.0",
+      "board": "rniwase__sdtv2csi__sdtv2csi/upstream/board.kicad_pcb",
+      "geometry": "rniwase__sdtv2csi__sdtv2csi/geometry.json",
+      "geometry_sha256": "ea06e3a2430c9019346890fa0f2a36caeadab0d613188f35fdf18fda29588855",
+      "board_sha256": "955c9a0d6a5ae685831e4a48ea4ee853f45764b584eaea02c6258f63be1663b4",
+      "source": "rniwase__sdtv2csi__sdtv2csi/source.json",
+      "candidates": [
+        {
+          "file": "rniwase__sdtv2csi__sdtv2csi/candidates/00.npz",
+          "sha256": "ef63b845b2de6335b80e338f71dd81fb370024c4a2df3090ff2cb74098b0df05"
+        },
+        {
+          "file": "rniwase__sdtv2csi__sdtv2csi/candidates/01.npz",
+          "sha256": "48c84c8f8eb87d95a2af3aa5a678f178f6ebfb2e600995ea5fefb19477402a2e"
+        },
+        {
+          "file": "rniwase__sdtv2csi__sdtv2csi/candidates/02.npz",
+          "sha256": "0ccc05601af3885601dc65f90869b483ff7c8778677820a7b29541c857e79a25"
+        }
+      ],
+      "condition_sha256": "3338b3db15b06d7b94bd31a32517dabc498fa23d7089f676ba59941ba8553fcc",
+      "copper_layers": 2,
+      "segments": 334,
+      "arcs": 37,
+      "vias": 65
+    },
+    {
+      "board_id": "rniwase__tsuraraGB__tGB-main",
+      "family": "rniwase/tsuraragb",
+      "license": "BSD-3-Clause",
+      "board": "rniwase__tsuraraGB__tGB-main/upstream/board.kicad_pcb",
+      "geometry": "rniwase__tsuraraGB__tGB-main/geometry.json",
+      "geometry_sha256": "a738f12ac1eae194aa9e9272357a78b746d235cf73f6621b556a3c89069693f4",
+      "board_sha256": "21d266cc0b906c60f62881e75d351daf954a71329d9ead7aadbdbb054a3bfbc8",
+      "source": "rniwase__tsuraraGB__tGB-main/source.json",
+      "candidates": [
+        {
+          "file": "rniwase__tsuraraGB__tGB-main/candidates/01.npz",
+          "sha256": "cba58c490a8737efde19bbca06738c338e3942b620b88cd3e1e8cbf5456eda49"
+        }
+      ],
+      "condition_sha256": "1cbdcefc438165f3c52b34692c5a8657bb135c574b41c7832fe358a9d7cfa66a",
+      "copper_layers": 2,
+      "segments": 739,
+      "arcs": 0,
+      "vias": 89
+    },
+    {
+      "board_id": "sommerper__framework16-keyboard-v1__framework16v1",
+      "family": "sommerper/framework16-keyboard-v1",
+      "license": "MIT",
+      "board": "sommerper__framework16-keyboard-v1__framework16v1/upstream/board.kicad_pcb",
+      "geometry": "sommerper__framework16-keyboard-v1__framework16v1/geometry.json",
+      "geometry_sha256": "ab393b20f1cff3d88cae612223633d629a9db1c210789ac5a51785b6df32847f",
+      "board_sha256": "f8f42ab168035896af99c58a9f65a40f8894fbd2db19bc613d49cda76284040e",
+      "source": "sommerper__framework16-keyboard-v1__framework16v1/source.json",
+      "candidates": [
+        {
+          "file": "sommerper__framework16-keyboard-v1__framework16v1/candidates/00.npz",
+          "sha256": "ed1210ac351a56e1506336f78653b8d3a721fb15df415319607807106ea673e0"
+        },
+        {
+          "file": "sommerper__framework16-keyboard-v1__framework16v1/candidates/01.npz",
+          "sha256": "c159013353018c5ef5865c20979bab11622ae6223192ef71d41988ad657ffbc4"
+        },
+        {
+          "file": "sommerper__framework16-keyboard-v1__framework16v1/candidates/02.npz",
+          "sha256": "1560adcbd121e153ad6bab4bea7ce1a306ed8c5d4595047f7fd1a8466c1e3bab"
+        }
+      ],
+      "condition_sha256": "1ebc5553cdb6cc7aa4758956ebab7c47c46cc482edd45db94839a9c758b7ff38",
+      "copper_layers": 2,
+      "segments": 531,
+      "arcs": 275,
+      "vias": 12
+    },
+    {
+      "board_id": "stack-chan__stack-chan__m5-pantilt",
+      "family": "stack-chan/stack-chan",
+      "license": "Apache-2.0",
+      "board": "stack-chan__stack-chan__m5-pantilt/upstream/board.kicad_pcb",
+      "geometry": "stack-chan__stack-chan__m5-pantilt/geometry.json",
+      "geometry_sha256": "f015a9243bf89383473d6856ab22dc4ad211ab5e6f3d9ea54a3bd94c2f38f36e",
+      "board_sha256": "946037a645752feb8d29ad74d7c21cc249026218567abd53bfb1030a22018966",
+      "source": "stack-chan__stack-chan__m5-pantilt/source.json",
+      "candidates": [
+        {
+          "file": "stack-chan__stack-chan__m5-pantilt/candidates/00.npz",
+          "sha256": "6f1eac8b23368a2a272b952dd0a116fdf6ceaefb0c04a8ecb35422151d9568b1"
+        },
+        {
+          "file": "stack-chan__stack-chan__m5-pantilt/candidates/01.npz",
+          "sha256": "63679abb8f756f6d32bef1b3f53bcefe2a3d11f039925e677ad44be2db1e815c"
+        },
+        {
+          "file": "stack-chan__stack-chan__m5-pantilt/candidates/02.npz",
+          "sha256": "cec423f12ec51fe9670a5fde6735f6d7ffc81164ae94e91986d999994c6458f9"
+        }
+      ],
+      "condition_sha256": "07e7877d7f014613f1887a1472cd73df5ce3ebe7f904aea0fbc56abbc47e9769",
+      "copper_layers": 2,
+      "segments": 285,
+      "arcs": 0,
+      "vias": 114
+    },
+    {
+      "board_id": "sufst__pcb__8Ch-Sensor-Hub",
+      "family": "sufst/pcb",
+      "license": "GPL-3.0",
+      "board": "sufst__pcb__8Ch-Sensor-Hub/upstream/board.kicad_pcb",
+      "geometry": "sufst__pcb__8Ch-Sensor-Hub/geometry.json",
+      "geometry_sha256": "846abfb0de7f8f78f7d37b89d4bcaacbf42950c4a0cf9150d72e8ea965e17a6c",
+      "board_sha256": "23c74e93f143892bc29db8acccc0fc541e00ac4e8ae45f4e85fa624937225f90",
+      "source": "sufst__pcb__8Ch-Sensor-Hub/source.json",
+      "candidates": [],
+      "condition_sha256": "2e4ca21bfa6de196352a07cec1e177eb00126ed7ea4e1ad5bb860c5b761ef39b",
+      "copper_layers": 4,
+      "segments": 527,
+      "arcs": 0,
+      "vias": 186
+    },
+    {
+      "board_id": "tjko__brickpico__brickpico",
+      "family": "tjko/pico-controllers",
+      "license": "GPL-3.0",
+      "board": "tjko__brickpico__brickpico/upstream/board.kicad_pcb",
+      "geometry": "tjko__brickpico__brickpico/geometry.json",
+      "geometry_sha256": "e24642df0a82e8388b189929d16265247025a836c898974db0f34d5b59125e8d",
+      "board_sha256": "09b49726d6f30d70f7d6d663d540bcada6ed9e8dbff6d1574707645059d5e793",
+      "source": "tjko__brickpico__brickpico/source.json",
+      "candidates": [],
+      "condition_sha256": "0a23b667117832cabca8a1aca17a3a10898760e12b5f4032a60f9419316ccbbd",
+      "copper_layers": 4,
+      "segments": 547,
+      "arcs": 0,
+      "vias": 56
+    },
+    {
+      "board_id": "tjko__fanpico__fanpico_31b08e",
+      "family": "tjko/pico-controllers",
+      "license": "GPL-3.0",
+      "board": "tjko__fanpico__fanpico_31b08e/upstream/board.kicad_pcb",
+      "geometry": "tjko__fanpico__fanpico_31b08e/geometry.json",
+      "geometry_sha256": "12f8a380211eadabaee0ea812f1e146aa369f66f545e3c127dfa010d86e7211b",
+      "board_sha256": "b43ae7280e2a2474d16ba20355792f7ed79c4265471b2de12b68b8fe3eb49952",
+      "source": "tjko__fanpico__fanpico_31b08e/source.json",
+      "candidates": [
+        {
+          "file": "tjko__fanpico__fanpico_31b08e/candidates/00.npz",
+          "sha256": "eee34de9f237265a7f8f12543d70b6faa8bfa50e6c4220752ac03991fe9838c5"
+        },
+        {
+          "file": "tjko__fanpico__fanpico_31b08e/candidates/01.npz",
+          "sha256": "8e8acb0d2b73fc78f5b57ac1d9ce3aa3a0da2d940983f0a8636f9fca32c929de"
+        },
+        {
+          "file": "tjko__fanpico__fanpico_31b08e/candidates/02.npz",
+          "sha256": "9ca569d1e9de95ee9ccd4d6bfbe53ee03da30264824e817210475458d1c7de4e"
+        }
+      ],
+      "condition_sha256": "1f850aea68469a1b1d16dff5f7f85599fb2f4ce54126fc1a15e081305435131f",
+      "copper_layers": 2,
+      "segments": 1942,
+      "arcs": 0,
+      "vias": 188
+    },
+    {
+      "board_id": "tomtor__STM32-RFM95-PCB__AVR-LORA-805",
+      "family": "tomtor/stm32-rfm95-pcb",
+      "license": "GPL-3.0",
+      "board": "tomtor__STM32-RFM95-PCB__AVR-LORA-805/upstream/board.kicad_pcb",
+      "geometry": "tomtor__STM32-RFM95-PCB__AVR-LORA-805/geometry.json",
+      "geometry_sha256": "d41a1e68e005f7c9eefb31a477e3bb09eeec1ddfae72c2d7139ef20580fdd95d",
+      "board_sha256": "aa4b15d51551dca4fc7119a86ba966d6d350df0c2a89c1a6c18d5269dd2771e0",
+      "source": "tomtor__STM32-RFM95-PCB__AVR-LORA-805/source.json",
+      "candidates": [
+        {
+          "file": "tomtor__STM32-RFM95-PCB__AVR-LORA-805/candidates/00.npz",
+          "sha256": "22d0d606a6a366438fe9b1baca62a5e144b29d9fd189e00e497fa28a73c3b885"
+        },
+        {
+          "file": "tomtor__STM32-RFM95-PCB__AVR-LORA-805/candidates/01.npz",
+          "sha256": "00373829ab744d06f540f5a9bcf789de6e03998f3989e17dab624f792387308b"
+        },
+        {
+          "file": "tomtor__STM32-RFM95-PCB__AVR-LORA-805/candidates/02.npz",
+          "sha256": "55b5a4fa6f9088fb25226e25ad2b252498f5a0f5dae7c290fbd7b01c5f9470ce"
+        }
+      ],
+      "condition_sha256": "20b1168b521bc5d003e1b26b4f918e712ff39a96a6846cd1b4156fc7682650fc",
+      "copper_layers": 2,
+      "segments": 608,
+      "arcs": 0,
+      "vias": 119
+    },
+    {
+      "board_id": "UzixLS__pc-ega-composite-daughterboard__ega-composite-daughterboard",
+      "family": "uzixls/pc-ega-composite-daughterboard",
+      "license": "MIT",
+      "board": "UzixLS__pc-ega-composite-daughterboard__ega-composite-daughterboard/upstream/board.kicad_pcb",
+      "geometry": "UzixLS__pc-ega-composite-daughterboard__ega-composite-daughterboard/geometry.json",
+      "geometry_sha256": "2b09ff8677fa1b1d6e79c8c10f92aca2cb4ce35f7f5c43335632cb9780dadf7d",
+      "board_sha256": "d5f147a3e4b30d931f1e7734adcd2d70a91ce3a5ea45d5d8f1fdbac15018653d",
+      "source": "UzixLS__pc-ega-composite-daughterboard__ega-composite-daughterboard/source.json",
+      "candidates": [
+        {
+          "file": "UzixLS__pc-ega-composite-daughterboard__ega-composite-daughterboard/candidates/00.npz",
+          "sha256": "a293a531ea42c8dc60229a975616dcd392c1d322539301830485e7dc28b8728d"
+        },
+        {
+          "file": "UzixLS__pc-ega-composite-daughterboard__ega-composite-daughterboard/candidates/01.npz",
+          "sha256": "7c360e6e76e1abc2f903746fec770a02eb56c30f98975500d5f61c61c5bf9fe6"
+        },
+        {
+          "file": "UzixLS__pc-ega-composite-daughterboard__ega-composite-daughterboard/candidates/02.npz",
+          "sha256": "c3f71dd7fd3b05067bcb0128a00da37b6ce32face9c2a7ff8d8cfab095de8270"
+        }
+      ],
+      "condition_sha256": "1dc827d8749fc84374a7674a411a72faeb368f58b1ed94d5ca11c660bde7de3b",
+      "copper_layers": 2,
+      "segments": 303,
+      "arcs": 0,
+      "vias": 51
+    },
+    {
+      "board_id": "zhiayang__mikoto__mikoto-flashbed",
+      "family": "zhiayang/mikoto",
+      "license": "Apache-2.0",
+      "board": "zhiayang__mikoto__mikoto-flashbed/upstream/board.kicad_pcb",
+      "geometry": "zhiayang__mikoto__mikoto-flashbed/geometry.json",
+      "geometry_sha256": "3d5008d540249788120c46e0c7d955ecaf29475124c31d87174cfabac95c8f08",
+      "board_sha256": "de598cd57fbbc902ff2185959b8de334b1611cff0d82e3c406177a2d569b0627",
+      "source": "zhiayang__mikoto__mikoto-flashbed/source.json",
+      "candidates": [
+        {
+          "file": "zhiayang__mikoto__mikoto-flashbed/candidates/00.npz",
+          "sha256": "fddcc2656dcb14b730c643f96a0c62a48670c1da094c2ed344c127d0906fe0fe"
+        },
+        {
+          "file": "zhiayang__mikoto__mikoto-flashbed/candidates/01.npz",
+          "sha256": "6740c55d1d06f1f6f3a135aeda8c730cdeb4c9c392b73255b30ccdb6ff8a40ff"
+        },
+        {
+          "file": "zhiayang__mikoto__mikoto-flashbed/candidates/02.npz",
+          "sha256": "1a38b76856dd0231de37689320671af2cb643d985b0eba5fa0bcfd18156de536"
+        }
+      ],
+      "condition_sha256": "2ad7539033bb30766492f45e190849f12903887425e33891023c1a5059f54c7f",
+      "copper_layers": 2,
+      "segments": 79,
+      "arcs": 0,
+      "vias": 68
     }
   ]
 }

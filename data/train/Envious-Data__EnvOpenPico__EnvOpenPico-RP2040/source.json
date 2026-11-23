@@ -1,0 +1,44 @@
+{
+  "repository": "Envious-Data/EnvOpenPico",
+  "revision": "a88e551b400957efdab86bd4c97ebabbf63c78fd",
+  "source_url": "https://github.com/Envious-Data/EnvOpenPico/blob/a88e551b400957efdab86bd4c97ebabbf63c78fd/RP2040/EnvOpenPico2040/EnvOpenPico-RP2040.kicad_pcb",
+  "source_location": "https://github.com/Envious-Data/EnvOpenPico/tree/a88e551b400957efdab86bd4c97ebabbf63c78fd",
+  "license": "GPL-3.0",
+  "license_url": "https://github.com/Envious-Data/EnvOpenPico/blob/a88e551b400957efdab86bd4c97ebabbf63c78fd/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/Envious-Data__EnvOpenPico__EnvOpenPico-RP2040/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "envious-data/envopenpico",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "bdf6bfbdb3f8b1845500a4a4ca79c0064afa2a483096d3803be88834946eff64",
+      "git_blob": "3b451dee567b6823e030903e1855976be36f50ea",
+      "bytes": 878015,
+      "source_url": "https://github.com/Envious-Data/EnvOpenPico/blob/a88e551b400957efdab86bd4c97ebabbf63c78fd/RP2040/EnvOpenPico2040/EnvOpenPico-RP2040.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "605e9047a563c5c8396ffb18232aa4304ec56586aee537c45064c6fb425e44ad",
+      "git_blob": "e62ec04cdeece724caeeeeaeb6ae1f6af1bb6b9a",
+      "bytes": 35129,
+      "source_url": "https://github.com/Envious-Data/EnvOpenPico/blob/a88e551b400957efdab86bd4c97ebabbf63c78fd/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "f05ccb295ae67436d3a3b18c02613da425b3a8a57f89fed575c12683635c9640",
+      "git_blob": "1dbedb6c30125866afb14e2b4c22e5225f19a05a",
+      "bytes": 15530,
+      "source_url": "https://github.com/Envious-Data/EnvOpenPico/blob/a88e551b400957efdab86bd4c97ebabbf63c78fd/RP2040/EnvOpenPico2040/EnvOpenPico-RP2040.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "229e5e47305da7844148fa9951a3ec4b2fbd113b77a4b57af46c79b4cf6cc3b0",
+      "git_blob": "dd0e5e59ca9c2569468264e0a9b9f00657812546",
+      "bytes": 2105,
+      "source_url": "https://github.com/Envious-Data/EnvOpenPico/blob/a88e551b400957efdab86bd4c97ebabbf63c78fd/README.md"
+    },
+    "upstream/notices/RP2040/EnvOpenPico2040/README.md": {
+      "sha256": "8bb68e8c09b9afcd830049c54390b708d445bd86b06fb2415e50800faee08c0d",
+      "git_blob": "78634017a23566daac6cb9c39c6260611f01ead4",
+      "bytes": 312,
+      "source_url": "https://github.com/Envious-Data/EnvOpenPico/blob/a88e551b400957efdab86bd4c97ebabbf63c78fd/RP2040/EnvOpenPico2040/README.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

@@ -1,0 +1,46 @@
+{
+  "repository": "gargsrishtii/TankSync-rx",
+  "revision": "11ca70b93509c3802f741c999d5f27fcdc40c441",
+  "source_url": "https://github.com/gargsrishtii/TankSync-rx/blob/11ca70b93509c3802f741c999d5f27fcdc40c441/kicad/Project1.kicad_pcb",
+  "source_location": "https://github.com/gargsrishtii/TankSync-rx/tree/11ca70b93509c3802f741c999d5f27fcdc40c441",
+  "license": "CERN-OHL-P-2.0",
+  "license_url": "https://github.com/gargsrishtii/TankSync-rx/blob/11ca70b93509c3802f741c999d5f27fcdc40c441/LICENSE",
+  "catalog_source": "https://github.com/gargsrishtii/TankSync-rx/blob/11ca70b93509c3802f741c999d5f27fcdc40c441/README.md",
+  "route_provenance": "unknown",
+  "family": "gargsrishtii/TankSync-rx",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "4976024a126fd29edc19bb0e900c73ed054b17543567fbd7e9dc9efa5217b0c0",
+      "git_blob": "9f2f365f02ecbdad657b5e2b15f91fcb3e7cb12a",
+      "bytes": 368653,
+      "source_url": "https://github.com/gargsrishtii/TankSync-rx/blob/11ca70b93509c3802f741c999d5f27fcdc40c441/kicad/Project1.kicad_pcb"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "57f434d342abd9506406648a2363d5e4a4ec546e925b60f215ce2299e90d7fed",
+      "git_blob": "767112a2276a0f6b042da9d585d3887b8604eac5",
+      "bytes": 16636,
+      "source_url": "https://github.com/gargsrishtii/TankSync-rx/blob/11ca70b93509c3802f741c999d5f27fcdc40c441/kicad/Project1.kicad_pro"
+    },
+    "upstream/LICENSE": {
+      "sha256": "5896542953ba2ca32fb9785f1e378778ad0300d7e3901974ed8cb3ea47ab8ee5",
+      "git_blob": "7f48ae1afc64463b6de518f8f5eb008e1ae666aa",
+      "bytes": 664,
+      "source_url": "https://github.com/gargsrishtii/TankSync-rx/blob/11ca70b93509c3802f741c999d5f27fcdc40c441/LICENSE"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "040b644927c53802a1937a43ab5783371d3e226fec3a58dd1051e686deec2e45",
+      "git_blob": "687c1213b8269b267262e4da2a9731c6495eb23c",
+      "bytes": 5326,
+      "source_url": "https://github.com/gargsrishtii/TankSync-rx/blob/11ca70b93509c3802f741c999d5f27fcdc40c441/README.md"
+    },
+    "upstream/notices/CERN-OHL-P-2.0.txt": {
+      "sha256": "eeecc593866fa1c3b80189c7e3dc0ceb77740557fa92f81771f891cc54c579cb",
+      "git_blob": "f19d2b7adcbe2744d36889dd75dd0bdc5c280701",
+      "bytes": 8855,
+      "source_url": "https://github.com/spdx/license-list-data/blob/8a04f0303d95c4f932210b118588c662665bd383/text/CERN-OHL-P-2.0.txt",
+      "source_revision": "8a04f0303d95c4f932210b118588c662665bd383",
+      "note": "Supplemental license text from SPDX. The original author and hardware license declaration are in the upstream LICENSE."
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

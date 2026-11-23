@@ -1,0 +1,38 @@
+{
+  "repository": "CIRCUITSTATE/Mitayi-Pico-D1",
+  "revision": "8411224b5795dd74843ff87e8ead096f1e13e11d",
+  "source_url": "https://github.com/CIRCUITSTATE/Mitayi-Pico-D1/blob/8411224b5795dd74843ff87e8ead096f1e13e11d/Mitayi-Pico-D1.kicad_pcb",
+  "source_location": "https://github.com/CIRCUITSTATE/Mitayi-Pico-D1/tree/8411224b5795dd74843ff87e8ead096f1e13e11d",
+  "license": "MIT",
+  "license_url": "https://github.com/CIRCUITSTATE/Mitayi-Pico-D1/blob/8411224b5795dd74843ff87e8ead096f1e13e11d/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/CIRCUITSTATE__Mitayi-Pico-D1__Mitayi-Pico-D1/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "circuitstate/mitayi-pico-d1",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "52dc529d6caf77d947c25f8b7f68d2c8a43f0ee5f05bff3ceaec1c7d0698aa5c",
+      "git_blob": "df7e0f045b8fc5a96c77c76c01c3690a558eed66",
+      "bytes": 1973491,
+      "source_url": "https://github.com/CIRCUITSTATE/Mitayi-Pico-D1/blob/8411224b5795dd74843ff87e8ead096f1e13e11d/Mitayi-Pico-D1.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "059dc5304d4e70576946804d39a542b8b483eac32817ccf6d2764b43807692cb",
+      "git_blob": "b014d3f00af0f1fc319839494ca53814dd7d7c2b",
+      "bytes": 1085,
+      "source_url": "https://github.com/CIRCUITSTATE/Mitayi-Pico-D1/blob/8411224b5795dd74843ff87e8ead096f1e13e11d/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "c8bd3909f11916aad6b412a94fa4a0ac9223b5cc251b5ee2d64ffd8778430c99",
+      "git_blob": "2cbfb719202746af2470426a10f640ebea6a6017",
+      "bytes": 22051,
+      "source_url": "https://github.com/CIRCUITSTATE/Mitayi-Pico-D1/blob/8411224b5795dd74843ff87e8ead096f1e13e11d/Mitayi-Pico-D1.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "439e10e1981d7dc22681b182350c6099589936d9b9f2cb0e59e8e1acf4bf24f1",
+      "git_blob": "abae10b660f08327f72ef483a4c098c70e0c0a86",
+      "bytes": 2360,
+      "source_url": "https://github.com/CIRCUITSTATE/Mitayi-Pico-D1/blob/8411224b5795dd74843ff87e8ead096f1e13e11d/README.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

@@ -1,0 +1,50 @@
+{
+  "repository": "adbj-hw/ESPiezometer",
+  "revision": "44cf5f93f637011960ef7ef9fb418084453eca1a",
+  "source_url": "https://github.com/adbj-hw/ESPiezometer/blob/44cf5f93f637011960ef7ef9fb418084453eca1a/2_PCB_Gerber_Files/ESPiezometer.kicad_pcb",
+  "source_location": "https://github.com/adbj-hw/ESPiezometer/tree/44cf5f93f637011960ef7ef9fb418084453eca1a",
+  "license": "CERN-OHL-W-2.0",
+  "license_url": "https://github.com/adbj-hw/ESPiezometer/blob/44cf5f93f637011960ef7ef9fb418084453eca1a/2_PCB_Gerber_Files/LICENSE.txt",
+  "catalog_source": "https://github.com/adbj-hw/ESPiezometer",
+  "route_provenance": "unknown",
+  "family": "adbj-hw/espiezometer",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "44a5876a5abd9023f0decca84ef29208eacb56f1ccb9d9becd6cd78e68ce024b",
+      "git_blob": "f133a7d6c6b82d2d18899dd41d58994a1af34a6c",
+      "bytes": 269975,
+      "source_url": "https://github.com/adbj-hw/ESPiezometer/blob/44cf5f93f637011960ef7ef9fb418084453eca1a/2_PCB_Gerber_Files/ESPiezometer.kicad_pcb"
+    },
+    "upstream/LICENSE-CERN-OHL-W.txt": {
+      "sha256": "4b6a7717ef4fcd145eabb577de44d84ffdc893532177b67479dad42f6c4e355e",
+      "git_blob": "1f714da965d775fe697f3268813212c84f8aac26",
+      "bytes": 14539,
+      "source_url": "https://github.com/adbj-hw/ESPiezometer/blob/44cf5f93f637011960ef7ef9fb418084453eca1a/7_Licenses/LICENSE_CERN-OHL-W.txt"
+    },
+    "upstream/notices/PCB-LICENSE.txt": {
+      "sha256": "4b6a7717ef4fcd145eabb577de44d84ffdc893532177b67479dad42f6c4e355e",
+      "git_blob": "1f714da965d775fe697f3268813212c84f8aac26",
+      "bytes": 14539,
+      "source_url": "https://github.com/adbj-hw/ESPiezometer/blob/44cf5f93f637011960ef7ef9fb418084453eca1a/2_PCB_Gerber_Files/LICENSE.txt"
+    },
+    "upstream/LICENSE.txt": {
+      "sha256": "5535834334e54c5bb44f0be978ac77fc6e9164a88196422929d3d88dd6c30e35",
+      "git_blob": "ce06554c629d7163c17f69316b4ae87d61d31a41",
+      "bytes": 2218,
+      "source_url": "https://github.com/adbj-hw/ESPiezometer/blob/44cf5f93f637011960ef7ef9fb418084453eca1a/LICENSE.txt"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "b699ed49cc38db085dd7099e9614027665d462034f6347e6aff39f7ffe9b9b5d",
+      "git_blob": "ba9afda26a3f3a6da153aef78e8b9bd51725527b",
+      "bytes": 5005,
+      "source_url": "https://github.com/adbj-hw/ESPiezometer/blob/44cf5f93f637011960ef7ef9fb418084453eca1a/README.md"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "866249e992864363d1e70fbd8a88b8e4d9f406681fe8425d5e6644a274860f4b",
+      "git_blob": "ad0284089fd8ac484e5e302bf4f64638b7105760",
+      "bytes": 15460,
+      "source_url": "https://github.com/adbj-hw/ESPiezometer/blob/44cf5f93f637011960ef7ef9fb418084453eca1a/2_PCB_Gerber_Files/ESPiezometer.kicad_pro"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

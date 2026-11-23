@@ -1,0 +1,38 @@
+{
+  "repository": "mecparts/RetroWiFiModem",
+  "revision": "93ae395d948b36fcf846eda8158dcae77d6c4593",
+  "source_url": "https://github.com/mecparts/RetroWiFiModem/blob/93ae395d948b36fcf846eda8158dcae77d6c4593/kicad/RetroWiFiModem.kicad_pcb",
+  "source_location": "https://github.com/mecparts/RetroWiFiModem/tree/93ae395d948b36fcf846eda8158dcae77d6c4593",
+  "license": "GPL-3.0",
+  "license_url": "https://github.com/mecparts/RetroWiFiModem/blob/93ae395d948b36fcf846eda8158dcae77d6c4593/LICENSE.txt",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/mecparts__RetroWiFiModem__RetroWiFiModem/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "mecparts/retrowifimodem",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "0954824f35c81276c1b87f3832fc2c5cd1f9b3b556821c2f19db83b206034e14",
+      "git_blob": "f26b6c863ee0d9c6bde491e359fd66ca1ae7a7ad",
+      "bytes": 1006460,
+      "source_url": "https://github.com/mecparts/RetroWiFiModem/blob/93ae395d948b36fcf846eda8158dcae77d6c4593/kicad/RetroWiFiModem.kicad_pcb"
+    },
+    "upstream/LICENSE.txt": {
+      "sha256": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+      "git_blob": "9cecc1d4669ee8af2ca727a5d8cde10cd8b2d7cc",
+      "bytes": 35141,
+      "source_url": "https://github.com/mecparts/RetroWiFiModem/blob/93ae395d948b36fcf846eda8158dcae77d6c4593/LICENSE.txt"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "cdde4e2b8d963b8fde502f9e8d43275c3278a0a8c16fb41543f2cf8629dd1004",
+      "git_blob": "89941d9f3460545cb330c428dc062d4333258eb3",
+      "bytes": 9946,
+      "source_url": "https://github.com/mecparts/RetroWiFiModem/blob/93ae395d948b36fcf846eda8158dcae77d6c4593/kicad/RetroWiFiModem.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "3240b0f092e55d54ef650bb876883da238a646d5cfd2292488416ecfbca96670",
+      "git_blob": "a983640fa789d6d8905ce91a688e5f4d2e174f95",
+      "bytes": 24604,
+      "source_url": "https://github.com/mecparts/RetroWiFiModem/blob/93ae395d948b36fcf846eda8158dcae77d6c4593/README.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

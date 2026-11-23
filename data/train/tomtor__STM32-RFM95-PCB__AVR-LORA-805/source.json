@@ -1,0 +1,38 @@
+{
+  "repository": "tomtor/STM32-RFM95-PCB",
+  "revision": "5bc3abfc7fafb9c0257237f01dd81a30a5f4eddf",
+  "source_url": "https://github.com/tomtor/STM32-RFM95-PCB/blob/5bc3abfc7fafb9c0257237f01dd81a30a5f4eddf/AVR-LORA-805.kicad_pcb",
+  "source_location": "https://github.com/tomtor/STM32-RFM95-PCB/tree/5bc3abfc7fafb9c0257237f01dd81a30a5f4eddf",
+  "license": "GPL-3.0",
+  "license_url": "https://github.com/tomtor/STM32-RFM95-PCB/blob/5bc3abfc7fafb9c0257237f01dd81a30a5f4eddf/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/tomtor__STM32-RFM95-PCB__AVR-LORA-805/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "tomtor/stm32-rfm95-pcb",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "aa4b15d51551dca4fc7119a86ba966d6d350df0c2a89c1a6c18d5269dd2771e0",
+      "git_blob": "2baed6e1125e60d86deba093b40bb1a698fbdc03",
+      "bytes": 611758,
+      "source_url": "https://github.com/tomtor/STM32-RFM95-PCB/blob/5bc3abfc7fafb9c0257237f01dd81a30a5f4eddf/AVR-LORA-805.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "git_blob": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "bytes": 35149,
+      "source_url": "https://github.com/tomtor/STM32-RFM95-PCB/blob/5bc3abfc7fafb9c0257237f01dd81a30a5f4eddf/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "cb86c48b55a99e3847491c764085a957254a164ab2d71ae391b70926e5d3bb6c",
+      "git_blob": "fa5ed8558a6f12982279214b6fb88c907585f137",
+      "bytes": 18179,
+      "source_url": "https://github.com/tomtor/STM32-RFM95-PCB/blob/5bc3abfc7fafb9c0257237f01dd81a30a5f4eddf/AVR-LORA-805.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "64ec5788f014f34db0f41eda5f89425a523a974c458763b196f3e84f8bab04a3",
+      "git_blob": "6c0ade1525c70444f427bdf65fb3f8573fa5385f",
+      "bytes": 1751,
+      "source_url": "https://github.com/tomtor/STM32-RFM95-PCB/blob/5bc3abfc7fafb9c0257237f01dd81a30a5f4eddf/README.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

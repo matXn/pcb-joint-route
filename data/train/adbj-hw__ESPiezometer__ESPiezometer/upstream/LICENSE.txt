@@ -1,0 +1,47 @@
+ESPiezometer – Open Hardware Licensing Declaration
+==================================================
+
+This repository contains multiple components released under different open licenses, in accordance with OSHWA open hardware certification requirements. Each component retains its own license obligations as summarized below.
+
+----------------------------------------------------------------------
+LICENSE SCOPE BY COMPONENT
+----------------------------------------------------------------------
+
+1. Firmware (ESP32-C3 Arduino code) and Mobile App (.apk / .aia sources)
+   → License: GNU General Public License v3.0 (GPLv3)
+
+2. PCB Design Files (KiCad .kicad_sch, .kicad_pcb, Gerbers)
+   → License: CERN Open Hardware License – Weakly Reciprocal Variant v2 (CERN-OHL-W v2)
+
+3. Mechanical Enclosure Files (.stl)
+   → License: CERN Open Hardware License – Permissive Variant v2 (CERN-OHL-P v2)
+
+4. Documentation, Photographs, PDF Guides, and Field Reports
+   → License: Creative Commons Attribution 4.0 International (CC-BY-4.0)
+
+----------------------------------------------------------------------
+FULL LICENSE TEXTS
+----------------------------------------------------------------------
+
+The complete license texts for all referenced licenses are included in:
+
+./7_Licenses/
+ ├── LICENSE_GPLv3.txt
+ ├── LICENSE_CERN-OHL-P.txt
+ ├── LICENSE_CERN-OHL-W.txt
+ ├── LICENSE_CC-BY-4.0.txt
+
+----------------------------------------------------------------------
+DECLARATION OF OPEN HARDWARE INTENT
+----------------------------------------------------------------------
+
+The ESPiezometer project is released as open hardware to enable free replication, modification, and scientific validation. All design source files are provided in editable formats without DRM or proprietary restrictions.
+
+Users are encouraged to fork, adapt, and improve the design, provided that:
+- Original attribution is preserved.
+- Hardware license terms (CERN-OHL-P/W) are respected.
+- Firmware and software derivatives remain under GPLv3.
+- Documentation credits are maintained when redistributed.
+
+----------------------------------------------------------------------
+END OF LICENSE DECLARATION (root file)

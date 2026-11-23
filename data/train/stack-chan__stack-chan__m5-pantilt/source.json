@@ -1,0 +1,56 @@
+{
+  "repository": "stack-chan/stack-chan",
+  "revision": "2f6b5a65e30278fdbd1c5114cab6d42cdb7b7a0d",
+  "source_url": "https://github.com/stack-chan/stack-chan/blob/2f6b5a65e30278fdbd1c5114cab6d42cdb7b7a0d/schematics/m5-pantilt/m5-pantilt.kicad_pcb",
+  "source_location": "https://github.com/stack-chan/stack-chan/tree/2f6b5a65e30278fdbd1c5114cab6d42cdb7b7a0d",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/stack-chan/stack-chan/blob/2f6b5a65e30278fdbd1c5114cab6d42cdb7b7a0d/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/stack-chan__stack-chan__m5-pantilt/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "stack-chan/stack-chan",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "946037a645752feb8d29ad74d7c21cc249026218567abd53bfb1030a22018966",
+      "git_blob": "d9adfff3d09e602616fdedeac5e20e712f85470e",
+      "bytes": 650835,
+      "source_url": "https://github.com/stack-chan/stack-chan/blob/2f6b5a65e30278fdbd1c5114cab6d42cdb7b7a0d/schematics/m5-pantilt/m5-pantilt.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "5123845c54a384c407e364dcc45f7680ed12afe01cbc7a851a164d3370a35a04",
+      "git_blob": "c80393f4ecbafaf8673de4a71f72452c9e27d79e",
+      "bytes": 11344,
+      "source_url": "https://github.com/stack-chan/stack-chan/blob/2f6b5a65e30278fdbd1c5114cab6d42cdb7b7a0d/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "406f9b8e68636973fb3dc9616d99227a1ef6101f4b254e4b38a5af7815f33f4b",
+      "git_blob": "7ade7843e19ad44e0c4b71688334ee131cea39f5",
+      "bytes": 12188,
+      "source_url": "https://github.com/stack-chan/stack-chan/blob/2f6b5a65e30278fdbd1c5114cab6d42cdb7b7a0d/schematics/m5-pantilt/m5-pantilt.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "7143dfdb0b91d8ae1e4f86be05330362625c5bef99f41d2b3703c9ed2b72713a",
+      "git_blob": "32e7f8280b7c6857b267a8ad8fa9100c9e2b201a",
+      "bytes": 5914,
+      "source_url": "https://github.com/stack-chan/stack-chan/blob/2f6b5a65e30278fdbd1c5114cab6d42cdb7b7a0d/README.md"
+    },
+    "upstream/notices/README_ja.md": {
+      "sha256": "254848546d41e495a250051e57ef02393f0b8d26ceb0033158d910dc2ae469b7",
+      "git_blob": "030dde9095911ccacc8f1a7df0b72ae380983bc7",
+      "bytes": 6939,
+      "source_url": "https://github.com/stack-chan/stack-chan/blob/2f6b5a65e30278fdbd1c5114cab6d42cdb7b7a0d/README_ja.md"
+    },
+    "upstream/notices/schematics/README.md": {
+      "sha256": "12428e6db3f1d895f57249cdc719c47c9f0b408629cb4fc1c0b23dc774527252",
+      "git_blob": "858975edb25180d6a8034d9397bb9a7279a9aa27",
+      "bytes": 2090,
+      "source_url": "https://github.com/stack-chan/stack-chan/blob/2f6b5a65e30278fdbd1c5114cab6d42cdb7b7a0d/schematics/README.md"
+    },
+    "upstream/notices/schematics/README_ja.md": {
+      "sha256": "d53d84a0e76349764c3c01bb4df7464b483624193dac9956190134bf8bb1514e",
+      "git_blob": "a020fba23b7bad9de5f4cf618b447cd02d63eca4",
+      "bytes": 2471,
+      "source_url": "https://github.com/stack-chan/stack-chan/blob/2f6b5a65e30278fdbd1c5114cab6d42cdb7b7a0d/schematics/README_ja.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

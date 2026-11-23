@@ -1,0 +1,44 @@
+{
+  "repository": "DIYSynthMNL/Eurorack-Multi-Saturation-Module",
+  "revision": "281ab92a5fad830589a045e4be12e66a5104dbd5",
+  "source_url": "https://github.com/DIYSynthMNL/Eurorack-Multi-Saturation-Module/blob/281ab92a5fad830589a045e4be12e66a5104dbd5/kicad/Multi%20saturation%20module.kicad_pcb",
+  "source_location": "https://github.com/DIYSynthMNL/Eurorack-Multi-Saturation-Module/tree/281ab92a5fad830589a045e4be12e66a5104dbd5",
+  "license": "GPL-3.0",
+  "license_url": "https://github.com/DIYSynthMNL/Eurorack-Multi-Saturation-Module/blob/281ab92a5fad830589a045e4be12e66a5104dbd5/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/DIYSynthMNL__Eurorack-Multi-Saturation-Module__Multi_saturation_module/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "diysynthmnl/eurorack-multi-saturation-module",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "99751d61f491e04a7b465803a45f3c7294bec244df2c33e75018192424f709b0",
+      "git_blob": "6393a41eb0767a65ec1ef34c1bbbb84296610884",
+      "bytes": 9487914,
+      "source_url": "https://github.com/DIYSynthMNL/Eurorack-Multi-Saturation-Module/blob/281ab92a5fad830589a045e4be12e66a5104dbd5/kicad/Multi%20saturation%20module.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "git_blob": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "bytes": 35149,
+      "source_url": "https://github.com/DIYSynthMNL/Eurorack-Multi-Saturation-Module/blob/281ab92a5fad830589a045e4be12e66a5104dbd5/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "31fa1c111600684c7cb58d793c9c7bee41eb2a72992bd9cdb8ce1c715c15011b",
+      "git_blob": "717ce958ef1ce13005358eade91ff6f5738aa2cf",
+      "bytes": 13645,
+      "source_url": "https://github.com/DIYSynthMNL/Eurorack-Multi-Saturation-Module/blob/281ab92a5fad830589a045e4be12e66a5104dbd5/kicad/Multi%20saturation%20module.kicad_pro"
+    },
+    "upstream/notices/kicad/readme.md": {
+      "sha256": "acd06be0f4400813791af254cebcfafa8c83648f4ead3cc5d9aced0c529745d4",
+      "git_blob": "1657a7c4af21b8a7a4d09a157ffe3748ff620cd1",
+      "bytes": 442,
+      "source_url": "https://github.com/DIYSynthMNL/Eurorack-Multi-Saturation-Module/blob/281ab92a5fad830589a045e4be12e66a5104dbd5/kicad/readme.md"
+    },
+    "upstream/notices/readme.md": {
+      "sha256": "82f01f1fea57be605cbeffc638467210ac6fe49d9a2dd395b2724f3ac4be3230",
+      "git_blob": "ebb11503b6be7993460896e150f823033fcec0ff",
+      "bytes": 14363,
+      "source_url": "https://github.com/DIYSynthMNL/Eurorack-Multi-Saturation-Module/blob/281ab92a5fad830589a045e4be12e66a5104dbd5/readme.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

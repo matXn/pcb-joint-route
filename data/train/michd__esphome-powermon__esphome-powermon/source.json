@@ -1,0 +1,38 @@
+{
+  "repository": "michd/esphome-powermon",
+  "revision": "ec6807d6feed37bb9ef83a7a3e33a023d8b1684e",
+  "source_url": "https://github.com/michd/esphome-powermon/blob/ec6807d6feed37bb9ef83a7a3e33a023d8b1684e/esphome-powermon.kicad_pcb",
+  "source_location": "https://github.com/michd/esphome-powermon/tree/ec6807d6feed37bb9ef83a7a3e33a023d8b1684e",
+  "license": "CERN-OHL-P-2.0",
+  "license_url": "https://github.com/michd/esphome-powermon/blob/ec6807d6feed37bb9ef83a7a3e33a023d8b1684e/LICENSE",
+  "catalog_source": "https://github.com/michd/esphome-powermon",
+  "route_provenance": "unknown",
+  "family": "michd/esphome-powermon",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "b4a0c904d93e74b4a00c13a7170a41b5b21c8f74eca6f7858c350571f48b74ef",
+      "git_blob": "74bd225e02ae28cf85b775d1c62c3fffd8462158",
+      "bytes": 545397,
+      "source_url": "https://github.com/michd/esphome-powermon/blob/ec6807d6feed37bb9ef83a7a3e33a023d8b1684e/esphome-powermon.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "d4fefe93d4e64a6478df17654857ebfad512fecd32c7bc06be544f1816830763",
+      "git_blob": "e24018fa9fe04ed0c68c0c924a5fe17e6059a4cf",
+      "bytes": 8781,
+      "source_url": "https://github.com/michd/esphome-powermon/blob/ec6807d6feed37bb9ef83a7a3e33a023d8b1684e/LICENSE"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "4edd6cb0712476f7251a9d0fbd14b9755f2078f69ab471e96b895ae3705ee6b2",
+      "git_blob": "e601697d1689a58337fabaf124b711090b7e2498",
+      "bytes": 8950,
+      "source_url": "https://github.com/michd/esphome-powermon/blob/ec6807d6feed37bb9ef83a7a3e33a023d8b1684e/README.md"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "99a9d5822fde6d97d8d92a20f4d00ba981cf3d952ae1f23a5fd46fecaf58f7e7",
+      "git_blob": "4d1876d443d7b4755e54db53867be6699e713fcd",
+      "bytes": 12430,
+      "source_url": "https://github.com/michd/esphome-powermon/blob/ec6807d6feed37bb9ef83a7a3e33a023d8b1684e/esphome-powermon.kicad_pro"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

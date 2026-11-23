@@ -1,0 +1,38 @@
+{
+  "repository": "mohamedboubaker/Battery-Powered-STM32-Board-With-USB",
+  "revision": "a33a81c9199174a9116dfb75a76a126d2341667e",
+  "source_url": "https://github.com/mohamedboubaker/Battery-Powered-STM32-Board-With-USB/blob/a33a81c9199174a9116dfb75a76a126d2341667e/Hardware/ORBIT.kicad_pcb",
+  "source_location": "https://github.com/mohamedboubaker/Battery-Powered-STM32-Board-With-USB/tree/a33a81c9199174a9116dfb75a76a126d2341667e",
+  "license": "MIT",
+  "license_url": "https://github.com/mohamedboubaker/Battery-Powered-STM32-Board-With-USB/blob/a33a81c9199174a9116dfb75a76a126d2341667e/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/mohamedboubaker__Battery-Powered-STM32-Board-With-USB__ORBIT/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "mohamedboubaker/battery-powered-stm32-board-with-usb",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "964e8adcbc3988f1fcb8c7414a0a1073a978ca6928575f66743efc769057c061",
+      "git_blob": "1419d89d54ef0fc9c6326794695e43851ebaa016",
+      "bytes": 680750,
+      "source_url": "https://github.com/mohamedboubaker/Battery-Powered-STM32-Board-With-USB/blob/a33a81c9199174a9116dfb75a76a126d2341667e/Hardware/ORBIT.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "e623293e075da12b7baa12c0af704f654e3e1e049f408388e7fa91896503f545",
+      "git_blob": "3100d0de1eba84928ed60d3d67cf91615ea576f6",
+      "bytes": 1072,
+      "source_url": "https://github.com/mohamedboubaker/Battery-Powered-STM32-Board-With-USB/blob/a33a81c9199174a9116dfb75a76a126d2341667e/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "ebe70c5bc3bcdbc92a2d1422dc40f6c9b88e91b05a60ee7005b367dc11a9c96b",
+      "git_blob": "e1a2c69ac3f6c502ce537da36a2c237fc88abccb",
+      "bytes": 11415,
+      "source_url": "https://github.com/mohamedboubaker/Battery-Powered-STM32-Board-With-USB/blob/a33a81c9199174a9116dfb75a76a126d2341667e/Hardware/ORBIT.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "7316fc0acfdf00a87052da31d2a60ce2c0b46a715e15f1b3a7ef96da3e643022",
+      "git_blob": "406cc606526bad733712fd61ab1aef09518bf63d",
+      "bytes": 429,
+      "source_url": "https://github.com/mohamedboubaker/Battery-Powered-STM32-Board-With-USB/blob/a33a81c9199174a9116dfb75a76a126d2341667e/README.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

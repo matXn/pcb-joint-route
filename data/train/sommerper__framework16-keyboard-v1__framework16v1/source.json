@@ -1,0 +1,38 @@
+{
+  "repository": "sommerper/framework16-keyboard-v1",
+  "revision": "0367c605819d629a1eedcd6792cfe532f3803712",
+  "source_url": "https://github.com/sommerper/framework16-keyboard-v1/blob/0367c605819d629a1eedcd6792cfe532f3803712/kicad/framework16v1/framework16v1.kicad_pcb",
+  "source_location": "https://github.com/sommerper/framework16-keyboard-v1/tree/0367c605819d629a1eedcd6792cfe532f3803712",
+  "license": "MIT",
+  "license_url": "https://github.com/sommerper/framework16-keyboard-v1/blob/0367c605819d629a1eedcd6792cfe532f3803712/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/sommerper__framework16-keyboard-v1__framework16v1/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "sommerper/framework16-keyboard-v1",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "f8f42ab168035896af99c58a9f65a40f8894fbd2db19bc613d49cda76284040e",
+      "git_blob": "2373793fef2b25d0dc67878ff5dfcc1ca87e5027",
+      "bytes": 1644202,
+      "source_url": "https://github.com/sommerper/framework16-keyboard-v1/blob/0367c605819d629a1eedcd6792cfe532f3803712/kicad/framework16v1/framework16v1.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "cfdd6ab13cf387738d525c4c6abb0b804c0df793189a2700dd1e878ba3fc2a91",
+      "git_blob": "7877e2757306b0872a177c9b7039ed11979419f2",
+      "bytes": 1066,
+      "source_url": "https://github.com/sommerper/framework16-keyboard-v1/blob/0367c605819d629a1eedcd6792cfe532f3803712/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "41594506ffdccb28172cd134a86819ba120f3aef18a6a9d46909ecd0114bf30e",
+      "git_blob": "bf03d499f2f81beccfae1a26965f5f29b424a562",
+      "bytes": 15511,
+      "source_url": "https://github.com/sommerper/framework16-keyboard-v1/blob/0367c605819d629a1eedcd6792cfe532f3803712/kicad/framework16v1/framework16v1.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "516570168bc5818df989dee48932e59c58e0792ebd2ecf88c884a42e3ac02d00",
+      "git_blob": "ea5bf670885e22b84739451a0f8c0094aa730e25",
+      "bytes": 1358,
+      "source_url": "https://github.com/sommerper/framework16-keyboard-v1/blob/0367c605819d629a1eedcd6792cfe532f3803712/README.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

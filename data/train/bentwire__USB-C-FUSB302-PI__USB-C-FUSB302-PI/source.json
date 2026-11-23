@@ -1,0 +1,44 @@
+{
+  "repository": "bentwire/USB-C-FUSB302-PI",
+  "revision": "7d95292262b42767bbeefebadb6bafe055923d50",
+  "source_url": "https://github.com/bentwire/USB-C-FUSB302-PI/blob/7d95292262b42767bbeefebadb6bafe055923d50/USB-C-FUSB302-PI.kicad_pcb",
+  "source_location": "https://github.com/bentwire/USB-C-FUSB302-PI/tree/7d95292262b42767bbeefebadb6bafe055923d50",
+  "license": "MIT",
+  "license_url": "https://github.com/bentwire/USB-C-FUSB302-PI/blob/7d95292262b42767bbeefebadb6bafe055923d50/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/bentwire__USB-C-FUSB302-PI__USB-C-FUSB302-PI/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "bentwire/usb-c-fusb302-pi",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "2f3b4a62d4034342854fe1ac1c47c62f289756875668acf0320e72ff7868241d",
+      "git_blob": "a045b8eb37e06f8cc2f1d3570defb24208bc4754",
+      "bytes": 807798,
+      "source_url": "https://github.com/bentwire/USB-C-FUSB302-PI/blob/7d95292262b42767bbeefebadb6bafe055923d50/USB-C-FUSB302-PI.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "e3bd2123ddfedf44c2b4078b86e3d6c5be483f3675612bfc6076bbacc03077c8",
+      "git_blob": "033333342d5fc48a6c852227b7764a0e82858313",
+      "bytes": 1069,
+      "source_url": "https://github.com/bentwire/USB-C-FUSB302-PI/blob/7d95292262b42767bbeefebadb6bafe055923d50/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "76192f5fc1b8b1734a426155e2f924fdd9107eae3e57e3dafbd16cc99ccaeda9",
+      "git_blob": "a967fa8e4bf87c0de406bf951452e98f71d91a76",
+      "bytes": 12278,
+      "source_url": "https://github.com/bentwire/USB-C-FUSB302-PI/blob/7d95292262b42767bbeefebadb6bafe055923d50/USB-C-FUSB302-PI.kicad_pro"
+    },
+    "upstream/board.kicad_dru": {
+      "sha256": "782a7547b2aa69dde9a558b21f4da2c91e70b8a2eb110698f8b63c5bdcd95034",
+      "git_blob": "0f9551c97149781be85b7186f42334c4e6b5400f",
+      "bytes": 486,
+      "source_url": "https://github.com/bentwire/USB-C-FUSB302-PI/blob/7d95292262b42767bbeefebadb6bafe055923d50/USB-C-FUSB302-PI.kicad_dru"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "2886611325f82fa7f793c7f5831ee7b87641b49db35b5bb909ccd26f30b897f5",
+      "git_blob": "f2d644262401e3a58ffe97c141d9b10e42c22ced",
+      "bytes": 62,
+      "source_url": "https://github.com/bentwire/USB-C-FUSB302-PI/blob/7d95292262b42767bbeefebadb6bafe055923d50/README.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

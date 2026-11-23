@@ -1,0 +1,44 @@
+{
+  "repository": "AzonInc/Doorman",
+  "revision": "fdec5c030e77bb8e0219d745cc0282139c96836c",
+  "source_url": "https://github.com/AzonInc/Doorman/blob/fdec5c030e77bb8e0219d745cc0282139c96836c/pcb/doorman.kicad_pcb",
+  "source_location": "https://github.com/AzonInc/Doorman/tree/fdec5c030e77bb8e0219d745cc0282139c96836c",
+  "license": "GPL-3.0",
+  "license_url": "https://github.com/AzonInc/Doorman/blob/fdec5c030e77bb8e0219d745cc0282139c96836c/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/AzonInc__Doorman__doorman/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "azoninc/doorman",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "01072e98296b3a546db78afcae824e8be1b9a16f1ad0372a57a2ec249346ba80",
+      "git_blob": "53bdb4d63f671daf00db38143c9b5676aa843ccd",
+      "bytes": 764219,
+      "source_url": "https://github.com/AzonInc/Doorman/blob/fdec5c030e77bb8e0219d745cc0282139c96836c/pcb/doorman.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "8b1ba204bb69a0ade2bfcf65ef294a920f6bb361b317dba43c7ef29d96332b9b",
+      "git_blob": "e72bfddabc15be5718a7cc061ac10e47741d8219",
+      "bytes": 35148,
+      "source_url": "https://github.com/AzonInc/Doorman/blob/fdec5c030e77bb8e0219d745cc0282139c96836c/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "a07e8ca4d03310993c1af2129248f153bfe93958ed760981459e94d7c64110da",
+      "git_blob": "fa9f3030c0dd6bd7326f9a4797a1ea84d7380b22",
+      "bytes": 20514,
+      "source_url": "https://github.com/AzonInc/Doorman/blob/fdec5c030e77bb8e0219d745cc0282139c96836c/pcb/doorman.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "05875dfda881729e80d0eac2581d54e3bb05fca71f4418df35f140cdace317ec",
+      "git_blob": "8f691d73fcd552abc5db9ac1745a03e8479523fc",
+      "bytes": 6837,
+      "source_url": "https://github.com/AzonInc/Doorman/blob/fdec5c030e77bb8e0219d745cc0282139c96836c/README.md"
+    },
+    "upstream/notices/pcb/README.md": {
+      "sha256": "85f7f12ddb3b74976b53d0904312dd656578cd7e1c81ae36074a1a8bd0c190d0",
+      "git_blob": "6c90a83d74a8d920ce293e5f0e4a8f90e5090a91",
+      "bytes": 167,
+      "source_url": "https://github.com/AzonInc/Doorman/blob/fdec5c030e77bb8e0219d745cc0282139c96836c/pcb/README.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

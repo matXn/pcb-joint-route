@@ -1,0 +1,38 @@
+{
+  "repository": "KabukiFlux/Duplicanator-Scart-Duplicator",
+  "revision": "6ba5ec0b55c7774b167d11d3738b21775ac1bc7e",
+  "source_url": "https://github.com/KabukiFlux/Duplicanator-Scart-Duplicator/blob/6ba5ec0b55c7774b167d11d3738b21775ac1bc7e/KiCAD/scart_duplicator/scart_duplicator.kicad_pcb",
+  "source_location": "https://github.com/KabukiFlux/Duplicanator-Scart-Duplicator/tree/6ba5ec0b55c7774b167d11d3738b21775ac1bc7e",
+  "license": "MIT",
+  "license_url": "https://github.com/KabukiFlux/Duplicanator-Scart-Duplicator/blob/6ba5ec0b55c7774b167d11d3738b21775ac1bc7e/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/KabukiFlux__Duplicanator-Scart-Duplicator__scart_duplicator/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "kabukiflux/duplicanator-scart-duplicator",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "e6f698091001bcee6a989f5734cfc390a5bcd3af3a69b1f0d24e101701071f23",
+      "git_blob": "156edd36ece96832f6309c0d97cd444b5ac96935",
+      "bytes": 894932,
+      "source_url": "https://github.com/KabukiFlux/Duplicanator-Scart-Duplicator/blob/6ba5ec0b55c7774b167d11d3738b21775ac1bc7e/KiCAD/scart_duplicator/scart_duplicator.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "d53fcb07ff69737238fd8ba9faf1fe451dae25af3a8ea9f6f15361e36bde7d17",
+      "git_blob": "73cc57b928b8a6296783da8cf51da910463043dd",
+      "bytes": 1068,
+      "source_url": "https://github.com/KabukiFlux/Duplicanator-Scart-Duplicator/blob/6ba5ec0b55c7774b167d11d3738b21775ac1bc7e/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "b3801b004632e27b7dfccefcc6fcacf2a22ef80e8303142243116ca378a9f6f7",
+      "git_blob": "1fa43a474ac5f00d256e0e21db31dc99d379e515",
+      "bytes": 12362,
+      "source_url": "https://github.com/KabukiFlux/Duplicanator-Scart-Duplicator/blob/6ba5ec0b55c7774b167d11d3738b21775ac1bc7e/KiCAD/scart_duplicator/scart_duplicator.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "751b8ff9d943f1805befe66bd0f20b99ae58566011473ef36672cee88e6ce901",
+      "git_blob": "f016e6bd90e2281da9ba4984d4574feaf8ae3ca2",
+      "bytes": 2879,
+      "source_url": "https://github.com/KabukiFlux/Duplicanator-Scart-Duplicator/blob/6ba5ec0b55c7774b167d11d3738b21775ac1bc7e/README.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

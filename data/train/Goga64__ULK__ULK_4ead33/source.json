@@ -1,0 +1,38 @@
+{
+  "repository": "Goga64/ULK",
+  "revision": "32fccf4621cc56d1907aa7889cb8d95d5e8625b5",
+  "source_url": "https://github.com/Goga64/ULK/blob/32fccf4621cc56d1907aa7889cb8d95d5e8625b5/KiCad/ULK_pg1316s_Original_Silkscreen/ULK.kicad_pcb",
+  "source_location": "https://github.com/Goga64/ULK/tree/32fccf4621cc56d1907aa7889cb8d95d5e8625b5",
+  "license": "MIT",
+  "license_url": "https://github.com/Goga64/ULK/blob/32fccf4621cc56d1907aa7889cb8d95d5e8625b5/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/Goga64__ULK__ULK_4ead33/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "goga64/ulk",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "861817932d33911c28b9160aa34ee9ada9730efb329e375d4ae8d96a3552001a",
+      "git_blob": "4ead3363bf30ae46ae1634fb6cd1ccf6765c0576",
+      "bytes": 5164526,
+      "source_url": "https://github.com/Goga64/ULK/blob/32fccf4621cc56d1907aa7889cb8d95d5e8625b5/KiCad/ULK_pg1316s_Original_Silkscreen/ULK.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "c34b7d548fa3194ebfdb374e86b89d96c259f9c39a2a7191496de8d4f18faa98",
+      "git_blob": "f81b58685215d7ddda39ba7173ab90452d2cd762",
+      "bytes": 1075,
+      "source_url": "https://github.com/Goga64/ULK/blob/32fccf4621cc56d1907aa7889cb8d95d5e8625b5/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "1877bdd547781bdc6184998469d5ef3ed187afd9196acd479a69beaaef16b8d6",
+      "git_blob": "d9f07f5ebced151eeac234293c120931f3782c66",
+      "bytes": 15344,
+      "source_url": "https://github.com/Goga64/ULK/blob/32fccf4621cc56d1907aa7889cb8d95d5e8625b5/KiCad/ULK_pg1316s_Original_Silkscreen/ULK.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "cf6a03ce4df2c56fa5477dba7fed84bb04a7872a37629dcf685f6570a79712c9",
+      "git_blob": "7cc1d5c09ca734c47c52bcb7e9310876dd0a98a9",
+      "bytes": 6116,
+      "source_url": "https://github.com/Goga64/ULK/blob/32fccf4621cc56d1907aa7889cb8d95d5e8625b5/README.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

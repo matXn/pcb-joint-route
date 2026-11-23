@@ -1,0 +1,44 @@
+{
+  "repository": "angelnu/esphome",
+  "revision": "ad19ea14031634deeee4e6820c2e613fb215778e",
+  "source_url": "https://github.com/angelnu/esphome/blob/ad19ea14031634deeee4e6820c2e613fb215778e/devices/pcb-siedle-bus/kicad/siedle-bus/siedle-bus.kicad_pcb",
+  "source_location": "https://github.com/angelnu/esphome/tree/ad19ea14031634deeee4e6820c2e613fb215778e",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/angelnu/esphome/blob/ad19ea14031634deeee4e6820c2e613fb215778e/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/angelnu__esphome__siedle-bus/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "angelnu/esphome",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "e92f63df1d0da44fd068e9cfe44c19523f90e407a360c1537fcb4b9794d55d81",
+      "git_blob": "7998ed916b6f16beaa5878fb279dd2564dee693a",
+      "bytes": 456161,
+      "source_url": "https://github.com/angelnu/esphome/blob/ad19ea14031634deeee4e6820c2e613fb215778e/devices/pcb-siedle-bus/kicad/siedle-bus/siedle-bus.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+      "git_blob": "29f81d812f3e768fa89638d1f72920dbfd1413a8",
+      "bytes": 11558,
+      "source_url": "https://github.com/angelnu/esphome/blob/ad19ea14031634deeee4e6820c2e613fb215778e/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "cf7f204193e7582882ab6e6dcfccbc9b7c69a38f0197666299cf7c8c2b778984",
+      "git_blob": "1ffd80ac47fb0162e76c50879ea1efb6b279ea44",
+      "bytes": 19161,
+      "source_url": "https://github.com/angelnu/esphome/blob/ad19ea14031634deeee4e6820c2e613fb215778e/devices/pcb-siedle-bus/kicad/siedle-bus/siedle-bus.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "f1f371a8e33356c696a8962ffc7c50a3154d277dd414f04d15ef396850188b03",
+      "git_blob": "63cf802837b90fa267111bb8ae4e3e8ba5cb37a2",
+      "bytes": 850,
+      "source_url": "https://github.com/angelnu/esphome/blob/ad19ea14031634deeee4e6820c2e613fb215778e/README.md"
+    },
+    "upstream/notices/devices/pcb-siedle-bus/README.md": {
+      "sha256": "1d91b8e0821512f803f4090539766e387569e3c0250b634becbb3270539737c5",
+      "git_blob": "bdac6609b8fb89cb3fbb01129f6bd83bfc932337",
+      "bytes": 5461,
+      "source_url": "https://github.com/angelnu/esphome/blob/ad19ea14031634deeee4e6820c2e613fb215778e/devices/pcb-siedle-bus/README.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

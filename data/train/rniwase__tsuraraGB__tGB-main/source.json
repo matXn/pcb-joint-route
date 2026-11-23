@@ -1,0 +1,38 @@
+{
+  "repository": "rniwase/tsuraraGB",
+  "revision": "04d25e09f39777cabaa92c77b82b80f0ed53e2da",
+  "source_url": "https://github.com/rniwase/tsuraraGB/blob/04d25e09f39777cabaa92c77b82b80f0ed53e2da/pcb/main/tGB-main.kicad_pcb",
+  "source_location": "https://github.com/rniwase/tsuraraGB/tree/04d25e09f39777cabaa92c77b82b80f0ed53e2da",
+  "license": "BSD-3-Clause",
+  "license_url": "https://github.com/rniwase/tsuraraGB/blob/04d25e09f39777cabaa92c77b82b80f0ed53e2da/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/rniwase__tsuraraGB__tGB-main/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "rniwase/tsuraragb",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "21d266cc0b906c60f62881e75d351daf954a71329d9ead7aadbdbb054a3bfbc8",
+      "git_blob": "18ec90117ed432134df7b20835bb43f78fb5799a",
+      "bytes": 868567,
+      "source_url": "https://github.com/rniwase/tsuraraGB/blob/04d25e09f39777cabaa92c77b82b80f0ed53e2da/pcb/main/tGB-main.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "e58aff24e8926f6b424b4f90a1fe40919647f91d1c758561e49458fa9ccb6ab0",
+      "git_blob": "625065aa28c87e426b1d507ee8f0cac1917bc2ce",
+      "bytes": 1500,
+      "source_url": "https://github.com/rniwase/tsuraraGB/blob/04d25e09f39777cabaa92c77b82b80f0ed53e2da/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "dda9bf0ced499a2ec9808901cce41c0b0abb7aea3e92dddbfae1a348969825a5",
+      "git_blob": "8ce8fc7b0b7c9933216d77eb0fe0e79dd8b4cb4b",
+      "bytes": 12981,
+      "source_url": "https://github.com/rniwase/tsuraraGB/blob/04d25e09f39777cabaa92c77b82b80f0ed53e2da/pcb/main/tGB-main.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "7647a37a0abf03a4906ddfc3dd7f8c537d0af72e30b6a7309c6b61a87b352c10",
+      "git_blob": "998a59b66d378575f5e5539567077e63a161c305",
+      "bytes": 180,
+      "source_url": "https://github.com/rniwase/tsuraraGB/blob/04d25e09f39777cabaa92c77b82b80f0ed53e2da/README.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}

@@ -1,0 +1,38 @@
+{
+  "repository": "UzixLS/pc-ega-composite-daughterboard",
+  "revision": "107837cf62a4844f5da68296f26eb26a1904d86b",
+  "source_url": "https://github.com/UzixLS/pc-ega-composite-daughterboard/blob/107837cf62a4844f5da68296f26eb26a1904d86b/pcb/rev.A1/ega-composite-daughterboard.kicad_pcb",
+  "source_location": "https://github.com/UzixLS/pc-ega-composite-daughterboard/tree/107837cf62a4844f5da68296f26eb26a1904d86b",
+  "license": "MIT",
+  "license_url": "https://github.com/UzixLS/pc-ega-composite-daughterboard/blob/107837cf62a4844f5da68296f26eb26a1904d86b/LICENSE",
+  "catalog_source": "https://github.com/punkfab/pcb-corpus/blob/1e999b4eefd5fdfcc90dc376d2882390245a8e0d/boards/UzixLS__pc-ega-composite-daughterboard__ega-composite-daughterboard/SOURCE.json",
+  "route_provenance": "unknown",
+  "family": "uzixls/pc-ega-composite-daughterboard",
+  "source_files": {
+    "upstream/board.kicad_pcb": {
+      "sha256": "d5f147a3e4b30d931f1e7734adcd2d70a91ce3a5ea45d5d8f1fdbac15018653d",
+      "git_blob": "0396feaa35d2c91cb03f2026b704a5ba35d0798a",
+      "bytes": 694548,
+      "source_url": "https://github.com/UzixLS/pc-ega-composite-daughterboard/blob/107837cf62a4844f5da68296f26eb26a1904d86b/pcb/rev.A1/ega-composite-daughterboard.kicad_pcb"
+    },
+    "upstream/LICENSE": {
+      "sha256": "4825757b54372decb8db6dcd83d9b3e74e4bf3cb5048d3fdf79238264690e4a9",
+      "git_blob": "ab202ac9545f50ddea7125f35ba35359516aaa62",
+      "bytes": 1071,
+      "source_url": "https://github.com/UzixLS/pc-ega-composite-daughterboard/blob/107837cf62a4844f5da68296f26eb26a1904d86b/LICENSE"
+    },
+    "upstream/board.kicad_pro": {
+      "sha256": "d65f558a0c5ebf242be589287a969b5891cca1150a6357f8e23117843d859fdb",
+      "git_blob": "9bdff6becaaff690091ce34925d8fc174cdbd4da",
+      "bytes": 13850,
+      "source_url": "https://github.com/UzixLS/pc-ega-composite-daughterboard/blob/107837cf62a4844f5da68296f26eb26a1904d86b/pcb/rev.A1/ega-composite-daughterboard.kicad_pro"
+    },
+    "upstream/notices/README.md": {
+      "sha256": "7b7c8a8016a59a1a1d68dc8e397e0eeec40652ac02ddd40bf5f221346641ef73",
+      "git_blob": "88d13585aea0a298b9b7e4dbc50e7210a592ae40",
+      "bytes": 1086,
+      "source_url": "https://github.com/UzixLS/pc-ega-composite-daughterboard/blob/107837cf62a4844f5da68296f26eb26a1904d86b/README.md"
+    }
+  },
+  "geometry_note": "KiCad 10.0.6 geometry and native reference copper from the pinned upstream board. Generated local candidate paths, where supplied, are machine-generated alternatives."
+}
